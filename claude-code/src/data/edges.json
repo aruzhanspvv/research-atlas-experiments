@@ -1,0 +1,212 @@
+[
+  {
+    "from": "idea-verifiable-memory-audit",
+    "to": "paper-2607.13591",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-verifiable-memory-audit",
+    "to": "paper-2607.13884",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-verifiable-memory-audit",
+    "to": "paper-2607.13285",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-multiagent-explore-incentive",
+    "to": "paper-2607.11250",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-multiagent-explore-incentive",
+    "to": "paper-2607.13988",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-multiagent-explore-incentive",
+    "to": "paper-2607.13683",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-monitorability-preserving-rl",
+    "to": "paper-2607.09786",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-monitorability-preserving-rl",
+    "to": "paper-2607.13753",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-monitorability-preserving-rl",
+    "to": "paper-2607.08046",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-forecaster-abstention",
+    "to": "paper-2607.08046",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-forecaster-abstention",
+    "to": "paper-2607.14051",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-forecaster-abstention",
+    "to": "paper-2607.05394",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-controllable-video-worldmodel",
+    "to": "paper-2607.14088",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-controllable-video-worldmodel",
+    "to": "paper-2607.14076",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-controllable-video-worldmodel",
+    "to": "paper-2607.11594",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-reward-model-personalization",
+    "to": "paper-2607.11886",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-reward-model-personalization",
+    "to": "paper-2607.11885",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-reward-model-personalization",
+    "to": "paper-2607.13125",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-semantic-spatial-transfer",
+    "to": "paper-2607.13926",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-semantic-spatial-transfer",
+    "to": "paper-2607.11643",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-semantic-spatial-transfer",
+    "to": "paper-2607.10383",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-egocentric-dexterity-benchmark-loop",
+    "to": "paper-2607.09701",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-egocentric-dexterity-benchmark-loop",
+    "to": "paper-2607.13960",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-egocentric-dexterity-benchmark-loop",
+    "to": "paper-2607.13818",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-hallucination-aware-doc-ocr",
+    "to": "paper-2607.13639",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-hallucination-aware-doc-ocr",
+    "to": "paper-2607.10400",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-hallucination-aware-doc-ocr",
+    "to": "paper-2607.12752",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-chart-qa-evidence-audit",
+    "to": "paper-2603.28583",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-chart-qa-evidence-audit",
+    "to": "paper-2607.11862",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-chart-qa-evidence-audit",
+    "to": "paper-2607.08317",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-grokking-rank-diagnostic",
+    "to": "paper-2607.13749",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-grokking-rank-diagnostic",
+    "to": "paper-2607.12438",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-grokking-rank-diagnostic",
+    "to": "paper-2607.14018",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-fairness-bandit-transfer",
+    "to": "paper-2607.13402",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-fairness-bandit-transfer",
+    "to": "paper-2607.13414",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-fairness-bandit-transfer",
+    "to": "paper-2607.09202",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-decoding-transfer-loop",
+    "to": "paper-2607.14086",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-decoding-transfer-loop",
+    "to": "paper-2607.11445",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-decoding-transfer-loop",
+    "to": "paper-2607.13584",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-artificial-life-scientist-loop",
+    "to": "paper-2607.09211",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-artificial-life-scientist-loop",
+    "to": "paper-2607.09025",
+    "type": "derivation"
+  },
+  {
+    "from": "idea-artificial-life-scientist-loop",
+    "to": "paper-2607.11079",
+    "type": "derivation"
+  }
+]

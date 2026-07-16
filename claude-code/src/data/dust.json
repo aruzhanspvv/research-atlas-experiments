@@ -1,0 +1,3386 @@
+[
+  {
+    "id": "dust-2607.14081",
+    "title": "Linear Independent Component Analysis via Optimal Transport",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -50.415,
+        -121.675,
+        -588.521
+      ],
+      "timeline": [
+        830.685,
+        370.996,
+        -255.877
+      ],
+      "novelty": [
+        -41.761,
+        -6.237,
+        -269.146
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14072",
+    "title": "MetaPerch: Learning from metadata for bioacoustics foundation models",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1240.583,
+        148.967,
+        -239.22
+      ],
+      "timeline": [
+        830.685,
+        179.909,
+        388.285
+      ],
+      "novelty": [
+        -69.905,
+        24.008,
+        392.973
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14070",
+    "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -253.059,
+        -17.551,
+        -816.628
+      ],
+      "timeline": [
+        830.685,
+        380.214,
+        -251.558
+      ],
+      "novelty": [
+        -97.113,
+        -23.984,
+        -263.956
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14041",
+    "title": "Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1031.231,
+        5.026,
+        -0.07
+      ],
+      "timeline": [
+        830.685,
+        159.04,
+        110.645
+      ],
+      "novelty": [
+        -63.796,
+        -15.886,
+        114.294
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14037",
+    "title": "Early Adoption of Agentic Coding Tools by GitHub Projects",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -886.571,
+        -53.248,
+        -311.444
+      ],
+      "timeline": [
+        830.685,
+        300.921,
+        -380.301
+      ],
+      "novelty": [
+        -21.302,
+        -8.044,
+        -383.442
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14024",
+    "title": "Improving Wind and Solar Power Prediction with Efficient Wrapper-based Feature Selection: An Empirical Study",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -214.69,
+        39.7,
+        -132.915
+      ],
+      "timeline": [
+        830.685,
+        363.536,
+        -120.202
+      ],
+      "novelty": [
+        -3.563,
+        -5.354,
+        -111.141
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14008",
+    "title": "Lighthouse RL: Sample-Efficient Circuit Optimization via Strategic Reset Points",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -311.813,
+        -1.629,
+        -914.359
+      ],
+      "timeline": [
+        830.685,
+        328.224,
+        -248.253
+      ],
+      "novelty": [
+        -65.982,
+        -7.93,
+        -266.316
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14004",
+    "title": "Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -1336.633,
+        -31.978,
+        -161.574
+      ],
+      "timeline": [
+        830.685,
+        285.838,
+        -402.611
+      ],
+      "novelty": [
+        51.816,
+        27.326,
+        -407.389
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14001",
+    "title": "Lyapunov Exponent as Physics-Informed Dense Reward: RL Discovery of Stabilization Beyond the Kapitza Pendulum",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -423.182,
+        -45.997,
+        -503.99
+      ],
+      "timeline": [
+        830.685,
+        249.454,
+        -273.661
+      ],
+      "novelty": [
+        54.396,
+        6.682,
+        -249.618
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13984",
+    "title": "Multimodal Empirical Bayes Variational Autoencoders for Joint Longitudinal and Time-to-Event Modeling",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        564.195,
+        159.09,
+        616.713
+      ],
+      "timeline": [
+        830.685,
+        118.129,
+        144.39
+      ],
+      "novelty": [
+        -17.562,
+        14.794,
+        110.299
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13943",
+    "title": "Beyond the $d^{2.5}$-mixing bound for Dikin walks on polytopes",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        516,
+        -8.679,
+        394.234
+      ],
+      "timeline": [
+        830.685,
+        142.485,
+        276.617
+      ],
+      "novelty": [
+        -7.47,
+        1.5,
+        244.087
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13936",
+    "title": "A novel unsupervised machine learning strategy to handle multimodal cardiac PET/MRI data",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        617.498,
+        48.362,
+        346.612
+      ],
+      "timeline": [
+        830.685,
+        80.007,
+        147.956
+      ],
+      "novelty": [
+        -25.973,
+        -0.4,
+        120.191
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13929",
+    "title": "VAIOM: Continuous-Input, Discrete-Output Decoder-Only Financial Sequence Modeling",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        598.529,
+        -57.899,
+        -603.031
+      ],
+      "timeline": [
+        830.685,
+        145.388,
+        -8.784
+      ],
+      "novelty": [
+        -12.072,
+        -20.246,
+        6.979
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13928",
+    "title": "Plausible Deniability Guarantees for Whistleblowers",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -511.978,
+        123.986,
+        364.913
+      ],
+      "timeline": [
+        830.685,
+        170.866,
+        -119.31
+      ],
+      "novelty": [
+        -102.021,
+        4.84,
+        -122.455
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13921",
+    "title": "Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -534.035,
+        128.395,
+        -116.332
+      ],
+      "timeline": [
+        830.685,
+        97.037,
+        -132.129
+      ],
+      "novelty": [
+        -98.595,
+        27.413,
+        -136.641
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13919",
+    "title": "An Efficient Newton Algorithm for Nonnegative Matrix Factorization with the Kullback-Leibler Divergence",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -917.513,
+        -107.677,
+        -276.834
+      ],
+      "timeline": [
+        830.685,
+        102.031,
+        -373.44
+      ],
+      "novelty": [
+        -56.625,
+        -10.201,
+        -407.157
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13905",
+    "title": "The 2nd International StepUP Competition for Biometric Footstep Recognition: From Steps to Strides",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1528.599,
+        130.522,
+        -440.978
+      ],
+      "timeline": [
+        830.685,
+        132.6,
+        373.494
+      ],
+      "novelty": [
+        -21.478,
+        -5.903,
+        408.991
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13897",
+    "title": "RF Spectrogram Anomaly Detection with Quantum Kitchen Sinks: Architecture, Representation, and Hardware Validation",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        282.717,
+        -86.902,
+        -934.584
+      ],
+      "timeline": [
+        830.685,
+        103.195,
+        3.622
+      ],
+      "novelty": [
+        -66.062,
+        -26.138,
+        19.256
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13891",
+    "title": "PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1022.216,
+        -81.86,
+        -232.399
+      ],
+      "timeline": [
+        830.685,
+        151.558,
+        279.836
+      ],
+      "novelty": [
+        63.15,
+        24.674,
+        276.657
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13883",
+    "title": "Verifying formulas for interventional distributions",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1525.817,
+        161.169,
+        -631.795
+      ],
+      "timeline": [
+        830.685,
+        106.957,
+        381.82
+      ],
+      "novelty": [
+        39.699,
+        -26.163,
+        382.096
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13880",
+    "title": "Task-Oriented Sensing and Covert Transmissions for Collaborative Multi-AUV Systems",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        341.708,
+        146.278,
+        169.648
+      ],
+      "timeline": [
+        830.685,
+        67.147,
+        145.035
+      ],
+      "novelty": [
+        -23.387,
+        15.918,
+        132.488
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14040",
+    "title": "Can an Old Dog Be Taught New Tricks? Taking LLMs Beyond Sentence Level Translation",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -1416.012,
+        -77.017,
+        -174.652
+      ],
+      "timeline": [
+        830.685,
+        312.873,
+        -378.702
+      ],
+      "novelty": [
+        -22.849,
+        12.327,
+        -377.156
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13977",
+    "title": "Constraint-Aware Counterfactual Editing for Aspect-Based Sentiment Analysis",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -570.55,
+        -30.253,
+        -483.469
+      ],
+      "timeline": [
+        830.685,
+        193.217,
+        -251.981
+      ],
+      "novelty": [
+        39.614,
+        20.346,
+        -250.432
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13967",
+    "title": "DeltaMerge-LowRes: Composing Language and Task Deltas for Low-Resource Adaptation",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        197.447,
+        -14.386,
+        -793.265
+      ],
+      "timeline": [
+        830.685,
+        205.878,
+        -15.61
+      ],
+      "novelty": [
+        6.031,
+        -21.543,
+        -19.475
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13920",
+    "title": "DeepStress: Stress-Testing Deep Search Agents",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -867.484,
+        130.276,
+        -170.2
+      ],
+      "timeline": [
+        830.685,
+        172.43,
+        -388.377
+      ],
+      "novelty": [
+        -20.072,
+        5.038,
+        -392.141
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13901",
+    "title": "High-Order Question Generation in a Multilingual Educational Context",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -373.459,
+        -48.097,
+        304.193
+      ],
+      "timeline": [
+        830.685,
+        16.385,
+        -149.328
+      ],
+      "novelty": [
+        -61.577,
+        -2.519,
+        -122.1
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13854",
+    "title": "SPyCE: Skill-Policy Co-evolution for Multimodal Agents",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -855.933,
+        40.726,
+        -42.961
+      ],
+      "timeline": [
+        830.685,
+        94.12,
+        -375.793
+      ],
+      "novelty": [
+        -2.868,
+        4.647,
+        -377.952
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13782",
+    "title": "Regularity as seen by Alice and Bob",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        105.896,
+        75.749,
+        97.354
+      ],
+      "timeline": [
+        830.685,
+        -122.985,
+        -146.065
+      ],
+      "novelty": [
+        -49.894,
+        -3.99,
+        -119.159
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13721",
+    "title": "Self-supervised Speech Comparison for L2 Phone, Rhythm, and Intonation Scoring",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1460.366,
+        83.909,
+        -980.62
+      ],
+      "timeline": [
+        830.685,
+        2.98,
+        403.995
+      ],
+      "novelty": [
+        0.532,
+        -7.246,
+        400.642
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13712",
+    "title": "Groc-PO: Grounded Context Preference Optimization for Truthful Multimodal LLMs",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -470.109,
+        119.32,
+        -942.732
+      ],
+      "timeline": [
+        830.685,
+        -50.078,
+        -278.431
+      ],
+      "novelty": [
+        -103.073,
+        -14.906,
+        -264.026
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13707",
+    "title": "The Test Oracle Problem in Synthetic LLM-as-Judge Corpora: Disappearance, Distortion and a Validation Protocol",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -409.989,
+        -8.487,
+        644.559
+      ],
+      "timeline": [
+        830.685,
+        -136.44,
+        -124.839
+      ],
+      "novelty": [
+        -40.354,
+        12.103,
+        -119.43
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13643",
+    "title": "Consensus as Privileged Context for Label-Free Self-Distillation",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -338.596,
+        -67.713,
+        -990.776
+      ],
+      "timeline": [
+        830.685,
+        -150.066,
+        -269.994
+      ],
+      "novelty": [
+        31.123,
+        24.603,
+        -258.191
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13602",
+    "title": "Analogical Deep Research: Retrieving and Integrating Historical Analogies for Foresight Analysis",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -559.779,
+        74.03,
+        -248.567
+      ],
+      "timeline": [
+        830.685,
+        -30.785,
+        -409.745
+      ],
+      "novelty": [
+        -36.672,
+        21.4,
+        -378.422
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13568",
+    "title": "Graded Entity-Familiarity Readouts in Language Models: Polish Adaptation, Cross-Language Robustness, and Refusal Steering",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -170.997,
+        66.054,
+        163.521
+      ],
+      "timeline": [
+        830.685,
+        -196.124,
+        -142.001
+      ],
+      "novelty": [
+        62.417,
+        3.247,
+        -108.192
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13565",
+    "title": "UTS at ELOQUENT 2026 Voight-Kampff: structural shifts in AI writing bypass state-of-the-art detectors",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        738.177,
+        -7.528,
+        361.145
+      ],
+      "timeline": [
+        830.685,
+        -36.497,
+        142.713
+      ],
+      "novelty": [
+        42.022,
+        -14.994,
+        124.285
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13551",
+    "title": "Cost-Pragmatic Quality Gating and Selection-Fusion Multi-Model Combiners for BioASQ Phases A+ and B",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1007.58,
+        -26.056,
+        -835.736
+      ],
+      "timeline": [
+        830.685,
+        -38.814,
+        383.324
+      ],
+      "novelty": [
+        -5.943,
+        -5.931,
+        403.975
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13477",
+    "title": "Auditing Protocol-Level Shortcuts in Large Audio Language Model Judges for Speech Evaluation",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -842.788,
+        72.092,
+        -1116.332
+      ],
+      "timeline": [
+        830.685,
+        -145.212,
+        -273.628
+      ],
+      "novelty": [
+        -3.323,
+        -18.357,
+        -280.76
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13465",
+    "title": "DevicesWorld: Benchmarking Cross-Device Agents in Heterogeneous Environments",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -1081.901,
+        155.439,
+        -275.072
+      ],
+      "timeline": [
+        830.685,
+        -25.713,
+        -409.932
+      ],
+      "novelty": [
+        50.991,
+        10.492,
+        -395.408
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13457",
+    "title": "Live Gurbani Tracking: A Benchmark and Reference System for Captioning Sikh Kirtan",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -948.811,
+        3.604,
+        290.822
+      ],
+      "timeline": [
+        830.685,
+        -86.737,
+        -371.621
+      ],
+      "novelty": [
+        -17.76,
+        18.234,
+        -392.136
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13433",
+    "title": "When Rubrics Change: Cross-Rubric Generalization for Critical Thinking Essay Scoring",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        357.568,
+        -57.48,
+        -369.411
+      ],
+      "timeline": [
+        830.685,
+        -177.494,
+        -14.788
+      ],
+      "novelty": [
+        -92.197,
+        13.414,
+        9.3
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14049",
+    "title": "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -584.422,
+        20.4,
+        -942.142
+      ],
+      "timeline": [
+        830.685,
+        337.225,
+        -279.318
+      ],
+      "novelty": [
+        -59.787,
+        10.927,
+        -275.273
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14046",
+    "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -313.905,
+        197.504,
+        -271.768
+      ],
+      "timeline": [
+        830.685,
+        372.916,
+        -144.449
+      ],
+      "novelty": [
+        19.932,
+        -7.139,
+        -138.155
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14044",
+    "title": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1313.939,
+        92.211,
+        -216.834
+      ],
+      "timeline": [
+        830.685,
+        162.648,
+        372.52
+      ],
+      "novelty": [
+        49.059,
+        24.43,
+        407.483
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14006",
+    "title": "Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -592.259,
+        125.46,
+        -1049.27
+      ],
+      "timeline": [
+        830.685,
+        261.674,
+        -242.455
+      ],
+      "novelty": [
+        -14.94,
+        2.544,
+        -277.517
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13998",
+    "title": "The Dynamic Verifiable Multi-Agent Human Agentic Loyalty Loop (DVM-HALL) Model and the Net Human-Agent Score (NHAS) in Autonomous Commerce",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -1013.883,
+        70.593,
+        41.116
+      ],
+      "timeline": [
+        830.685,
+        215.892,
+        -393.999
+      ],
+      "novelty": [
+        -95.789,
+        19.85,
+        -406.949
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13978",
+    "title": "Music-to-Dance Generation via Atomic Movements",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        109.224,
+        21.132,
+        712.137
+      ],
+      "timeline": [
+        830.685,
+        248.042,
+        -138.803
+      ],
+      "novelty": [
+        28.33,
+        24.945,
+        -130.945
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13940",
+    "title": "A Self-Evolving Agent for Longitudinal Personal Health Management",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -929.839,
+        84.992,
+        -63.349
+      ],
+      "timeline": [
+        830.685,
+        220.052,
+        -378.878
+      ],
+      "novelty": [
+        -55.167,
+        -19.284,
+        -383.019
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13899",
+    "title": "AIMO Interpretability Challenge",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -200.828,
+        -28.399,
+        -634.632
+      ],
+      "timeline": [
+        830.685,
+        138.88,
+        -271.655
+      ],
+      "novelty": [
+        9.051,
+        1.219,
+        -242.659
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13881",
+    "title": "Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1046.262,
+        144.033,
+        169.011
+      ],
+      "timeline": [
+        830.685,
+        46.051,
+        132.243
+      ],
+      "novelty": [
+        -13.132,
+        10.619,
+        117.131
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13839",
+    "title": "AI-Augmented Human Resource Management? Insights from German companies",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        30.941,
+        -44.997,
+        230.298
+      ],
+      "timeline": [
+        830.685,
+        -61.802,
+        -139.391
+      ],
+      "novelty": [
+        62.342,
+        -20.614,
+        -136.089
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13837",
+    "title": "NodeImport: Imbalanced Node Classification with Node Importance Assessment",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -337.727,
+        -0.557,
+        -740.858
+      ],
+      "timeline": [
+        830.685,
+        92.95,
+        -279.581
+      ],
+      "novelty": [
+        -2.471,
+        -22.785,
+        -275.429
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13826",
+    "title": "Multimodal Assessment of Pancreatic Cancer Resectability Using Deep Learning",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        496.252,
+        11.137,
+        98.429
+      ],
+      "timeline": [
+        830.685,
+        15.347,
+        126.918
+      ],
+      "novelty": [
+        35.843,
+        27.399,
+        143.124
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13801",
+    "title": "Traffic-Aware Randomized Smoothing for LLM-Based Network Intrusion Detection",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        310.051,
+        19.544,
+        -133.084
+      ],
+      "timeline": [
+        830.685,
+        50.593,
+        -3.464
+      ],
+      "novelty": [
+        -58.379,
+        12.456,
+        -12.832
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13796",
+    "title": "CAS I: A Geometric Coding Theorem",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -1025.519,
+        47.853,
+        -33.019
+      ],
+      "timeline": [
+        830.685,
+        34.165,
+        -403.62
+      ],
+      "novelty": [
+        -73.853,
+        -26.23,
+        -371.099
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13763",
+    "title": "MxGPS: Multiplex Graph Transformers for a Power Grid Foundation Model",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -293.258,
+        41.4,
+        -905.06
+      ],
+      "timeline": [
+        830.685,
+        -0.431,
+        -255.194
+      ],
+      "novelty": [
+        48.371,
+        -20.494,
+        -243.744
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14005",
+    "title": "M$^\\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -698.234,
+        -9.323,
+        -990.751
+      ],
+      "timeline": [
+        830.685,
+        242.95,
+        -245.736
+      ],
+      "novelty": [
+        23.236,
+        -9.984,
+        -267.253
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13986",
+    "title": "Task-Specific Feature Fusion Method for Multi-Task Affective Behavior Analysis",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        440.986,
+        91.28,
+        124.639
+      ],
+      "timeline": [
+        830.685,
+        144.272,
+        149.291
+      ],
+      "novelty": [
+        -73.659,
+        -25.744,
+        131.65
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13983",
+    "title": "Screening Is Effective for Visual Recognition",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -663.716,
+        14.212,
+        235.11
+      ],
+      "timeline": [
+        830.685,
+        270.065,
+        -131.77
+      ],
+      "novelty": [
+        -95.444,
+        -25.381,
+        -129.951
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13976",
+    "title": "CF-Net: Conflict Fusion with Speaker Normalisation and Certainty Weighting for Ambivalence/Hesitancy Recognition",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -167.889,
+        100.382,
+        444.3
+      ],
+      "timeline": [
+        830.685,
+        257.968,
+        -149.817
+      ],
+      "novelty": [
+        -22.607,
+        -11.574,
+        -116.018
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13945",
+    "title": "PlumeQuant: Uncertainty-aware consistency assessment of methane plume masks and emission-rate estimates",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -524.365,
+        145.207,
+        36.296
+      ],
+      "timeline": [
+        830.685,
+        227.545,
+        -131.481
+      ],
+      "novelty": [
+        -24.32,
+        5.745,
+        -149.448
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13941",
+    "title": "Peak-End-Net: A Peak-End Rule Inspired Framework for Generalizable Video Aesthetic Assessment",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        15.434,
+        143.862,
+        -71.561
+      ],
+      "timeline": [
+        830.685,
+        175.31,
+        -121.84
+      ],
+      "novelty": [
+        18.905,
+        22.903,
+        -126.66
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13931",
+    "title": "SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -718.215,
+        -60.523,
+        -544.377
+      ],
+      "timeline": [
+        830.685,
+        169.32,
+        -253.645
+      ],
+      "novelty": [
+        -18.301,
+        22.038,
+        -278.883
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13925",
+    "title": "Thresholded Cross-Attention for Reliable Intensity-Chromaticity Fusion in Low-Light Image Enhancement",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -318.932,
+        82.921,
+        480.987
+      ],
+      "timeline": [
+        830.685,
+        136.696,
+        -146.359
+      ],
+      "novelty": [
+        -72.654,
+        3.82,
+        -129.239
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13892",
+    "title": "Fine-Grained Vision-Language Pretraining with Organ-Conditioned Pattern Tokens for CT Understanding",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -395.531,
+        95.693,
+        453.745
+      ],
+      "timeline": [
+        830.685,
+        -8.699,
+        -128.784
+      ],
+      "novelty": [
+        -42.133,
+        -8.401,
+        -125.04
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13860",
+    "title": "Towards Enhancing 3D Spatial Reasoning in Medical Multimodal Large Language Models",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -290.857,
+        102.519,
+        -966.452
+      ],
+      "timeline": [
+        830.685,
+        107.958,
+        -262.105
+      ],
+      "novelty": [
+        -80.925,
+        27.458,
+        -242.849
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13830",
+    "title": "Recursive ArUco Markers: A Scalable Fiducial Marker Design for Unmanned Aerial Vehicle Landing Pads",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        554.199,
+        0.355,
+        -242.495
+      ],
+      "timeline": [
+        830.685,
+        48.915,
+        -3.049
+      ],
+      "novelty": [
+        -47.417,
+        -18.513,
+        -18.296
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13812",
+    "title": "TCAM-Diff: Triplane-Aware Cross-Attention Medical Diffusion Model",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -1133.803,
+        92.813,
+        -202.012
+      ],
+      "timeline": [
+        830.685,
+        90.243,
+        -390.285
+      ],
+      "novelty": [
+        -106.83,
+        25.735,
+        -402.781
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13808",
+    "title": "Bake It Till You Make It: Ultrafast Spatial Texture-Atlas Splatting",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1775.966,
+        102.733,
+        -435.363
+      ],
+      "timeline": [
+        830.685,
+        62.657,
+        393.746
+      ],
+      "novelty": [
+        -11.413,
+        18.264,
+        375.026
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13805",
+    "title": "AspectCLIP: Optimizing CLIP Representation Space via Aspect-Guided Consistency Regularization",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -460.305,
+        -146.445,
+        -740.41
+      ],
+      "timeline": [
+        830.685,
+        11.169,
+        -241.986
+      ],
+      "novelty": [
+        -98.227,
+        -17.989,
+        -262.634
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13802",
+    "title": "RainDancer: RGB-Event Video Deraining with Rain-Oriented Spiking Dynamics",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -66.369,
+        -65.727,
+        451.338
+      ],
+      "timeline": [
+        830.685,
+        -118.684,
+        -130.378
+      ],
+      "novelty": [
+        -42.581,
+        22.274,
+        -113.86
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14021",
+    "title": "Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        611.386,
+        87.172,
+        -698.693
+      ],
+      "timeline": [
+        830.685,
+        209.546,
+        -6.359
+      ],
+      "novelty": [
+        -62.373,
+        25.516,
+        21.764
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14009",
+    "title": "AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -478.532,
+        145.284,
+        -195.156
+      ],
+      "timeline": [
+        830.685,
+        296.17,
+        -138.94
+      ],
+      "novelty": [
+        -41.951,
+        2.794,
+        -114.505
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13938",
+    "title": "Discriminative Barrier Functions for Safe Adversarial Imitation Learning from Observation",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -691.69,
+        -38.722,
+        261.314
+      ],
+      "timeline": [
+        830.685,
+        159.632,
+        -374.832
+      ],
+      "novelty": [
+        13.671,
+        -3.72,
+        -376.187
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13882",
+    "title": "Learning Forward &amp; Reverse Skills from a Single Unfinished Demonstration for Constrained Manipulation Tasks",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        26.744,
+        -156.058,
+        -242.795
+      ],
+      "timeline": [
+        830.685,
+        77.931,
+        13.724
+      ],
+      "novelty": [
+        -83.527,
+        2.602,
+        3.118
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13853",
+    "title": "Merging Reaction to Cognition: A Hybrid Cognitive Strategy for Odour Source Localisation in Natural Environments",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -55.043,
+        93.478,
+        288.751
+      ],
+      "timeline": [
+        830.685,
+        -5.766,
+        -136.921
+      ],
+      "novelty": [
+        46.285,
+        -23.782,
+        -141.101
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13806",
+    "title": "A Deployed Hybrid Vehicle-in-the-Loop Platform for Validating Cooperative Perception",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -379.826,
+        -52.799,
+        -460.076
+      ],
+      "timeline": [
+        830.685,
+        53.305,
+        -270.473
+      ],
+      "novelty": [
+        -42.714,
+        11.145,
+        -272.016
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13799",
+    "title": "Vision-Based Obstacle Separation for Strawberry Harvesting in Clusters Using Hierarchical Reinforcement Learning",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        769.794,
+        -1.387,
+        -379.286
+      ],
+      "timeline": [
+        830.685,
+        105.612,
+        263.483
+      ],
+      "novelty": [
+        27.593,
+        -6.129,
+        268.694
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13789",
+    "title": "Dynamical Vehicle Orienteering Problem for Multi-Rotor Unmanned Aerial Vehicles",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        674.563,
+        42.913,
+        -33.023
+      ],
+      "timeline": [
+        830.685,
+        72.864,
+        263.715
+      ],
+      "novelty": [
+        -63.708,
+        -23.224,
+        242.155
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13768",
+    "title": "The Nonsmooth Impact Direction (NSID) of Robotic Systems",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -175.7,
+        -93.784,
+        -330.984
+      ],
+      "timeline": [
+        830.685,
+        -7.1,
+        -5.403
+      ],
+      "novelty": [
+        17.958,
+        -8.98,
+        3.316
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13704",
+    "title": "nuTruck: Benchmarking Autonomous Driving Planning for Distributed Electric-drive Trucks",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -227.226,
+        84.227,
+        -896.23
+      ],
+      "timeline": [
+        830.685,
+        -34.554,
+        -268.456
+      ],
+      "novelty": [
+        -14.803,
+        24.299,
+        -264.146
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13698",
+    "title": "Towards a Modular Bin-picking Framework for Handling Object Pose Uncertainties",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -49.623,
+        -43.884,
+        -706.928
+      ],
+      "timeline": [
+        830.685,
+        -34.654,
+        -13.1
+      ],
+      "novelty": [
+        60.395,
+        -8.467,
+        -0.834
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13696",
+    "title": "Anatomy of Uncertainty: Expressive Descriptors of Robotic Manipulator Motion for Non-verbal Communication in Human-Robot Collaboration",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        773.38,
+        27.316,
+        -375.008
+      ],
+      "timeline": [
+        830.685,
+        -70.842,
+        -8.267
+      ],
+      "novelty": [
+        -71.93,
+        -14.796,
+        -13.827
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13674",
+    "title": "WAVE-Stereo: Warp-Aligned Volume Encoding for Stereo Matching",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -818.753,
+        -76.227,
+        -872.712
+      ],
+      "timeline": [
+        830.685,
+        -78.051,
+        -269.323
+      ],
+      "novelty": [
+        44.946,
+        -21.585,
+        -248.547
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13633",
+    "title": "Design and Control of the \"QuadBoat\": A Quadruped Surface Vehicle for Drowning Rescue",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        45.915,
+        24.973,
+        -178.169
+      ],
+      "timeline": [
+        830.685,
+        -80.311,
+        -13.667
+      ],
+      "novelty": [
+        23.652,
+        -7.571,
+        -17.316
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13626",
+    "title": "Unifying Decision-Making and Trajectory-Planning in Unsignalized Intersections Using Time-Varying Potential Fields",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -549.863,
+        152.427,
+        -183.256
+      ],
+      "timeline": [
+        830.685,
+        -2.203,
+        -382.264
+      ],
+      "novelty": [
+        -12.993,
+        0.474,
+        -386.057
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13624",
+    "title": "From Language to Navigation Goals: A Vision-Language Approach for Semantic Navigation of Mobile Robots Using RGB-D Perception",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        561.29,
+        -25.943,
+        -470.547
+      ],
+      "timeline": [
+        830.685,
+        -147.699,
+        -12.649
+      ],
+      "novelty": [
+        -19.416,
+        25.152,
+        -11.008
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13622",
+    "title": "Design, Modeling and Experimental Validation of a Miniature Hybrid Underwater Glider With Large-Range Foldable Deflectable Wings",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        798.958,
+        -89.074,
+        1.599
+      ],
+      "timeline": [
+        830.685,
+        37.613,
+        257.724
+      ],
+      "novelty": [
+        -47.774,
+        -14.034,
+        258.92
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13605",
+    "title": "An Empirical Study on Stage-Information Interfaces for VLA Fine-Tuning",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        301.349,
+        -7.95,
+        -695.235
+      ],
+      "timeline": [
+        830.685,
+        -160.582,
+        -18.446
+      ],
+      "novelty": [
+        53.556,
+        0.219,
+        -0.002
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14027",
+    "title": "SPECS: Speciated Evolutionary Circuit Synthesis",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        478.685,
+        65.923,
+        325.029
+      ],
+      "timeline": [
+        830.685,
+        181.232,
+        268.023
+      ],
+      "novelty": [
+        25.583,
+        -15.318,
+        272.019
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13911",
+    "title": "How to Guide LLM Generation: Dual-Surrogate Guided Search for Automated Heuristic Design",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -80.095,
+        147.605,
+        135.461
+      ],
+      "timeline": [
+        830.685,
+        60.969,
+        -124.513
+      ],
+      "novelty": [
+        41.785,
+        -27.372,
+        -114.479
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13764",
+    "title": "S-CARD-CMSA: A Score-Aware Candidate Archive with Density-Filtered Reporting for Multimodal Optimization",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        567.523,
+        -75.878,
+        195.559
+      ],
+      "timeline": [
+        830.685,
+        11.21,
+        112.398
+      ],
+      "novelty": [
+        -18.235,
+        26.243,
+        110.004
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13644",
+    "title": "Evaluating Encoding Strategies for Closed-Loop Classification in Biological Neural Networks",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -442.533,
+        -90.871,
+        -415.315
+      ],
+      "timeline": [
+        830.685,
+        -121.901,
+        -266.584
+      ],
+      "novelty": [
+        -64.527,
+        1.721,
+        -248.399
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13377",
+    "title": "The impact of objective interactions on the performance of massive objective optimization algorithms",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1343.809,
+        -110.073,
+        202.548
+      ],
+      "timeline": [
+        830.685,
+        -6.74,
+        252.056
+      ],
+      "novelty": [
+        1.273,
+        -0.128,
+        280.406
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13200",
+    "title": "Hybrid multi-objective evolutionary algorithms for service placement in the computing continuum: a comparative study with genetic traceability",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "pos": {
+      "galaxy": [
+        1305.557,
+        23.585,
+        -709.96
+      ],
+      "timeline": [
+        828.493,
+        -92.64,
+        384.372
+      ],
+      "novelty": [
+        65.468,
+        -2.75,
+        381.896
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12901",
+    "title": "A 32-channel event-based bio-signal analog front-end with adaptive delta and pulse frequency encoding",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "pos": {
+      "galaxy": [
+        1335.641,
+        138.887,
+        -438.506
+      ],
+      "timeline": [
+        828.493,
+        -115.615,
+        374.172
+      ],
+      "novelty": [
+        -32.015,
+        1.846,
+        387.224
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12240",
+    "title": "A new dual-population constrained multi-objective evolutionary optimization algorithm with repair constraint handling for structural optimization",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "pos": {
+      "galaxy": [
+        1096.629,
+        -3.728,
+        -104.593
+      ],
+      "timeline": [
+        828.493,
+        -141.95,
+        273.766
+      ],
+      "novelty": [
+        -71.003,
+        -4.319,
+        243.387
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.11826",
+    "title": "Transformer-Guided Swarm Intelligence for Frugal Neural Architecture Search",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "pos": {
+      "galaxy": [
+        1237.779,
+        50.01,
+        -49.428
+      ],
+      "timeline": [
+        826.301,
+        -131.202,
+        247.489
+      ],
+      "novelty": [
+        -100.021,
+        -22.052,
+        278.459
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.11821",
+    "title": "Representing the Non-dominated Set of Multi-objective Network Problems by Supported Non-dominated Points",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "pos": {
+      "galaxy": [
+        1004.185,
+        -61.262,
+        -263.84
+      ],
+      "timeline": [
+        826.301,
+        -182.584,
+        250.164
+      ],
+      "novelty": [
+        16.815,
+        -16.43,
+        274.423
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.10041",
+    "title": "Adaptive Search in Collatz Exponent-Code Space via 2-adic and 3-adic Constraints",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5246575342467,
+    "pos": {
+      "galaxy": [
+        187.586,
+        -11.251,
+        -931.301
+      ],
+      "timeline": [
+        819.726,
+        -214.311,
+        -4.234
+      ],
+      "novelty": [
+        -25.681,
+        25.484,
+        11.026
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.10021",
+    "title": "A Symbolic Neural CPU for Quantization-Simulated Writeback and Interpretable Program Execution",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5246575342467,
+    "pos": {
+      "galaxy": [
+        264.586,
+        96.313,
+        119.02
+      ],
+      "timeline": [
+        819.726,
+        -337.433,
+        -148.325
+      ],
+      "novelty": [
+        29.304,
+        -15.885,
+        -118.424
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.07854",
+    "title": "Sampling on Random Subspaces under Limited Data in the Context of Exploratory Landscape Analysis",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5191780821917,
+    "pos": {
+      "galaxy": [
+        308.674,
+        24.16,
+        173.778
+      ],
+      "timeline": [
+        815.342,
+        -134.785,
+        141.833
+      ],
+      "novelty": [
+        -34.076,
+        -17.123,
+        129.307
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.14064",
+    "title": "Minimax Theory of Likelihood-Based Deep Learning for Speckle Regression",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        893.301,
+        32.419,
+        -495.462
+      ],
+      "timeline": [
+        830.685,
+        204.617,
+        271.734
+      ],
+      "novelty": [
+        52.829,
+        7.744,
+        243.521
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13841",
+    "title": "Heavy-Tailed Flow Matching via Random Clocks",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        -306.181,
+        242.54,
+        -303.001
+      ],
+      "timeline": [
+        830.685,
+        -61.415,
+        -145.015
+      ],
+      "novelty": [
+        -87.242,
+        5.686,
+        -145.716
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13731",
+    "title": "DAGR: State-Conditioned Goal Representations via Difference-Aware Goal Cross-Attention",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        420.934,
+        -110.906,
+        -390.853
+      ],
+      "timeline": [
+        830.685,
+        -4.12,
+        7.835
+      ],
+      "novelty": [
+        -100.953,
+        -2.234,
+        6.36
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13728",
+    "title": "Cluster with Auctions for Vector Search",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1417.119,
+        122.858,
+        -573.471
+      ],
+      "timeline": [
+        830.685,
+        40.608,
+        400.097
+      ],
+      "novelty": [
+        59.558,
+        -20.803,
+        377.004
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13609",
+    "title": "Gauge-Invariant, Parameter-Insensitive Regularization for Potential Recovery from Flow on Directed Graphs",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1018.483,
+        12.849,
+        -1005.465
+      ],
+      "timeline": [
+        830.685,
+        -15.398,
+        409.191
+      ],
+      "novelty": [
+        -19.748,
+        7.198,
+        397.179
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13550",
+    "title": "Parallel gradient boosting for flexible estimation of conditional distributions",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "pos": {
+      "galaxy": [
+        1207.653,
+        -21.739,
+        -168.104
+      ],
+      "timeline": [
+        830.685,
+        4.428,
+        249.567
+      ],
+      "novelty": [
+        -108.936,
+        -12.476,
+        281.5
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12975",
+    "title": "Ensemble Controlled-Flow Filtering for Implicit Data Assimilation",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "pos": {
+      "galaxy": [
+        1384.275,
+        -93.813,
+        -585.944
+      ],
+      "timeline": [
+        828.493,
+        -36.523,
+        268.988
+      ],
+      "novelty": [
+        22.303,
+        -15.388,
+        247.011
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12938",
+    "title": "Sharp Optimal Algorithm for Derivative-Free Stochastic Convex Optimization in One Dimension",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "pos": {
+      "galaxy": [
+        1078.198,
+        -88.301,
+        330.521
+      ],
+      "timeline": [
+        828.493,
+        -48.29,
+        269.867
+      ],
+      "novelty": [
+        -62.82,
+        -11.838,
+        249.461
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12922",
+    "title": "LatentFlow: A General Framework for Conditioning Stochastic Processes",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "pos": {
+      "galaxy": [
+        1005.218,
+        -31.419,
+        -300.201
+      ],
+      "timeline": [
+        828.493,
+        -85.299,
+        245.744
+      ],
+      "novelty": [
+        56.265,
+        27.138,
+        255.121
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12902",
+    "title": "Accelerated Mixing Time of Randomized Hamiltonian Monte Carlo",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "pos": {
+      "galaxy": [
+        -403.272,
+        -83.118,
+        -713.623
+      ],
+      "timeline": [
+        828.493,
+        -201.242,
+        -242.646
+      ],
+      "novelty": [
+        3.476,
+        6.508,
+        -247.515
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12833",
+    "title": "ANGLE: Angular Neural Generative Learning via Engression",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "pos": {
+      "galaxy": [
+        -323.743,
+        140.773,
+        252.396
+      ],
+      "timeline": [
+        828.493,
+        -205.829,
+        -128.048
+      ],
+      "novelty": [
+        -85.533,
+        4.339,
+        -125.519
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12832",
+    "title": "Contrast-Free ICA and Causal Inference via Wasserstein Distances to the Gaussian",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "pos": {
+      "galaxy": [
+        1624.195,
+        -51.779,
+        -874.048
+      ],
+      "timeline": [
+        828.493,
+        -114.385,
+        375.791
+      ],
+      "novelty": [
+        -49.826,
+        -24.741,
+        382.094
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12830",
+    "title": "MixCIT: A Kernel Based Local-Polynomial Debiased Test for Conditional Independence on Mixed-Type Data",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "pos": {
+      "galaxy": [
+        1310.684,
+        135.883,
+        -749.911
+      ],
+      "timeline": [
+        828.493,
+        -133.608,
+        385.133
+      ],
+      "novelty": [
+        -52.388,
+        23.236,
+        391.895
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12579",
+    "title": "Wasserstein gradient flows for Coulomb discrepancies",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "pos": {
+      "galaxy": [
+        -1000.535,
+        87.92,
+        -882.67
+      ],
+      "timeline": [
+        828.493,
+        -209.793,
+        -276.079
+      ],
+      "novelty": [
+        2.75,
+        4.885,
+        -239.268
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12417",
+    "title": "PolarBM: Complex-valued Boltzmann Machine for Modeling Audio Signals in Polar and Log-polar Coordinates",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "pos": {
+      "galaxy": [
+        882.138,
+        -44.697,
+        586.429
+      ],
+      "timeline": [
+        828.493,
+        -93.588,
+        133.517
+      ],
+      "novelty": [
+        -79.409,
+        20.847,
+        112.133
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12477",
+    "title": "Self in Space: Benchmarking Self-Awareness and Spatial Cognition in UAV Embodied Intelligence",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "pos": {
+      "galaxy": [
+        -553.14,
+        -79.93,
+        -890.417
+      ],
+      "timeline": [
+        826.301,
+        -234.506,
+        -279.462
+      ],
+      "novelty": [
+        -13.186,
+        16.662,
+        -240.238
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13250",
+    "title": "AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "pos": {
+      "galaxy": [
+        359.436,
+        -46.607,
+        626.253
+      ],
+      "timeline": [
+        826.301,
+        -91.699,
+        110.378
+      ],
+      "novelty": [
+        35.837,
+        0.883,
+        125.918
+      ]
+    }
+  },
+  {
+    "id": "dust-2605.10834",
+    "title": "From Controlled to the Wild: Evaluation of Pentesting Agents for the Real-World",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "pos": {
+      "galaxy": [
+        -612.499,
+        42.512,
+        -491.652
+      ],
+      "timeline": [
+        826.301,
+        -316.149,
+        -397.119
+      ],
+      "novelty": [
+        -78.828,
+        -25.9,
+        -398.5
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.13027",
+    "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "pos": {
+      "galaxy": [
+        -945.883,
+        106.121,
+        -324.3
+      ],
+      "timeline": [
+        826.301,
+        -109.62,
+        -372.052
+      ],
+      "novelty": [
+        47.869,
+        -25.391,
+        -374.824
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.11523",
+    "title": "Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "pos": {
+      "galaxy": [
+        -453.464,
+        64.063,
+        188.004
+      ],
+      "timeline": [
+        826.301,
+        -286.348,
+        -145.1
+      ],
+      "novelty": [
+        63.795,
+        -21.165,
+        -143.815
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12000",
+    "title": "MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5301369863014,
+    "pos": {
+      "galaxy": [
+        -35.754,
+        82.046,
+        77.681
+      ],
+      "timeline": [
+        824.11,
+        -246.844,
+        -125.48
+      ],
+      "novelty": [
+        -58.565,
+        8.211,
+        -139.422
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.05910",
+    "title": "PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5164383561644,
+    "pos": {
+      "galaxy": [
+        -572.908,
+        20.11,
+        -792.104
+      ],
+      "timeline": [
+        813.151,
+        -371.393,
+        -254.471
+      ],
+      "novelty": [
+        26.461,
+        27.003,
+        -240.018
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12625",
+    "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "pos": {
+      "galaxy": [
+        -952.636,
+        20.819,
+        -496.219
+      ],
+      "timeline": [
+        828.493,
+        -114.15,
+        -388.707
+      ],
+      "novelty": [
+        39.591,
+        -18.612,
+        -382.821
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.12463",
+    "title": "Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "pos": {
+      "galaxy": [
+        -1128.071,
+        68.156,
+        -334.538
+      ],
+      "timeline": [
+        826.301,
+        -141.634,
+        -388.184
+      ],
+      "novelty": [
+        -72.908,
+        -9.511,
+        -382.057
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.05382",
+    "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5191780821917,
+    "pos": {
+      "galaxy": [
+        -1015.704,
+        73.624,
+        -626.749
+      ],
+      "timeline": [
+        815.342,
+        -302.096,
+        -388.51
+      ],
+      "novelty": [
+        -86.18,
+        -21.342,
+        -374.517
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.08168",
+    "title": "MuScriptor: An Open Model for Multi-Instrument Music Transcription",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5191780821917,
+    "pos": {
+      "galaxy": [
+        1243.623,
+        83.016,
+        -787.504
+      ],
+      "timeline": [
+        815.342,
+        -178.31,
+        373.943
+      ],
+      "novelty": [
+        -69.572,
+        -3.896,
+        398.007
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.10522",
+    "title": "Towards Autonomous and Auditable Medical Imaging Model Development",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.527397260274,
+    "pos": {
+      "galaxy": [
+        -846.65,
+        -56.085,
+        -251.011
+      ],
+      "timeline": [
+        821.918,
+        -246.043,
+        -384.764
+      ],
+      "novelty": [
+        -70.544,
+        5.452,
+        -374.339
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.07769",
+    "title": "Principled Analysis of Deep Reinforcement Learning Evaluation and Design Paradigms",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5164383561644,
+    "pos": {
+      "galaxy": [
+        -353.975,
+        68.934,
+        -106.749
+      ],
+      "timeline": [
+        813.151,
+        -403.303,
+        -144.218
+      ],
+      "novelty": [
+        -90.863,
+        22.759,
+        -149.02
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.11111",
+    "title": "Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5301369863014,
+    "pos": {
+      "galaxy": [
+        -1194.435,
+        58.171,
+        -317.932
+      ],
+      "timeline": [
+        824.11,
+        -230.596,
+        -377.285
+      ],
+      "novelty": [
+        13.497,
+        -2.122,
+        -408.274
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.11736",
+    "title": "MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "pos": {
+      "galaxy": [
+        -800.335,
+        46.581,
+        -489.716
+      ],
+      "timeline": [
+        826.301,
+        -300.281,
+        -272.493
+      ],
+      "novelty": [
+        -26.778,
+        9.896,
+        -253.674
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.11505",
+    "title": "Proxy Exploration and Reusable Guidance: A Modular LLM Post-Training Paradigm via Proxy-Guided Update Signals",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "pos": {
+      "galaxy": [
+        903.386,
+        -34.37,
+        -14.174
+      ],
+      "timeline": [
+        826.301,
+        -230.183,
+        265.48
+      ],
+      "novelty": [
+        51.577,
+        11.526,
+        238.04
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.09362",
+    "title": "CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5246575342467,
+    "pos": {
+      "galaxy": [
+        -483.431,
+        -75.378,
+        -684.856
+      ],
+      "timeline": [
+        819.726,
+        -342.898,
+        -249.321
+      ],
+      "novelty": [
+        -104.951,
+        -13.268,
+        -280.577
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.09125",
+    "title": "4D Human-Scene Reconstruction from Low-Overlap Captures",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5246575342467,
+    "pos": {
+      "galaxy": [
+        -623.228,
+        -222.297,
+        -957.981
+      ],
+      "timeline": [
+        819.726,
+        -346.603,
+        -259.817
+      ],
+      "novelty": [
+        -82.06,
+        26.019,
+        -256.942
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.11644",
+    "title": "Motion4Motion: Motion Transfer Across Subjects at Inference",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "pos": {
+      "galaxy": [
+        -278.69,
+        155.714,
+        340.925
+      ],
+      "timeline": [
+        826.301,
+        -263.582,
+        -138.562
+      ],
+      "novelty": [
+        32.695,
+        -8.827,
+        -122.217
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.10623",
+    "title": "LATO.2: Factorized 3D Mesh Generation with Vertex and Topology Flow",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5301369863014,
+    "pos": {
+      "galaxy": [
+        111.306,
+        -61.387,
+        553.889
+      ],
+      "timeline": [
+        824.11,
+        -298.404,
+        -134.222
+      ],
+      "novelty": [
+        -37.426,
+        2.045,
+        -124.456
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.11849",
+    "title": "AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "pos": {
+      "galaxy": [
+        -416.607,
+        -14.558,
+        -586.155
+      ],
+      "timeline": [
+        826.301,
+        -280.092,
+        -257.567
+      ],
+      "novelty": [
+        4.04,
+        -25.642,
+        -262.876
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.11487",
+    "title": "LightMem-Ego: Your AI Memory for Everyday Life",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "pos": {
+      "galaxy": [
+        -1102.166,
+        -2.714,
+        -139.094
+      ],
+      "timeline": [
+        826.301,
+        -178.496,
+        -372.742
+      ],
+      "novelty": [
+        14.362,
+        -11.561,
+        -385.828
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.07673",
+    "title": "MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5164383561644,
+    "pos": {
+      "galaxy": [
+        547.696,
+        -24.207,
+        484.417
+      ],
+      "timeline": [
+        813.151,
+        -169.404,
+        149.72
+      ],
+      "novelty": [
+        -108.166,
+        27.636,
+        115.869
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.06957",
+    "title": "Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5164383561644,
+    "pos": {
+      "galaxy": [
+        -1350.444,
+        14.619,
+        -266.836
+      ],
+      "timeline": [
+        813.151,
+        -287.555,
+        -391.224
+      ],
+      "novelty": [
+        -106.961,
+        7.161,
+        -377.47
+      ]
+    }
+  },
+  {
+    "id": "dust-2607.06374",
+    "title": "VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.513698630137,
+    "pos": {
+      "galaxy": [
+        613.277,
+        67.432,
+        408.888
+      ],
+      "timeline": [
+        810.959,
+        -158.619,
+        140.873
+      ],
+      "novelty": [
+        30.48,
+        21.54,
+        124.059
+      ]
+    }
+  }
+]

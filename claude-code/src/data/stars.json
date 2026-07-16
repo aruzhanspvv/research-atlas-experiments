@@ -1,0 +1,3695 @@
+[
+  {
+    "id": "paper-2607.13591",
+    "type": "paper",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Memory as a Controlled Process: Learned Adaptive Memory Management for LLM Agents",
+    "authors": [
+      "Eric Hanchen Jiang",
+      "Zhi Zhang",
+      "Yuchen Wu",
+      "Levina Li",
+      "Dong Liu",
+      "Xiao Liang",
+      "Rui Sun",
+      "Yubei Li",
+      "Edward Sun",
+      "Haozheng Luo",
+      "Zhaolu Kang",
+      "Aylin Caliskan",
+      "Kai-Wei Chang",
+      "Ying Nian Wu"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13591",
+    "url": "https://arxiv.org/abs/2607.13591",
+    "oneLiner": "Large Language Model (LLM) agents increasingly rely on external memory systems to accumulate experience across tasks.",
+    "relatedIdeas": [
+      "idea-verifiable-memory-audit"
+    ],
+    "pos": {
+      "galaxy": [
+        -1063.167,
+        -21.115,
+        -262.678
+      ],
+      "timeline": [
+        830.685,
+        37.261,
+        -402.056
+      ],
+      "novelty": [
+        0,
+        34.693,
+        -401.566
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13683",
+    "type": "paper",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Self-Evolving Agent Harnesses via Gated Semantic Quality-Diversity",
+    "authors": [
+      "Xiaotian Luo",
+      "Fengxingyu Wang",
+      "Chuanrui Hu",
+      "Dizhan Xue",
+      "Yafeng Deng"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13683",
+    "url": "https://arxiv.org/abs/2607.13683",
+    "oneLiner": "An LLM agent's real-task performance is shaped as much by the harness around its model as by the frozen model itself: its prompts, injected knowledge, runtime control, and configuration.",
+    "relatedIdeas": [
+      "idea-multiagent-explore-incentive"
+    ],
+    "pos": {
+      "galaxy": [
+        -1037.268,
+        -35.098,
+        -357.179
+      ],
+      "timeline": [
+        830.685,
+        99.645,
+        -377.091
+      ],
+      "novelty": [
+        0,
+        84.025,
+        -400.585
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13474",
+    "type": "paper",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "MyAG: A Graph-Based Framework for Designing and Analyzing Composable LLM Agent Systems",
+    "authors": [
+      "Zhisong Zhang"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13474",
+    "url": "https://arxiv.org/abs/2607.13474",
+    "oneLiner": "We present MyAG, a graph-based framework for designing and analyzing composable LLM agent systems.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        -944.466,
+        1.016,
+        -380.937
+      ],
+      "timeline": [
+        830.685,
+        30.905,
+        -388.765
+      ],
+      "novelty": [
+        0,
+        26.216,
+        -373.979
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13104",
+    "type": "paper",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+    "authors": [
+      "Zhe Ren",
+      "Yimeng Chen",
+      "Dandan Guo",
+      "Guowei Rong",
+      "Tonghui Li",
+      "R. B. Xiong",
+      "Qingfeng Lan",
+      "Wenyi Wang",
+      "Li Nanbo",
+      "Yibo Yang",
+      "Mingchen Zhuge",
+      "Jürgen Schmidhuber"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13104",
+    "url": "https://arxiv.org/abs/2607.13104",
+    "oneLiner": "Self-improving autonomous agents are moving from research prototypes to deployed systems.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        -1009.072,
+        137.344,
+        -304.768
+      ],
+      "timeline": [
+        826.301,
+        -19.362,
+        -395.335
+      ],
+      "novelty": [
+        0,
+        -33.298,
+        -383.495
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13884",
+    "type": "paper",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Experience Memory Graph: One-Shot Error Correction for Agents",
+    "authors": [
+      "Wenjun Wang",
+      "Yuchen Fang",
+      "Fengrui Liu",
+      "Zibo Liang",
+      "Kai Zheng"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13884",
+    "url": "https://arxiv.org/abs/2607.13884",
+    "oneLiner": "Large Language Model (LLM) agents have shown remarkable capabilities in autonomous decision-making by generating sequential trajectories of states, actions, and observations.",
+    "relatedIdeas": [
+      "idea-verifiable-memory-audit"
+    ],
+    "pos": {
+      "galaxy": [
+        -1052.852,
+        83.7,
+        -227.6
+      ],
+      "timeline": [
+        830.685,
+        104.353,
+        -391.222
+      ],
+      "novelty": [
+        0,
+        99.328,
+        -398.766
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13285",
+    "type": "paper",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
+    "authors": [
+      "Ruhan Wang",
+      "Yucheng Shi",
+      "Zongxia Li",
+      "Zhongzhi Li",
+      "Yue Yu",
+      "Junyao Yang",
+      "Kishan Panaganti",
+      "Haitao Mi",
+      "Dongruo Zhou",
+      "Leoweiliang"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13285",
+    "url": "https://arxiv.org/abs/2607.13285",
+    "oneLiner": "The capability of a modern AI agent depends not only on its foundation model but also on its harness, which constructs prompts, manages state, invokes tools, and coordinates execution.",
+    "relatedIdeas": [
+      "idea-verifiable-memory-audit"
+    ],
+    "pos": {
+      "galaxy": [
+        -988.296,
+        1.233,
+        -198.841
+      ],
+      "timeline": [
+        826.301,
+        27.541,
+        -380.69
+      ],
+      "novelty": [
+        0,
+        -9.9,
+        -403.551
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.11250",
+    "type": "paper",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Multi-Agent LLMs Fail to Explore Each Other",
+    "authors": [
+      "Hyeong Kyu Choi",
+      "Jiatong Li",
+      "Wendi Li",
+      "Xin Eric Wang",
+      "Sharon Li"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.11250",
+    "url": "https://arxiv.org/abs/2607.11250",
+    "oneLiner": "Exploration is essential for reliable autonomy in multi-agent systems, yet it remains unclear whether large language model (LLM) agents can explore effectively when interacting with one another.",
+    "relatedIdeas": [
+      "idea-multiagent-explore-incentive"
+    ],
+    "pos": {
+      "galaxy": [
+        -1000.046,
+        37.161,
+        -295.709
+      ],
+      "timeline": [
+        826.301,
+        -30.752,
+        -401.413
+      ],
+      "novelty": [
+        0,
+        -117.995,
+        -403.594
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13988",
+    "type": "paper",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents",
+    "authors": [
+      "Leitian Tao",
+      "Baolin Peng",
+      "Wenlin Yao",
+      "Tao Ge",
+      "Hao Cheng",
+      "Mike Hang Wang",
+      "Jianfeng Gao",
+      "Sharon Li"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13988",
+    "url": "https://arxiv.org/abs/2607.13988",
+    "oneLiner": "Multi-turn agents solve complex tasks through extended sequences of tool interactions before producing a final answer, making credit assignment a fundamental challenge during post-training.",
+    "relatedIdeas": [
+      "idea-multiagent-explore-incentive"
+    ],
+    "pos": {
+      "galaxy": [
+        -945.975,
+        -31.867,
+        -285.82
+      ],
+      "timeline": [
+        830.685,
+        143.004,
+        -403.893
+      ],
+      "novelty": [
+        0,
+        130.485,
+        -383.296
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.12747",
+    "type": "paper",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Tracing Agentic Failure from the Flow of Success",
+    "authors": [
+      "Samuel Yeh",
+      "Yiwen Zhu",
+      "Shaleen Deep",
+      "Sharon Li"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.12747",
+    "url": "https://arxiv.org/abs/2607.12747",
+    "oneLiner": "Failure attribution for LLM-based agentic systems, i.e., identifying which steps in a failure trajectory caused the task to fail, is critical for debugging and improving these systems.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        -1088.458,
+        61.26,
+        -329.37
+      ],
+      "timeline": [
+        826.301,
+        -41.12,
+        -393.304
+      ],
+      "novelty": [
+        0,
+        -93.961,
+        -373.091
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.07702",
+    "type": "paper",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5164383561644,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+    "authors": [
+      "Ying Chang",
+      "Jiahang Xu",
+      "Xuan Feng",
+      "Chenyuan Yang",
+      "Peng Cheng",
+      "Yuqing Yang"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.07702",
+    "url": "https://arxiv.org/abs/2607.07702",
+    "oneLiner": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        -940.061,
+        83.111,
+        -232.499
+      ],
+      "timeline": [
+        813.151,
+        -64.343,
+        -376.275
+      ],
+      "novelty": [
+        0,
+        -141.885,
+        -373.71
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.09786",
+    "type": "paper",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5164383561644,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Length Penalties Make Chain-of-Thought Less Monitorable",
+    "authors": [
+      "Bryce Little"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.09786",
+    "url": "https://arxiv.org/abs/2607.09786",
+    "oneLiner": "Length-penalized reinforcement learning can shorten chain-of-thought reasoning while hiding an influence that drives the model's answer.",
+    "relatedIdeas": [
+      "idea-monitorability-preserving-rl"
+    ],
+    "pos": {
+      "galaxy": [
+        -526.013,
+        -109.243,
+        -685.167
+      ],
+      "timeline": [
+        813.151,
+        -4.248,
+        -255.964
+      ],
+      "novelty": [
+        0,
+        -62.614,
+        -260.501
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13753",
+    "type": "paper",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Post-Training Shifts Confidence: A Three-Stage Analysis of How SFT, RL, and OPD Shape Pre-, Intra-, and Post-CoT Calibration",
+    "authors": [
+      "Shuhao Li",
+      "Guodong Du",
+      "Anhao Zhao",
+      "Wanyu Lin",
+      "Tianyu Yuan",
+      "Xiaoyu Shen"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13753",
+    "url": "https://arxiv.org/abs/2607.13753",
+    "oneLiner": "Large language models have made strong reasoning gains through supervised fine-tuning, reinforcement learning, and on-policy distillation, yet these post-training methods are usually evaluated only by final-answer acc...",
+    "relatedIdeas": [
+      "idea-monitorability-preserving-rl"
+    ],
+    "pos": {
+      "galaxy": [
+        -458.775,
+        -35.293,
+        -677.987
+      ],
+      "timeline": [
+        830.685,
+        52.809,
+        -274.058
+      ],
+      "novelty": [
+        0,
+        74.087,
+        -246.14
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.11881",
+    "type": "paper",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+    "authors": [
+      "Gabrielle Kaili-May Liu",
+      "Areeb Gani",
+      "Jacqueline Lu",
+      "Jordan Thomas",
+      "Mark Steyvers",
+      "Arman Cohan"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.11881",
+    "url": "https://arxiv.org/abs/2607.11881",
+    "oneLiner": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        -503.219,
+        56.601,
+        -728.703
+      ],
+      "timeline": [
+        826.301,
+        34.868,
+        -258.213
+      ],
+      "novelty": [
+        0,
+        -33.822,
+        -262.9
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.08046",
+    "type": "paper",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5191780821917,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "What LLM Forecasters Know but Don't Say: Probing Internal Representations for Calibration and Faithfulness",
+    "authors": [
+      "Raphaël Sarfati",
+      "Pratyush Ranjan Tiwari",
+      "Siddharth Boppana",
+      "Christopher J. Earls",
+      "Srikar Varadaraj",
+      "Eric Ho"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.08046",
+    "url": "https://arxiv.org/abs/2607.08046",
+    "oneLiner": "Large language models fine-tuned for forecasting can be accurate yet poorly calibrated, and their chain-of-thought (CoT) reasoning may not faithfully reflect the evidence behind a forecast.",
+    "relatedIdeas": [
+      "idea-monitorability-preserving-rl",
+      "idea-forecaster-abstention"
+    ],
+    "pos": {
+      "galaxy": [
+        -580.846,
+        -40.49,
+        -610.985
+      ],
+      "timeline": [
+        815.342,
+        -32.832,
+        -268.388
+      ],
+      "novelty": [
+        0,
+        -90.879,
+        -264.594
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13918",
+    "type": "paper",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Partially Correlated Verifier Cascades in LLM Harnesses: Concave Log-Odds, Polynomial Reliability, and Blind-Spot Ceilings",
+    "authors": [
+      "Jiangang Han"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13918",
+    "url": "https://arxiv.org/abs/2607.13918",
+    "oneLiner": "Serial verification gates are a core reliability primitive in LLM harnesses: a candidate answer is returned only if $k$ verifier calls all accept it.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        -595.905,
+        -79.011,
+        -770.806
+      ],
+      "timeline": [
+        830.685,
+        113.191,
+        -248.086
+      ],
+      "novelty": [
+        0,
+        117.461,
+        -277.585
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.05394",
+    "type": "paper",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5164383561644,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
+    "authors": [
+      "Shiyuan Feng",
+      "Huan-ang Gao",
+      "Haohan Chi",
+      "Hanlin Wu",
+      "Zhilong Zhang",
+      "Zheng Jiang",
+      "Bingxiang He",
+      "Wei-Ying Ma",
+      "Ya-Qin Zhang",
+      "Hao Zhou"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.05394",
+    "url": "https://arxiv.org/abs/2607.05394",
+    "oneLiner": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must generate many ro...",
+    "relatedIdeas": [
+      "idea-forecaster-abstention"
+    ],
+    "pos": {
+      "galaxy": [
+        -602.366,
+        59.783,
+        -672.3
+      ],
+      "timeline": [
+        813.151,
+        -76.43,
+        -273.104
+      ],
+      "novelty": [
+        0,
+        -126.194,
+        -265.72
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13124",
+    "type": "paper",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation",
+    "authors": [
+      "Qingyu Zhang",
+      "Qianhao Yuan",
+      "Hongyu Lin",
+      "Yaojie Lu",
+      "Xianpei Han",
+      "Le Sun",
+      "Xiang Li",
+      "Ming Xu",
+      "Jiarui Li",
+      "Xiuyin Zhao"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13124",
+    "url": "https://arxiv.org/abs/2607.13124",
+    "oneLiner": "Structured pruning is a hardware-friendly way to compress LLMs, but it is mostly validated on multiple-choice recognition tasks, while the same compressed checkpoints can collapse on the free-form generation that depl...",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        -659.522,
+        -11.662,
+        -709.936
+      ],
+      "timeline": [
+        826.301,
+        38.363,
+        -247.028
+      ],
+      "novelty": [
+        0,
+        36.986,
+        -242.281
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.12395",
+    "type": "paper",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+    "authors": [
+      "Xinyu Tang",
+      "Gangqiang Cao",
+      "Yurou Liu",
+      "Yuliang Zhan",
+      "Xiaochong Lan",
+      "Yifan Li",
+      "Yuchen Yan",
+      "Han Peng",
+      "Zican Dong",
+      "Zhenduo Zhang",
+      "Tianshu Wang",
+      "Xinyu Kong",
+      "Zujie Wen",
+      "Wayne Xin Zhao",
+      "Zhiqiang Zhang",
+      "Jun Zhou"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.12395",
+    "url": "https://arxiv.org/abs/2607.12395",
+    "oneLiner": "Reinforcement learning with verifiable rewards without human-annotated data, often referred to as zero RL, has emerged as a powerful paradigm for eliciting chain-of-thought reasoning.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        -590.001,
+        28.775,
+        -779.483
+      ],
+      "timeline": [
+        826.301,
+        10.158,
+        -271.281
+      ],
+      "novelty": [
+        0,
+        33.439,
+        -248.629
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.00397",
+    "type": "paper",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.4961187214612,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "NeuroCogMap Reveals Cognitive Organization of Large Language Models",
+    "authors": [
+      "Zhongxiang Sun",
+      "Haolang Lu",
+      "Qiang Ma",
+      "Qi Li",
+      "Qipeng Wang",
+      "Liang Pang",
+      "Chenyu Liu",
+      "Qiankun Li",
+      "Hao Sun",
+      "Kun Wang",
+      "Yi Zeng",
+      "Jun Xu",
+      "Guoqi Li",
+      "Ji-Rong Wen"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.00397",
+    "url": "https://arxiv.org/abs/2607.00397",
+    "oneLiner": "Understanding how complex cognitive functions are organized within artificial systems is central to interpreting large language models (LLMs) and relating them to biological cognition.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        -557.945,
+        -18.907,
+        -693.867
+      ],
+      "timeline": [
+        796.895,
+        -60.217,
+        -255.725
+      ],
+      "novelty": [
+        0,
+        -140.163,
+        -273.203
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.14051",
+    "type": "paper",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters",
+    "authors": [
+      "Xiao Ye",
+      "Jacob Dineen",
+      "Evan Zhu",
+      "Shijie Lu",
+      "Kevin Song",
+      "Ben Zhou"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.14051",
+    "url": "https://arxiv.org/abs/2607.14051",
+    "oneLiner": "Forecasters are evaluated by backtesting, which replays resolved questions and grades the probability the system would have assigned before the outcome was known.",
+    "relatedIdeas": [
+      "idea-forecaster-abstention"
+    ],
+    "pos": {
+      "galaxy": [
+        -626.88,
+        -99.56,
+        -675.268
+      ],
+      "timeline": [
+        830.685,
+        104.508,
+        -253.784
+      ],
+      "novelty": [
+        0,
+        153.996,
+        -257.588
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.14088",
+    "type": "paper",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
+    "authors": [
+      "Zhihao Xie",
+      "Junfeng Wu",
+      "Xinting Hu",
+      "Junchao Huang",
+      "Li Jiang"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.14088",
+    "url": "https://arxiv.org/abs/2607.14088",
+    "oneLiner": "Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs).",
+    "relatedIdeas": [
+      "idea-controllable-video-worldmodel"
+    ],
+    "pos": {
+      "galaxy": [
+        -153.595,
+        -3.791,
+        276.787
+      ],
+      "timeline": [
+        830.685,
+        142.228,
+        -124.837
+      ],
+      "novelty": [
+        0,
+        169.773,
+        -140.298
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13431",
+    "type": "paper",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Discrete Diffusion Models: A Unified Framework from Tokenization to Generation",
+    "authors": [
+      "Ye Yuan",
+      "Weien Li",
+      "Rui Song",
+      "Zeyu Li",
+      "Haochen Liu",
+      "Xiangyu Kong",
+      "Zixuan Dong",
+      "Linfeng Du",
+      "Zipeng Sun",
+      "Weixu Zhang",
+      "Jiaxin Huang",
+      "Changjiang Han",
+      "Yonghan Yang",
+      "Zichen Zhao",
+      "Xiuyuan Hu",
+      "Haolun Wu",
+      "Yankai Chen",
+      "Fengran Mo",
+      "Jikun Kang",
+      "Bowei He",
+      "Philip S. Yu",
+      "Xue Liu"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13431",
+    "url": "https://arxiv.org/abs/2607.13431",
+    "oneLiner": "Discrete denoising diffusion models (DDMs) have recently emerged as a compelling alternative to autoregressive (AR) modeling for discrete data, offering parallel generation and iterative global refinement capabilities.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        -117.989,
+        76.899,
+        228.778
+      ],
+      "timeline": [
+        828.493,
+        43.331,
+        -138.68
+      ],
+      "novelty": [
+        0,
+        7.425,
+        -121.192
+      ]
+    }
+  },
+  {
+    "id": "paper-2605.16147",
+    "type": "paper",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5109589041097,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Registers Matter for Pixel-Space Diffusion Transformers",
+    "authors": [
+      "Nikita Starodubcev",
+      "Ilia Sudakov",
+      "Ilya Drobyshevskiy",
+      "Artem Babenko",
+      "Dmitry Baranchuk"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2605.16147",
+    "url": "https://arxiv.org/abs/2605.16147",
+    "oneLiner": "Vision Transformers (ViTs) are known to exhibit high-norm patch-token outliers that degrade feature map quality, a problem effectively mitigated by register tokens.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        -42.434,
+        59.954,
+        163.544
+      ],
+      "timeline": [
+        808.767,
+        -67.613,
+        -114.4
+      ],
+      "novelty": [
+        0,
+        -151.356,
+        -134.593
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13125",
+    "type": "paper",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
+    "authors": [
+      "Guoxuan Chen",
+      "Chufeng Xiao",
+      "Haoran Yang",
+      "Siyue Xie",
+      "Binxiao Huang",
+      "Ming Zhang",
+      "Cheuk Him Chau",
+      "Xinyu Fu",
+      "Yingzhao Lian",
+      "Tom S. Y. Li",
+      "Jintao Lin",
+      "Bowen Dong",
+      "Zian Qian",
+      "Yuhao Liu",
+      "Yuxuan Hu",
+      "Weikang Shi",
+      "Bin Zou",
+      "Bowen Zheng",
+      "Haoxuan Che",
+      "Chang Chen",
+      "Yuyang He",
+      "Heyang Sun",
+      "Tianyu Huang",
+      "Chong Hou Choi",
+      "Cheng Gong",
+      "Han Shi",
+      "Haoli Bai",
+      "Xihui Liu",
+      "Hongsheng Li",
+      "Qifeng Chen",
+      "Chao Huang",
+      "Rui Liu",
+      "Chenyang Lei"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13125",
+    "url": "https://arxiv.org/abs/2607.13125",
+    "oneLiner": "We introduce Boogu-Image-0.1, an open-source unified multimodal understanding and generation model family, comprising Base, Turbo, Edit, and Edit-Turbo variants.",
+    "relatedIdeas": [
+      "idea-reward-model-personalization"
+    ],
+    "pos": {
+      "galaxy": [
+        -110.444,
+        157.246,
+        284.268
+      ],
+      "timeline": [
+        826.301,
+        35.604,
+        -131.556
+      ],
+      "novelty": [
+        0,
+        -23.325,
+        -130.517
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13927",
+    "type": "paper",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data",
+    "authors": [
+      "Thang-Anh-Quan Nguyen",
+      "Moussab Bennehar",
+      "Luis Guillermo Roldao Jimenez",
+      "Nathan Piasco",
+      "Dzmitry Tsishkou",
+      "Laurent Caraffa",
+      "Jean-Philippe Tarel",
+      "Roland Brémond"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13927",
+    "url": "https://arxiv.org/abs/2607.13927",
+    "oneLiner": "Reliable perception under diverse weather conditions remains a major challenge for autonomous driving systems.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        -143.174,
+        80.612,
+        128.04
+      ],
+      "timeline": [
+        830.685,
+        89.016,
+        -125.337
+      ],
+      "novelty": [
+        0,
+        76.824,
+        -137.744
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.11594",
+    "type": "paper",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5301369863014,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "MAGIC: Transition-Aware Generation of Navigable Multi-Scene Game Worlds with Large Language Models",
+    "authors": [
+      "Tsz Hei Fan",
+      "Choi Wing Fung",
+      "Yuxuan Wan",
+      "Shuqing Li",
+      "Michael R. Lyu"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.11594",
+    "url": "https://arxiv.org/abs/2607.11594",
+    "oneLiner": "Multi-scene navigation (clearing an objective in one bounded space and then crossing a portal into the next) is a defining feature of contemporary 3D games, but authoring it is laborious: every portal must have consis...",
+    "relatedIdeas": [
+      "idea-controllable-video-worldmodel"
+    ],
+    "pos": {
+      "galaxy": [
+        -89.611,
+        158.615,
+        171.13
+      ],
+      "timeline": [
+        824.11,
+        -64.191,
+        -142.942
+      ],
+      "novelty": [
+        0,
+        -116.86,
+        -115.227
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.11885",
+    "type": "paper",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Latent-Identity Tuning in Text-to-Image Personalization Models",
+    "authors": [
+      "Daniel Garibi",
+      "Ronen Kamenetsky",
+      "Hadar Averbuch-Elor",
+      "Daniel Cohen-Or",
+      "Or Patashnik"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.11885",
+    "url": "https://arxiv.org/abs/2607.11885",
+    "oneLiner": "Generating and editing a person's face demands high precision, as even minor modifications can significantly alter a subject's perceived identity.",
+    "relatedIdeas": [
+      "idea-reward-model-personalization"
+    ],
+    "pos": {
+      "galaxy": [
+        -24.824,
+        124.679,
+        244.544
+      ],
+      "timeline": [
+        826.301,
+        -52.513,
+        -123.119
+      ],
+      "novelty": [
+        0,
+        -87.885,
+        -134.467
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.11886",
+    "type": "paper",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5301369863014,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
+    "authors": [
+      "Runhui Huang",
+      "Qihui Zhang",
+      "Zhe Liu",
+      "Yu Gao",
+      "Jie Wu",
+      "Hengshuang Zhao"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.11886",
+    "url": "https://arxiv.org/abs/2607.11886",
+    "oneLiner": "In this paper, we propose SpectraReward, a training-free reward function that turns pretrained MLLMs into off-the-shelf reward models for image-generation reinforcement learning.",
+    "relatedIdeas": [
+      "idea-reward-model-personalization"
+    ],
+    "pos": {
+      "galaxy": [
+        -186.966,
+        91.173,
+        296.6
+      ],
+      "timeline": [
+        824.11,
+        -18.945,
+        -126.073
+      ],
+      "novelty": [
+        0,
+        -52.211,
+        -141.745
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.14076",
+    "type": "paper",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
+    "authors": [
+      "Zhen Li",
+      "Zian Meng",
+      "Shuwei Shi",
+      "Mingliang Zhai",
+      "Jiaming Tan",
+      "Chuanhao Li",
+      "Kaipeng Zhang"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.14076",
+    "url": "https://arxiv.org/abs/2607.14076",
+    "oneLiner": "Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence.",
+    "relatedIdeas": [
+      "idea-controllable-video-worldmodel"
+    ],
+    "pos": {
+      "galaxy": [
+        -115.394,
+        -11.821,
+        177.453
+      ],
+      "timeline": [
+        830.685,
+        105.205,
+        -130.743
+      ],
+      "novelty": [
+        0,
+        129.795,
+        -147.436
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13770",
+    "type": "paper",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Kaleido: Algorithm-Hardware Co-Design for Video Diffusion Transformers by Exploiting Latent Space Correlations",
+    "authors": [
+      "Wenxuan Miao",
+      "Haosong Liu",
+      "Weiming Hu",
+      "Zihan Liu",
+      "Aiyue Chen",
+      "Jianlin Yu",
+      "Yiwu Yao",
+      "Yiming Gan",
+      "Jieru Zhao",
+      "Jingwen Leng",
+      "Minyi Guo",
+      "Yu Feng"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13770",
+    "url": "https://arxiv.org/abs/2607.13770",
+    "oneLiner": "Video diffusion transformers (vDiTs) generate high quality video but introduce extremely high compute cost due to the long diffusion timesteps and self attention computation.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        -184.42,
+        153.453,
+        205.349
+      ],
+      "timeline": [
+        830.685,
+        73.158,
+        -125.045
+      ],
+      "novelty": [
+        0,
+        28.046,
+        -135.706
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13926",
+    "type": "paper",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving",
+    "authors": [
+      "Jianguo Yu",
+      "Rukang Wang",
+      "Duanfeng Chu",
+      "Chen Wang",
+      "Renju Feng",
+      "Liping Lu"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13926",
+    "url": "https://arxiv.org/abs/2607.13926",
+    "oneLiner": "Vision-Language Models (VLMs) have demonstrated remarkable potential for high-level reasoning in autonomous driving, yet they fundamentally struggle to generate precise, low-level control actions.",
+    "relatedIdeas": [
+      "idea-semantic-spatial-transfer"
+    ],
+    "pos": {
+      "galaxy": [
+        206.916,
+        -58.364,
+        -438.944
+      ],
+      "timeline": [
+        830.685,
+        63.839,
+        13.038
+      ],
+      "novelty": [
+        0,
+        104.07,
+        7.842
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13960",
+    "type": "paper",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch",
+    "authors": [
+      "GigaWorld Team",
+      "Angen Ye",
+      "Angyuan Ma",
+      "Boyuan Wang",
+      "Chaojun Ni",
+      "Fangzheng Ye",
+      "Guan Huang",
+      "Guo Li",
+      "Guosheng Zhao",
+      "Haodong Yan",
+      "Hengtao Li",
+      "Jiwen Lu",
+      "Kai Wang",
+      "Mingming Yu",
+      "Qitang Hu",
+      "Qiuping Deng",
+      "Songling Liu",
+      "Xiaoyu Tian",
+      "Xiaofeng Wang",
+      "Xinyu Zhou",
+      "Xiuwei Xu",
+      "Xinze Chen",
+      "Yang Wang",
+      "Yejun Zeng",
+      "Yifan Chang",
+      "Yun Ye",
+      "Zhenyu Wu",
+      "Zhanqian Wu",
+      "Zheng Zhu"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13960",
+    "url": "https://arxiv.org/abs/2607.13960",
+    "oneLiner": "World Action Models (WAMs) improve robot policy learning by jointly modeling actions and future visual observations, using future scene evolution as dense supervision for physically grounded action generation.",
+    "relatedIdeas": [
+      "idea-egocentric-dexterity-benchmark-loop"
+    ],
+    "pos": {
+      "galaxy": [
+        304.348,
+        -52.785,
+        -455.127
+      ],
+      "timeline": [
+        830.685,
+        85.128,
+        7.876
+      ],
+      "novelty": [
+        0,
+        113.87,
+        -3.187
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.14047",
+    "type": "paper",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections",
+    "authors": [
+      "Boyuan Wang",
+      "Zhenyuan Zhang",
+      "Zhiqin Yang",
+      "Peijun Gu",
+      "Shuya Wang",
+      "Xiaofeng Wang",
+      "Xianghui Ze",
+      "Yifan Chang",
+      "Guosheng Zhao",
+      "Jiangnan Shao",
+      "Guan Huang",
+      "Hengyu Liu",
+      "Yonggang Zhang",
+      "Wei Xue",
+      "Chunyuan Guan",
+      "Chenglin Pu",
+      "Yike Guo",
+      "Xingang Wang",
+      "Zheng Zhu"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.14047",
+    "url": "https://arxiv.org/abs/2607.14047",
+    "oneLiner": "Autonomous data collection governs the volume and quality of real-world trajectories for manipulation policy learning.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        267.642,
+        -144.868,
+        -476.958
+      ],
+      "timeline": [
+        830.685,
+        135.534,
+        9.355
+      ],
+      "novelty": [
+        0,
+        171.552,
+        7.466
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13818",
+    "type": "paper",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning",
+    "authors": [
+      "Xiaopeng Zhang",
+      "Yueyang Weng",
+      "Qi Liu",
+      "Yongjin Mu",
+      "Yanjie Li"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13818",
+    "url": "https://arxiv.org/abs/2607.13818",
+    "oneLiner": "Robotic manipulation poses fundamental challenges due to uncertainty, long-horizon execution, and compounding errors, which can easily destabilize execution and lead to task failure.",
+    "relatedIdeas": [
+      "idea-egocentric-dexterity-benchmark-loop"
+    ],
+    "pos": {
+      "galaxy": [
+        260.26,
+        6.984,
+        -384.983
+      ],
+      "timeline": [
+        830.685,
+        79.128,
+        -12.928
+      ],
+      "novelty": [
+        0,
+        59.683,
+        -3.523
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13653",
+    "type": "paper",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation",
+    "authors": [
+      "Boyu Mi",
+      "Mengchen Ma",
+      "Yifei Yao",
+      "Xing Gao",
+      "Junting Chen",
+      "Yangzi Li",
+      "Zihou Zhu",
+      "Guohao Li",
+      "Zhenfei Yin",
+      "Tai Wang",
+      "Yao Mu",
+      "Jiangmiao Pang",
+      "Hanqing Wang"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13653",
+    "url": "https://arxiv.org/abs/2607.13653",
+    "oneLiner": "Real-world deployment of embodied agents requires active exploration, visual grounding, and interactive intent disambiguation.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        403.495,
+        -46.34,
+        -461.07
+      ],
+      "timeline": [
+        830.685,
+        14.566,
+        -13.719
+      ],
+      "novelty": [
+        0,
+        32.972,
+        11.826
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.11643",
+    "type": "paper",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model",
+    "authors": [
+      "Xinghang Li",
+      "Jun Guo",
+      "Qiwei Li",
+      "Long Qian",
+      "Hang Lai",
+      "Yueze Wang",
+      "Hongyu Yan",
+      "Jiahang Cao",
+      "Xi Chen",
+      "Jingen Qu",
+      "Jiaxi Song",
+      "Nan Sun",
+      "Hanye Zhao",
+      "Futeng Liu",
+      "Wanli Peng",
+      "Heyun Wang",
+      "Yunhong Wang",
+      "Caoyu Xia",
+      "Jack Zhao",
+      "Diyun Xiang",
+      "Hangjun Ye",
+      "Heng Qu",
+      "Huaping Liu",
+      "Jason Li"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.11643",
+    "url": "https://arxiv.org/abs/2607.11643",
+    "oneLiner": "Recent foundation image and video generation models offer strong generalization and controllability, but their direct application to embodied scenarios is limited by requirements for multi-view consistency, geometric ...",
+    "relatedIdeas": [
+      "idea-semantic-spatial-transfer"
+    ],
+    "pos": {
+      "galaxy": [
+        265.971,
+        19.881,
+        -499.16
+      ],
+      "timeline": [
+        826.301,
+        13.552,
+        -5.356
+      ],
+      "novelty": [
+        0,
+        -18.309,
+        3.406
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.10383",
+    "type": "paper",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.527397260274,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "ABot-N1: Toward a General Visual Language Navigation Foundation Model",
+    "authors": [
+      "Ruiyan Gong",
+      "Yingnan Guo",
+      "Junjun Hu",
+      "Jintao Kong",
+      "Xiaoxu Leng",
+      "Tianlun Li",
+      "Weize Li",
+      "Fei Liu",
+      "Zhicheng Liu",
+      "Jia Lu",
+      "Minghua Luo",
+      "Chenlin Ming",
+      "Yanfen Shen",
+      "Jiyue Tao",
+      "Zhengbo Wang",
+      "Mingyang Yin",
+      "Minqi Gu",
+      "Zihao Guan",
+      "Wei Guo",
+      "Guoqing Liu",
+      "Huachong Pang",
+      "Menglin Yang",
+      "Zeqian Ye",
+      "Xiaoxiao Geng",
+      "Zhining Gu",
+      "Honglin Han",
+      "Di Jing",
+      "Hongyu Pan",
+      "Mingchao Sun",
+      "Kuan Yang",
+      "Jianfang Zhang",
+      "Yanghong Chen",
+      "Ye He",
+      "Wei Mei",
+      "Jiahao Shi",
+      "Xiangpo Yang",
+      "Yanqing Zhu",
+      "Zedong Chu",
+      "Xiaolong Wu",
+      "Mu Xu"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.10383",
+    "url": "https://arxiv.org/abs/2607.10383",
+    "oneLiner": "Visual Language Navigation foundation models aim to unify deep reasoning for grounded spatial decisions with broad versatility for diverse embodied tasks.",
+    "relatedIdeas": [
+      "idea-semantic-spatial-transfer"
+    ],
+    "pos": {
+      "galaxy": [
+        338.813,
+        -74.874,
+        -537.687
+      ],
+      "timeline": [
+        821.918,
+        1.691,
+        6.758
+      ],
+      "novelty": [
+        0,
+        -46.443,
+        3.858
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.10350",
+    "type": "paper",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.527397260274,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory",
+    "authors": [
+      "Jiayi Tian",
+      "Shiao Liu",
+      "Yuting Xu",
+      "Jia Lu",
+      "Zihao Guan",
+      "Honglin Han",
+      "Di Yang",
+      "Minqi Gu",
+      "Yifei Qian",
+      "Tianlin Zhang",
+      "Yanqing Zhu",
+      "Zeqian Ye",
+      "Menglin Yang",
+      "Fei Wang",
+      "Xu Hu",
+      "Xiuxian Li",
+      "Wei Zhang",
+      "Shihui Su",
+      "Yiyan Ji",
+      "Jingbo Wang",
+      "Ziteng Feng",
+      "Jiaheng Liu",
+      "Zhaoxiang Zhang",
+      "Xiaolong Wu",
+      "Mingyang Yin",
+      "Zedong Chu",
+      "Mu Xu"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.10350",
+    "url": "https://arxiv.org/abs/2607.10350",
+    "oneLiner": "Recent VLM and VLA systems have improved robotic perception and action prediction, yet long-horizon embodied agents still require a general runtime layer for reasoning, memory, tool use, verification, and cross-embodi...",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        343.174,
+        -65.742,
+        -367.219
+      ],
+      "timeline": [
+        821.918,
+        -42.078,
+        13.63
+      ],
+      "novelty": [
+        0,
+        -81.922,
+        10.58
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.09701",
+    "type": "paper",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.4714611872148,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from Egocentric Videos",
+    "authors": [
+      "Yifan Zhong",
+      "Zhang Chen",
+      "Tianrui Guan",
+      "Fanlian Zeng",
+      "Yuyao Ye",
+      "Tianjia He",
+      "Ka Nam Lui",
+      "Jiayi Li",
+      "Tingrui Zhang",
+      "Ruilin Yan",
+      "Xinhao Ji",
+      "Guangyu Zhao",
+      "Wenjie Lou",
+      "Jiayuan Zhang",
+      "Yuanpei Chen",
+      "Yaodong Yang"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.09701",
+    "url": "https://arxiv.org/abs/2607.09701",
+    "oneLiner": "Steerability is a defining capability of generalist robot policies, yet remains largely absent in dexterous-hand systems for lack of large-scale, language-aligned, and action-accurate demonstration data.",
+    "relatedIdeas": [
+      "idea-egocentric-dexterity-benchmark-loop"
+    ],
+    "pos": {
+      "galaxy": [
+        362.926,
+        -138.858,
+        -446.524
+      ],
+      "timeline": [
+        777.169,
+        -58.197,
+        15.004
+      ],
+      "novelty": [
+        0,
+        -108.319,
+        4.957
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.06701",
+    "type": "paper",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5164383561644,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "SPEAR: A Simulator for Photorealistic Embodied AI Research",
+    "authors": [
+      "Mike Roberts",
+      "Renhan Wang",
+      "Rushikesh Zawar",
+      "Rachith Dey-Prakash",
+      "Quentin Leboutet",
+      "Stephan R. Richter",
+      "Matthias Müller",
+      "German Ros",
+      "Rui Tang",
+      "Stefan Leutenegger",
+      "Yannick Hold-Geoffroy",
+      "Kalyan Sunkavalli",
+      "Vladlen Koltun"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.06701",
+    "url": "https://arxiv.org/abs/2607.06701",
+    "oneLiner": "Interactive simulators have become powerful tools for training embodied agents and generating synthetic visual data, but existing photorealistic simulators suffer from limited generality, programmability, and renderin...",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        236.824,
+        -69.735,
+        -537.124
+      ],
+      "timeline": [
+        813.151,
+        -53.857,
+        0.983
+      ],
+      "novelty": [
+        0,
+        -129.814,
+        7.752
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13639",
+    "type": "paper",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "OvisOCR2 Technical Report",
+    "authors": [
+      "Shiyin Lu",
+      "Yinglun Li",
+      "Yu Xia",
+      "Yuhui Chen",
+      "An-Yang Ji",
+      "Jun-Peng Jiang",
+      "Qing-Guo Chen",
+      "Jianshan Zhao",
+      "En Lin",
+      "Haijun Li",
+      "Cheng Qin",
+      "Zhao Xu",
+      "Weihua Luo"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13639",
+    "url": "https://arxiv.org/abs/2607.13639",
+    "oneLiner": "We introduce OvisOCR2, a 0.8B document parsing model.",
+    "relatedIdeas": [
+      "idea-hallucination-aware-doc-ocr"
+    ],
+    "pos": {
+      "galaxy": [
+        662.784,
+        101.798,
+        218.243
+      ],
+      "timeline": [
+        828.493,
+        76.642,
+        141.985
+      ],
+      "novelty": [
+        0,
+        97.141,
+        114.948
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.11562",
+    "type": "paper",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "MonkeyOCRv2: A Visual-Text Foundation Model for Document AI",
+    "authors": [
+      "Yuliang Liu",
+      "Zhang Li",
+      "Ziyang Zhang",
+      "Shuo Zhang",
+      "Qiang Liu",
+      "Jiajun Song",
+      "Zidun Guo",
+      "Xinhan Wang",
+      "Handong Zheng",
+      "Yang Liu",
+      "Dongliang Luo",
+      "Zhiyin Ma",
+      "Jiarui Zhang",
+      "Xiang Bai"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.11562",
+    "url": "https://arxiv.org/abs/2607.11562",
+    "oneLiner": "Mainstream visual encoders are pretrained on natural images and cannot be effectively applied to document images without document-oriented adaptation, as dense text and fine-grained character strokes demand character-...",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        676.242,
+        111.14,
+        319.8
+      ],
+      "timeline": [
+        826.301,
+        -8.2,
+        118.602
+      ],
+      "novelty": [
+        0,
+        -15.134,
+        121.744
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.10400",
+    "type": "paper",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5246575342467,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding",
+    "authors": [
+      "Abhigya Verma",
+      "Khyati Mahajan",
+      "Amit Kumar Saha",
+      "Shruthan Radhakrishna",
+      "Sagar Davasam",
+      "Vikas Yadav",
+      "Sai Rajeswar Mudumba"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.10400",
+    "url": "https://arxiv.org/abs/2607.10400",
+    "oneLiner": "Vision language models (VLMs) have achieved strong performance on visual document understanding benchmarks such as DocVQA, ChartQA, and MMLongBench-Doc.",
+    "relatedIdeas": [
+      "idea-hallucination-aware-doc-ocr"
+    ],
+    "pos": {
+      "galaxy": [
+        608.174,
+        -53.494,
+        281.524
+      ],
+      "timeline": [
+        819.726,
+        -25.065,
+        118.58
+      ],
+      "novelty": [
+        0,
+        -29.396,
+        124.521
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.12450",
+    "type": "paper",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Let RGB Be the Language of Vision",
+    "authors": [
+      "Timing Yang",
+      "Jinrui Yang",
+      "Xinlong Li",
+      "Yuhan Wang",
+      "Haoran Li",
+      "Yanqing Liu",
+      "Guoyizhe Wei",
+      "Jixuan Ying",
+      "Chen Wei",
+      "Rama Chellappa",
+      "Yuyin Zhou",
+      "Cihang Xie",
+      "Alan Yuille",
+      "Feng Wang"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.12450",
+    "url": "https://arxiv.org/abs/2607.12450",
+    "oneLiner": "This work introduces a unified formulation for vision models, where diverse forms of visual information beyond natural images, such as masks, depth maps, and other structured visual signals, are all represented as RGB...",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        556.234,
+        -1.321,
+        352.081
+      ],
+      "timeline": [
+        826.301,
+        60.241,
+        139.678
+      ],
+      "novelty": [
+        0,
+        37.618,
+        140.851
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.08317",
+    "type": "paper",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5191780821917,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models",
+    "authors": [
+      "Matteo Santelmo",
+      "Xiuying Wei",
+      "Israa Fakih",
+      "Felix Bauer",
+      "Juan Garcia Giraldo",
+      "Chengkun Li",
+      "Etienne Bamas",
+      "Emmanuel Abbé"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.08317",
+    "url": "https://arxiv.org/abs/2607.08317",
+    "oneLiner": "Modern AI models achieve strong performance on many established benchmarks, yet they still fail on tasks that humans find almost trivial, such as manipulating a string or drawing a dog with five legs.",
+    "relatedIdeas": [
+      "idea-chart-qa-evidence-audit"
+    ],
+    "pos": {
+      "galaxy": [
+        701.951,
+        -60.81,
+        311.912
+      ],
+      "timeline": [
+        815.342,
+        -27.955,
+        136.085
+      ],
+      "novelty": [
+        0,
+        -87.614,
+        130.471
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.11862",
+    "type": "paper",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Evidence-Backed Video Question Answering",
+    "authors": [
+      "Shijie Wang",
+      "Honglu Zhou",
+      "Ziyang Wang",
+      "Ran Xu",
+      "Caiming Xiong",
+      "Silvio Savarese",
+      "Chen Sun",
+      "Juan Carlos Niebles"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.11862",
+    "url": "https://arxiv.org/abs/2607.11862",
+    "oneLiner": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, providing textual answers without verifiable visual grounding.",
+    "relatedIdeas": [
+      "idea-chart-qa-evidence-audit"
+    ],
+    "pos": {
+      "galaxy": [
+        736.76,
+        39.311,
+        353.519
+      ],
+      "timeline": [
+        826.301,
+        42.924,
+        121.472
+      ],
+      "novelty": [
+        0,
+        9.204,
+        131.316
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.12752",
+    "type": "paper",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation",
+    "authors": [
+      "Hongbo Wang",
+      "Huaibo Huang",
+      "Jie Cao",
+      "Jin Liu",
+      "Haoyang Tong",
+      "Ran He"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.12752",
+    "url": "https://arxiv.org/abs/2607.12752",
+    "oneLiner": "While recent advances in 3D generation have enabled impressive visual synthesis, existing methods often rely on 2D diffusion supervision without explicit mechanisms for geometric consistency, leading to spatial halluc...",
+    "relatedIdeas": [
+      "idea-hallucination-aware-doc-ocr"
+    ],
+    "pos": {
+      "galaxy": [
+        631.484,
+        -2.885,
+        198.891
+      ],
+      "timeline": [
+        828.493,
+        98.034,
+        144.172
+      ],
+      "novelty": [
+        0,
+        101.906,
+        128.599
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13705",
+    "type": "paper",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities",
+    "authors": [
+      "Zichen Ding",
+      "Jiaye Ge",
+      "Shufan Jiang",
+      "Kai Chen",
+      "Mo Li",
+      "Qingqiu Li",
+      "Zehao Li",
+      "Zonglin Li",
+      "Tiaohao Liang",
+      "Shudong Liu",
+      "Zerun Ma",
+      "Zixing Shang",
+      "Wenhui Tian",
+      "Zun Wang",
+      "Liwei Wu",
+      "Zhenyu Wu",
+      "Jun Xu",
+      "Bowen Yang",
+      "Dingbo Yuan",
+      "Qi Zhang",
+      "Songyang Zhang",
+      "Peiheng Zhou",
+      "Dongsheng Zhu"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13705",
+    "url": "https://arxiv.org/abs/2607.13705",
+    "oneLiner": "As Large Language Models (LLMs) evolve into autonomous agents, the need for unified evaluation infrastructure becomes critical.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        707.541,
+        20.084,
+        260.611
+      ],
+      "timeline": [
+        828.493,
+        117.277,
+        121.993
+      ],
+      "novelty": [
+        0,
+        137.167,
+        144.75
+      ]
+    }
+  },
+  {
+    "id": "paper-2603.28583",
+    "type": "paper",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Navigating the Mirage: A Dual-Path Agentic Framework for Robust Misleading Chart Question Answering",
+    "authors": [
+      "Yanjie Zhang",
+      "Yafei Li",
+      "Rui Sheng",
+      "Zixin Chen",
+      "Yanna Lin",
+      "Huamin Qu",
+      "Lei Chen",
+      "Yushi Sun"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2603.28583",
+    "url": "https://arxiv.org/abs/2603.28583",
+    "oneLiner": "Despite the success of Vision-Language Models (VLMs), misleading charts remain a significant challenge due to their deceptive visual structures and distorted data representations.",
+    "relatedIdeas": [
+      "idea-chart-qa-evidence-audit"
+    ],
+    "pos": {
+      "galaxy": [
+        606.547,
+        87.934,
+        387.479
+      ],
+      "timeline": [
+        826.301,
+        -89.378,
+        140.409
+      ],
+      "novelty": [
+        0,
+        -130.313,
+        145.905
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.07470",
+    "type": "paper",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5191780821917,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "A Theory of Contrastive Learning with Natural Images",
+    "authors": [
+      "Antonio Torralba",
+      "Yair Weiss"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.07470",
+    "url": "https://arxiv.org/abs/2607.07470",
+    "oneLiner": "Why does contrastive learning with simple images and augmentations yield useful representations for downstream tasks?",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        651.446,
+        2.975,
+        364.937
+      ],
+      "timeline": [
+        815.342,
+        -76.54,
+        141.79
+      ],
+      "novelty": [
+        0,
+        -101.754,
+        115.188
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13749",
+    "type": "paper",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Algebraic Representability as the Limiting Regime of Grokking: An Exactly Solvable Model with Holomorphic Activations",
+    "authors": [
+      "Chon-Fai Kam",
+      "Xavier Cadet",
+      "Miloud Bessafi",
+      "Frederic Cadet"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13749",
+    "url": "https://arxiv.org/abs/2607.13749",
+    "oneLiner": "Neural networks trained on modular arithmetic exhibit grokking, a delayed transition from memorisation to generalisation known to depend on model capacity: too little and the network memorises slowly or not at all, to...",
+    "relatedIdeas": [
+      "idea-grokking-rank-diagnostic"
+    ],
+    "pos": {
+      "galaxy": [
+        1068.823,
+        -8.029,
+        -173.565
+      ],
+      "timeline": [
+        830.685,
+        85.512,
+        272.958
+      ],
+      "novelty": [
+        0,
+        102.93,
+        261.833
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.12438",
+    "type": "paper",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Fisher Rank Inflation: A Spectral Signature of Memorization under Label Noise",
+    "authors": [
+      "Satwik Bathula",
+      "Anand A. Joshi"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.12438",
+    "url": "https://arxiv.org/abs/2607.12438",
+    "oneLiner": "Deep networks trained with label noise often learn clean structure before memorizing corrupted labels.",
+    "relatedIdeas": [
+      "idea-grokking-rank-diagnostic"
+    ],
+    "pos": {
+      "galaxy": [
+        1027.369,
+        -33.844,
+        -8.275
+      ],
+      "timeline": [
+        828.493,
+        16.338,
+        253.257
+      ],
+      "novelty": [
+        0,
+        -38.618,
+        257.714
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.10681",
+    "type": "paper",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5301369863014,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "LayerNorm as Implicit Gain Control in Looped Transformers",
+    "authors": [
+      "Matthias M. M. Buehlmaier"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.10681",
+    "url": "https://arxiv.org/abs/2607.10681",
+    "oneLiner": "In pre-LayerNorm looped transformers, LayerNorm inside the recurrent block acts as an implicit gain controller: by coupling the block's local Lipschitz constant inversely to the activation scale, it renders the recurr...",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        924.266,
+        -32.937,
+        -35.837
+      ],
+      "timeline": [
+        824.11,
+        -9.852,
+        247.422
+      ],
+      "novelty": [
+        0,
+        -97.817,
+        265.882
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.11289",
+    "type": "paper",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Backpropagation as a Nilpotent Linear System",
+    "authors": [
+      "Ahmed Boughammoura"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.11289",
+    "url": "https://arxiv.org/abs/2607.11289",
+    "oneLiner": "Backpropagation is the computational engine of deep learning, yet its mathematical structure is typically treated as a procedural traversal of computational graphs.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        982.224,
+        56.092,
+        -42.354
+      ],
+      "timeline": [
+        826.301,
+        -26.069,
+        274.879
+      ],
+      "novelty": [
+        0,
+        -71.168,
+        247.399
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.10430",
+    "type": "paper",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.527397260274,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Emergent Generalization by Representation Learning in Artificial Neural Networks",
+    "authors": [
+      "Hardik Rajpal",
+      "Dan Goodman"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.10430",
+    "url": "https://arxiv.org/abs/2607.10430",
+    "oneLiner": "Dimensionality reduction has proven powerful for identifying neural manifolds, which are low-dimensional structures underlying high-dimensional neural activity.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        1090.304,
+        -68.004,
+        -81.574
+      ],
+      "timeline": [
+        821.918,
+        -48.49,
+        272.865
+      ],
+      "novelty": [
+        0,
+        -118.97,
+        246.469
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13414",
+    "type": "paper",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Non-Expansive Two-Time-Scale Stochastic Approximation: A Fixed-Schedule One-Quarter Barrier and Bias-Corrected Acceleration",
+    "authors": [
+      "Dhruv Sarkar",
+      "Vaneet Aggarwal"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13414",
+    "url": "https://arxiv.org/abs/2607.13414",
+    "oneLiner": "Non-expansive two-time-scale stochastic approximation is governed by a slow stochastic Krasnoselskii--Mann fixed-point iteration rather than by contraction to a unique equilibrium.",
+    "relatedIdeas": [
+      "idea-fairness-bandit-transfer"
+    ],
+    "pos": {
+      "galaxy": [
+        969.478,
+        -21.213,
+        -202.556
+      ],
+      "timeline": [
+        830.685,
+        92.592,
+        262.777
+      ],
+      "novelty": [
+        0,
+        65.595,
+        248.112
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.12501",
+    "type": "paper",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "What Does Goodness Measure? A Likelihood-Ratio Account of Forward-Forward Learning",
+    "authors": [
+      "Paolo Giannitrapani"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.12501",
+    "url": "https://arxiv.org/abs/2607.12501",
+    "oneLiner": "The Forward-Forward (FF) algorithm trains each layer locally, so that a scalar goodness - the sum of squared activations - is high on real inputs and low on contrastive ones, with activations normalized between layers.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        1000.639,
+        -20.16,
+        -108.082
+      ],
+      "timeline": [
+        828.493,
+        8.078,
+        249.54
+      ],
+      "novelty": [
+        0,
+        24.055,
+        251.766
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.14018",
+    "type": "paper",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Transforming Rank: How Architecture Navigates the Spectral Pathologies of Depth",
+    "authors": [
+      "Katie Everett"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.14018",
+    "url": "https://arxiv.org/abs/2607.14018",
+    "oneLiner": "We investigate how each component of the Transformer feedforward block architecture design determines how much rank survives across depth at initialization.",
+    "relatedIdeas": [
+      "idea-grokking-rank-diagnostic"
+    ],
+    "pos": {
+      "galaxy": [
+        988.094,
+        -113.103,
+        -60.863
+      ],
+      "timeline": [
+        830.685,
+        138.716,
+        259.343
+      ],
+      "novelty": [
+        0,
+        166.479,
+        272.43
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13402",
+    "type": "paper",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Price of Fairness in Bandits: A Tight Minimax Characterization",
+    "authors": [
+      "Dhruv Sarkar",
+      "Soumyadeep Dutta",
+      "Sayak Ray Chowdhury"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13402",
+    "url": "https://arxiv.org/abs/2607.13402",
+    "oneLiner": "In bandit problems, standard regret-minimizing algorithms treat exploration as an amortized cost, which can expose early participants to unfair ex-ante losses in settings such as clinical trials.",
+    "relatedIdeas": [
+      "idea-fairness-bandit-transfer"
+    ],
+    "pos": {
+      "galaxy": [
+        1074.458,
+        37.027,
+        -80.313
+      ],
+      "timeline": [
+        830.685,
+        49.494,
+        271.329
+      ],
+      "novelty": [
+        0,
+        69.347,
+        257.294
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.09202",
+    "type": "paper",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5246575342467,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Interference and Retention in Continual Learning",
+    "authors": [
+      "Julius Störk"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.09202",
+    "url": "https://arxiv.org/abs/2607.09202",
+    "oneLiner": "Continual learning commonly relies on post-hoc mechanisms such as replay, elastic regularization, or distillation.",
+    "relatedIdeas": [
+      "idea-fairness-bandit-transfer"
+    ],
+    "pos": {
+      "galaxy": [
+        916.094,
+        -77.87,
+        -130.183
+      ],
+      "timeline": [
+        819.726,
+        -95.883,
+        255.817
+      ],
+      "novelty": [
+        0,
+        -175.254,
+        257.017
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.14086",
+    "type": "paper",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Leveraging unlabelled data for generalizable neural population decoding",
+    "authors": [
+      "Ximeng Mao",
+      "Nanda H. Krishna",
+      "Avery Hee-Woon Ryoo",
+      "Matthew G. Perich",
+      "Guillaume Lajoie"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.14086",
+    "url": "https://arxiv.org/abs/2607.14086",
+    "oneLiner": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments.",
+    "relatedIdeas": [
+      "idea-decoding-transfer-loop"
+    ],
+    "pos": {
+      "galaxy": [
+        1319.93,
+        -26.319,
+        -582.98
+      ],
+      "timeline": [
+        830.685,
+        111.357,
+        394.17
+      ],
+      "novelty": [
+        0,
+        175.98,
+        392.87
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.11445",
+    "type": "paper",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Event-based Neural Decoding for Neuroprosthetic Motor Control",
+    "authors": [
+      "Khaleelulla Khan Nazeer",
+      "Sirine Arfa",
+      "Matthias Jobst",
+      "Richard George",
+      "Christian Mayr"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.11445",
+    "url": "https://arxiv.org/abs/2607.11445",
+    "oneLiner": "A substantial number of patients experience diminished mobility due to disabilities, diseases, or accidents.",
+    "relatedIdeas": [
+      "idea-decoding-transfer-loop"
+    ],
+    "pos": {
+      "galaxy": [
+        1332.602,
+        8.81,
+        -472.9
+      ],
+      "timeline": [
+        826.301,
+        50.795,
+        387.425
+      ],
+      "novelty": [
+        0,
+        50.402,
+        397.847
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.13584",
+    "type": "paper",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5383561643835,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Visual Place Recognition Using Rate-Encoded Spiking Neural Networks with Discrete STDP Learning",
+    "authors": [
+      "Altzi Tsanko",
+      "Oikonomou Katerina Maria",
+      "Antonios Gasteratos"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.13584",
+    "url": "https://arxiv.org/abs/2607.13584",
+    "oneLiner": "Spiking Neural Networks (SNNs) trained through unsupervised Spike-Timing-Dependent Plasticity (STDP) have been explored as solutions to visual loop closure problems, driven by the prospect of efficient on-device infer...",
+    "relatedIdeas": [
+      "idea-decoding-transfer-loop"
+    ],
+    "pos": {
+      "galaxy": [
+        1251.193,
+        91.53,
+        -494.765
+      ],
+      "timeline": [
+        830.685,
+        109.285,
+        383.287
+      ],
+      "novelty": [
+        0,
+        113.4,
+        379.65
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.11065",
+    "type": "paper",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5328767123287,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Efficient and Robust Spiking Neural Networks for sEMG-Based Muscle Fatigue Detection",
+    "authors": [
+      "Kaiwen Tang",
+      "Jiaqi Dong",
+      "Zhanglu Yan",
+      "Weng-Fai Wong"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.11065",
+    "url": "https://arxiv.org/abs/2607.11065",
+    "oneLiner": "Detecting muscle fatigue via surface electromyography (sEMG) is essential for applications in sports, rehabilitation, and wearable health monitoring.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        1233.878,
+        56.144,
+        -598.823
+      ],
+      "timeline": [
+        826.301,
+        15.842,
+        383.351
+      ],
+      "novelty": [
+        0,
+        -14.1,
+        394.736
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.12403",
+    "type": "paper",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.535616438356,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Structured Fluctuations and the Information Dynamics of Self-Maintenance in Growing Neural Cellular Automata",
+    "authors": [
+      "Atsushi Masumori",
+      "Hiroki Sato",
+      "Takashi Ikegami"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.12403",
+    "url": "https://arxiv.org/abs/2607.12403",
+    "oneLiner": "Growing Neural Cellular Automata (GNCA) are capable of robust self-maintenance and self-repair, yet the internal dynamical mechanisms that support these capabilities remain poorly understood.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        1377.524,
+        124.603,
+        -604.875
+      ],
+      "timeline": [
+        828.493,
+        81.262,
+        400.915
+      ],
+      "novelty": [
+        0,
+        94.393,
+        387.078
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.09211",
+    "type": "paper",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5246575342467,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Co-evolution of self-replication and function in a digital primordial soup",
+    "authors": [
+      "Francesco Cicala",
+      "Eyvind Niklasson",
+      "Ettore Randazzo",
+      "Sami Boukortt",
+      "Alessio Basti",
+      "Mayalen Etcheverry",
+      "Rif A. Saurous",
+      "Ben Laurie",
+      "James Manyika",
+      "Blaise Aguera-Arcas",
+      "Blake Richards"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.09211",
+    "url": "https://arxiv.org/abs/2607.09211",
+    "oneLiner": "While traditional evolutionary algorithms hard-code reproduction, self-replication can emerge spontaneously within digital ``primordial soups''.",
+    "relatedIdeas": [
+      "idea-artificial-life-scientist-loop"
+    ],
+    "pos": {
+      "galaxy": [
+        1396.414,
+        25.332,
+        -621.94
+      ],
+      "timeline": [
+        819.726,
+        -56.295,
+        392.492
+      ],
+      "novelty": [
+        0,
+        -120.742,
+        402.469
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.09025",
+    "type": "paper",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5246575342467,
+    "influence": 3,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Evolutionary Intelligence for Scientific Discovery: From Evolutionary Computation to Cumulative Discovery Systems",
+    "authors": [
+      "Chao Wang",
+      "Lingling Li",
+      "Fang Liu",
+      "Licheng Jiao"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.09025",
+    "url": "https://arxiv.org/abs/2607.09025",
+    "oneLiner": "Artificial intelligence (AI) is shifting scientific discovery from task-specific workflows towards autonomous systems that organize exploration with experimental and human feedback in open-ended candidate spaces.",
+    "relatedIdeas": [
+      "idea-artificial-life-scientist-loop"
+    ],
+    "pos": {
+      "galaxy": [
+        1309.606,
+        56.919,
+        -659.77
+      ],
+      "timeline": [
+        819.726,
+        -60.716,
+        379.59
+      ],
+      "novelty": [
+        0,
+        -143.077,
+        405.238
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.09480",
+    "type": "paper",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5246575342467,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Foveation-Guided Dynamic Token Selection for Robust and Efficient Vision Transformers",
+    "authors": [
+      "Ibrahim Batuhan Akkaya",
+      "Kishaan Jeeveswaran",
+      "Bahram Zonooz",
+      "Elahe Arani"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.09480",
+    "url": "https://arxiv.org/abs/2607.09480",
+    "oneLiner": "The human visual system (HVS) employs foveated sampling and eye movements to achieve efficient perception, conserving both metabolic energy and computational resources.",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        1414.568,
+        46.862,
+        -526.07
+      ],
+      "timeline": [
+        819.726,
+        -16.053,
+        397.634
+      ],
+      "novelty": [
+        0,
+        -72.363,
+        405.997
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.09889",
+    "type": "paper",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5246575342467,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Remembering Distinct Items, Not Tokens: A Learnable Dirichlet-Process Cache Between State-Space Models and Attention",
+    "authors": [
+      "Siddharth Pal",
+      "Viktoria Rojkova"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.09889",
+    "url": "https://arxiv.org/abs/2607.09889",
+    "oneLiner": "Fixed-state sequence models compress an unbounded past into a bounded state, which caps their associative recall at roughly the state dimension; attention escapes the cap by keeping a key-value entry for every token, ...",
+    "relatedIdeas": [],
+    "pos": {
+      "galaxy": [
+        1243.228,
+        -7.925,
+        -520.826
+      ],
+      "timeline": [
+        819.726,
+        -12.353,
+        387.017
+      ],
+      "novelty": [
+        0,
+        -35.269,
+        399.407
+      ]
+    }
+  },
+  {
+    "id": "paper-2607.11079",
+    "type": "paper",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5301369863014,
+    "influence": 2,
+    "frontier": false,
+    "noveltyExp": 0,
+    "title": "Are LLMs Ready for Scientific Discovery? A Capability-Oriented Benchmark for AI Scientists",
+    "authors": [
+      "Chuhan Shi",
+      "Xiaoquan Ren",
+      "Sicheng Song",
+      "Haobo Li",
+      "Rui Sheng",
+      "Yushi Sun"
+    ],
+    "venue": "arXiv",
+    "arxivId": "2607.11079",
+    "url": "https://arxiv.org/abs/2607.11079",
+    "oneLiner": "Existing benchmarks for scientific data analysis evaluate LLMs primarily on code execution or workflow completion, overlooking that scientific analysis serves to support distinct types of scientific claims: hypothesis...",
+    "relatedIdeas": [
+      "idea-artificial-life-scientist-loop"
+    ],
+    "pos": {
+      "galaxy": [
+        1323.023,
+        56.312,
+        -553.599
+      ],
+      "timeline": [
+        824.11,
+        44.715,
+        390.925
+      ],
+      "novelty": [
+        0,
+        22.417,
+        394.228
+      ]
+    }
+  },
+  {
+    "id": "idea-verifiable-memory-audit",
+    "type": "idea",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 7.8,
+    "noveltyScore": 78,
+    "title": "Verifiable Memory Audits for Self-Evolving Agent Harnesses",
+    "oneLiner": "Treat each memory write as a causal claim and verify it before committing.",
+    "gap": "Agent harnesses now edit their own memory and skill libraries over long horizons, but nothing checks whether a memory write actually caused the downstream improvement it's credited for.",
+    "method": "Pair each memory write with a shadow rollout that ablates it, score the causal lift, gate the commit on a lift threshold, and log the audit trail in the harness handbook's editable diff format.",
+    "differentiation": "Prior work manages what to store or how to read a harness's own memory diffs; none of it verifies that a stored memory unit actually produced the credited outcome before committing it long-term.",
+    "priorArt": "Closest precedent is one-shot error correction via experience graphs, which corrects after failure but never audits successes before they are baked in.",
+    "groundedIn": [
+      "paper-2607.13591",
+      "paper-2607.13884",
+      "paper-2607.13285"
+    ],
+    "pos": {
+      "galaxy": [
+        -921.851,
+        78.93,
+        -326.834
+      ],
+      "timeline": [
+        800,
+        -122.948,
+        -391.133
+      ],
+      "novelty": [
+        429,
+        16.323,
+        -390.567
+      ]
+    }
+  },
+  {
+    "id": "idea-multiagent-explore-incentive",
+    "type": "idea",
+    "branch": "llm-agents",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 7.1,
+    "noveltyScore": 71,
+    "title": "Exploration Bonuses for Multi-Agent LLM Teams That Won't Explore Each Other",
+    "oneLiner": "Add an inter-agent novelty bonus, scaled by distance from teammates' recent actions, to the turn-level credit signal.",
+    "gap": "Multi-agent LLM teams default to premature consensus instead of covering the hypothesis space, and turn-level credit assignment has no notion of \"novel contribution relative to teammates.\"",
+    "method": "Embed each turn's action, track a running teammate-action centroid per role, add a bonus proportional to distance from that centroid into the turn-level credit signal, and anneal the bonus as consensus becomes warranted.",
+    "differentiation": "Existing turn-credit methods score usefulness to the task outcome only; they never compare an agent's action against its teammates' recent action distribution.",
+    "priorArt": "The \"fail to explore each other\" paper diagnoses this failure mode via behavioral analysis but proposes no training-time fix.",
+    "groundedIn": [
+      "paper-2607.11250",
+      "paper-2607.13988",
+      "paper-2607.13683"
+    ],
+    "pos": {
+      "galaxy": [
+        -1008.585,
+        84.168,
+        -397.431
+      ],
+      "timeline": [
+        800,
+        -118.314,
+        -390.233
+      ],
+      "novelty": [
+        390.5,
+        -12.8,
+        -386.817
+      ]
+    }
+  },
+  {
+    "id": "idea-monitorability-preserving-rl",
+    "type": "idea",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 8.3,
+    "noveltyScore": 83,
+    "title": "Monitorability-Constrained Length Penalties for Chain-of-Thought RL",
+    "oneLiner": "Add a monitorability term to the RL reward, alongside the length penalty, so compression only happens where it does not erase evidence a monitor needs.",
+    "gap": "Length-penalized RL compresses reasoning traces and quietly strips the tokens a monitor needs to catch hidden influences — accuracy metrics never measured monitorability, so this goes undetected.",
+    "method": "Train a small hint-influence probe on paired (trace, hint-used) data, use its predicted faithfulness score as a second reward term traded off against the length penalty, and evaluate on the same MMLU-Pro-R and transfer suite.",
+    "differentiation": "The source paper measures the compression-monitorability frontier as an empirical finding; it does not propose a training objective that targets the frontier directly.",
+    "priorArt": "Length-penalty RL and post-hoc faithfulness probing both exist separately; combining the probe as an online reward signal, rather than an offline eval, is the gap.",
+    "groundedIn": [
+      "paper-2607.09786",
+      "paper-2607.13753",
+      "paper-2607.08046"
+    ],
+    "pos": {
+      "galaxy": [
+        -513.496,
+        49.77,
+        -624.465
+      ],
+      "timeline": [
+        800,
+        -98.93,
+        -268.114
+      ],
+      "novelty": [
+        456.5,
+        12.861,
+        -273.568
+      ]
+    }
+  },
+  {
+    "id": "idea-forecaster-abstention",
+    "type": "idea",
+    "branch": "reasoning-alignment",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 6.9,
+    "noveltyScore": 69,
+    "title": "Calibrated Abstention for LLM Forecasters Using Internal Representations",
+    "oneLiner": "A probe-and-abstain head, distilled weak-to-strong from replay labels, lets a forecaster decline exactly when its internal signal disagrees with its stated confidence.",
+    "gap": "Forecasters' internal representations already encode calibration signal the surface text doesn't report, and replay benchmarks expose systematic overconfidence, but nothing turns that probed signal into an actionable abstention policy at inference time.",
+    "method": "Extract calibration probe features, distill an abstain/answer head using replayed market outcomes as weak labels, and evaluate the coverage-vs-accuracy trade-off against plain confidence thresholding.",
+    "differentiation": "Probing work measures the gap between internal state and stated confidence descriptively; it stops short of an inference-time decision rule built on that gap.",
+    "priorArt": "Confidence thresholding on stated probabilities is the standard baseline; this bypasses it by reading the model's internal disagreement with itself.",
+    "groundedIn": [
+      "paper-2607.08046",
+      "paper-2607.14051",
+      "paper-2607.05394"
+    ],
+    "pos": {
+      "galaxy": [
+        -504.556,
+        -40.672,
+        -771.168
+      ],
+      "timeline": [
+        800,
+        -129.986,
+        -272.156
+      ],
+      "novelty": [
+        379.5,
+        21.043,
+        -271.134
+      ]
+    }
+  },
+  {
+    "id": "idea-controllable-video-worldmodel",
+    "type": "idea",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 7.4,
+    "noveltyScore": 74,
+    "title": "Action-Conditioned Representation Autoencoders for Long-Horizon Game World Models",
+    "oneLiner": "Inserting a discrete, action-conditioned state token into the video autoencoder's latent sequence gives it explicit, editable state without sacrificing sample quality.",
+    "gap": "Representation-autoencoder video models generate strong long rollouts, and separate work argues world models should be structured as game engines with explicit state — but nobody has plugged an action-conditioned state bottleneck into a representation-autoencoder's latent space.",
+    "method": "Add a small VQ bottleneck conditioned on the action token at each latent step, train jointly with the autoencoder's reconstruction loss, and evaluate long-horizon consistency on a multi-scene navigation benchmark.",
+    "differentiation": "The autoencoder work targets generation fidelity; the world-model position paper argues for state structure but doesn't build on a representation-autoencoder backbone — this is the missing bridge.",
+    "priorArt": "Game-engine-style world models with explicit state exist for pixel-space or tokenized backbones; none use a representation-autoencoder's continuous latent as the substrate.",
+    "groundedIn": [
+      "paper-2607.14088",
+      "paper-2607.14076",
+      "paper-2607.11594"
+    ],
+    "pos": {
+      "galaxy": [
+        -217.591,
+        57.504,
+        196.359
+      ],
+      "timeline": [
+        800,
+        -106.303,
+        -123.027
+      ],
+      "novelty": [
+        407,
+        -15.499,
+        -114.75
+      ]
+    }
+  },
+  {
+    "id": "idea-reward-model-personalization",
+    "type": "idea",
+    "branch": "generative-vision",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 6.6,
+    "noveltyScore": 66,
+    "title": "Zero-Shot MLLM Reward Models as Personalization Judges for Text-to-Image Identity Tuning",
+    "oneLiner": "Replacing the identity loss with a zero-shot MLLM reward-model score catches identity drift that embedding-distance losses miss.",
+    "gap": "Identity-personalization tuning still relies on CLIP-similarity or face-embedding losses that reward surface resemblance rather than \"is this actually the same subject,\" while zero-shot MLLM reward models already judge generation quality without task-specific training.",
+    "method": "Use a unified model's own understanding head as the reward-model judge during personalization fine-tuning, backprop through a reward-weighted objective, and compare identity retention against embedding-loss baselines.",
+    "differentiation": "Existing identity losses are metric-based and blind to compositional errors; MLLM reward models are validated for general alignment but not wired into personalization loops specifically.",
+    "priorArt": "Reward-model-guided fine-tuning is established for general T2I alignment; using it specifically as an identity-drift detector inside personalization tuning is new.",
+    "groundedIn": [
+      "paper-2607.11886",
+      "paper-2607.11885",
+      "paper-2607.13125"
+    ],
+    "pos": {
+      "galaxy": [
+        -53.883,
+        15.449,
+        267.632
+      ],
+      "timeline": [
+        800,
+        -123.86,
+        -144.955
+      ],
+      "novelty": [
+        363,
+        31.202,
+        -125.183
+      ]
+    }
+  },
+  {
+    "id": "idea-semantic-spatial-transfer",
+    "type": "idea",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 8,
+    "noveltyScore": 80,
+    "title": "Cross-Embodiment Transfer via Decoupled Semantic/Spatial VLA Streams",
+    "oneLiner": "The semantic stream from a decoupled VLA should transfer near zero-shot across embodiments with completely different spatial streams, since semantics is embodiment-agnostic by construction.",
+    "gap": "Decoupling semantic and spatial streams improves single-embodiment VLA performance, but unified embodied-synthesis and navigation models still train one entangled representation per embodiment — nothing transfers the semantic stream across a manipulator and a navigation-only robot.",
+    "method": "Pretrain the semantic stream on the manipulation corpus, freeze it, attach it to the navigation model's spatial stream, fine-tune only the fusion layer, and measure task success on held-out instructions with novel object references.",
+    "differentiation": "Unified embodied-synthesis models share one backbone across embodiments; this argues for explicit stream-level reuse of just the semantic half.",
+    "priorArt": "Cross-embodiment transfer usually retrains the whole backbone; stream-level reuse specifically for the semantic half is untested.",
+    "groundedIn": [
+      "paper-2607.13926",
+      "paper-2607.11643",
+      "paper-2607.10383"
+    ],
+    "pos": {
+      "galaxy": [
+        352.529,
+        29.127,
+        -421.268
+      ],
+      "timeline": [
+        800,
+        -82.531,
+        11.179
+      ],
+      "novelty": [
+        440,
+        12.709,
+        6.892
+      ]
+    }
+  },
+  {
+    "id": "idea-egocentric-dexterity-benchmark-loop",
+    "type": "idea",
+    "branch": "embodied-robotics",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 6.3,
+    "noveltyScore": 63,
+    "title": "Closing the Loop Between Egocentric Demonstration and Industrial Dexterity Benchmarks",
+    "oneLiner": "Policies distilled from egocentric demonstrations, benchmarked directly and then patched with RL fine-tuning on the benchmark's own failures, close the sim-to-industrial gap faster than benchmark-native training from scratch.",
+    "gap": "Egocentric-video dexterity systems, industrial dexterity benchmarks, and agentic-RL execution robustness are each measured in their own setting — no pipeline lets an egocentric policy get benchmarked, and then hardened, on an industrial suite in one loop.",
+    "method": "Distill an egocentric policy on the benchmark's task set, run it zero-shot to collect failure trajectories, apply agentic RL fine-tuning targeted only at those failures, and compare sample efficiency against from-scratch training.",
+    "differentiation": "Each source work evaluates within its own setting; none tests whether egocentric transfer plus targeted RL patching beats training a benchmark-native policy from zero.",
+    "priorArt": "Sim-to-real dexterity transfer is well studied; using an industrial benchmark's own failures as the RL curriculum for an egocentric policy is not.",
+    "groundedIn": [
+      "paper-2607.09701",
+      "paper-2607.13960",
+      "paper-2607.13818"
+    ],
+    "pos": {
+      "galaxy": [
+        256.808,
+        -124.557,
+        -373.379
+      ],
+      "timeline": [
+        800,
+        -107.673,
+        -1.673
+      ],
+      "novelty": [
+        346.5,
+        23.385,
+        -11.581
+      ]
+    }
+  },
+  {
+    "id": "idea-hallucination-aware-doc-ocr",
+    "type": "idea",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 7.2,
+    "noveltyScore": 72,
+    "title": "Hallucination-Localizing OCR for Long-Context Visual Documents",
+    "oneLiner": "Adapting a video hallucination-localization signal to token-level regions of a transcribed page lets an OCR model flag exact spans as low-trust.",
+    "gap": "Document-AI OCR is getting stronger on long-context visual documents, and hallucination mitigation exists for video generation, but no document-OCR model localizes where in a transcribed page it is likely hallucinating.",
+    "method": "Repurpose the consistency-scoring mechanism over document layout regions instead of video frames, train a per-span trust head on controlled long-context documents, and report localized hallucination precision/recall as a new benchmark axis.",
+    "differentiation": "Document OCR benchmarks currently score end-to-end transcription accuracy only; none report a spatial hallucination map the way video work already does for a different modality.",
+    "priorArt": "Hallucination localization is established in video/spatio-temporal generation; porting the mechanism to static long-context document transcription is untested.",
+    "groundedIn": [
+      "paper-2607.13639",
+      "paper-2607.10400",
+      "paper-2607.12752"
+    ],
+    "pos": {
+      "galaxy": [
+        530.405,
+        63.195,
+        272.459
+      ],
+      "timeline": [
+        800,
+        -100.535,
+        114.107
+      ],
+      "novelty": [
+        396,
+        -1.031,
+        144.278
+      ]
+    }
+  },
+  {
+    "id": "idea-chart-qa-evidence-audit",
+    "type": "idea",
+    "branch": "multimodal-foundation",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 6.8,
+    "noveltyScore": 68,
+    "title": "Evidence-Audited Chart QA: Making Misleading-Chart Detectors Explain Their Own Trust",
+    "oneLiner": "Requiring the chart-QA agent to cite the specific visual region justifying its verdict, using the same evidence-citation format as evidence-backed video QA, reduces blind spots because ungrounded verdicts get forced to admit uncertainty.",
+    "gap": "Dual-path agentic chart-QA frameworks detect when a chart is misleading, and evidence-backed video QA forces models to cite the exact evidence span for an answer, but no chart-QA system explains why it flagged a chart as misleading.",
+    "method": "Add an evidence-span output head to the dual-path chart-QA agent, supervise it with synthetic ground-truth distortion regions, and evaluate whether citation-forced answers reduce specific blind-spot categories.",
+    "differentiation": "The mirage paper detects misleadingness but doesn't require a localized justification; evidence-backed QA requires justification but only in the video domain.",
+    "priorArt": "Evidence citation is established for video QA; chart QA has verdict detection but not evidence-forced citation.",
+    "groundedIn": [
+      "paper-2603.28583",
+      "paper-2607.11862",
+      "paper-2607.08317"
+    ],
+    "pos": {
+      "galaxy": [
+        610.842,
+        52.087,
+        278.394
+      ],
+      "timeline": [
+        800,
+        -115.513,
+        126.595
+      ],
+      "novelty": [
+        374,
+        -6.634,
+        126.535
+      ]
+    }
+  },
+  {
+    "id": "idea-grokking-rank-diagnostic",
+    "type": "idea",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 7.6,
+    "noveltyScore": 76,
+    "title": "A Unified Spectral Early-Warning Signal for Grokking and Memorization",
+    "oneLiner": "A combined spectral statistic — effective Fisher rank alongside the algebraic-representability measure — separates \"about to grok\" from \"about to memorize\" days before validation loss shows it.",
+    "gap": "Grokking is characterized as reaching an algebraically-representable regime, memorization is diagnosed via Fisher-rank inflation, and architectural rank pathologies are studied as a depth phenomenon — three spectral stories about rank that have never been read as one signal on the same training run.",
+    "method": "Instrument both statistics during training on the grokking paper's exactly-solvable model and on a label-noise memorization benchmark, check whether the joint trajectory separates the regimes earlier than either statistic alone, and package it as a training-time diagnostic.",
+    "differentiation": "Each source paper isolates one rank-related phenomenon in its own controlled setting; none cross-references the others' spectral statistic as a joint diagnostic.",
+    "priorArt": "Rank-based diagnostics for grokking and for memorization exist separately; a joint early-warning signal spanning both does not.",
+    "groundedIn": [
+      "paper-2607.13749",
+      "paper-2607.12438",
+      "paper-2607.14018"
+    ],
+    "pos": {
+      "galaxy": [
+        925.489,
+        31.832,
+        -124.082
+      ],
+      "timeline": [
+        800,
+        -116.43,
+        271.943
+      ],
+      "novelty": [
+        418,
+        21.45,
+        269.689
+      ]
+    }
+  },
+  {
+    "id": "idea-fairness-bandit-transfer",
+    "type": "idea",
+    "branch": "learning-theory-optim",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 7,
+    "noveltyScore": 70,
+    "title": "Transferable Fairness Budgets Across Non-Stationary Bandit Deployments",
+    "oneLiner": "A fairness budget, reused as a warm start across a sequence of shifted deployments, retains most of its guarantee if the deployments satisfy a bounded-interference condition analogous to catastrophic-forgetting bounds.",
+    "gap": "The minimax price-of-fairness result is derived for a single fixed bandit deployment, two-time-scale stochastic approximation gives a convergence guarantee for a different non-stationary setting, and continual learning separately studies how new tasks interfere with retained ones — nobody has asked whether a fairness budget survives redeployment on a shifted arm distribution.",
+    "method": "Formalize an interference bound between successive arm distributions using the continual-learning retention metric, bound the fairness budget's degradation under that bound, and validate empirically on a shifted-arm simulation.",
+    "differentiation": "The price-of-fairness result is single-deployment; this treats the fairness guarantee itself as a transferable, degradable quantity.",
+    "priorArt": "Fairness-in-bandits and continual-learning interference are mature separately; treating a fairness guarantee as transferable is new.",
+    "groundedIn": [
+      "paper-2607.13402",
+      "paper-2607.13414",
+      "paper-2607.09202"
+    ],
+    "pos": {
+      "galaxy": [
+        1032.983,
+        -109.884,
+        -152.376
+      ],
+      "timeline": [
+        800,
+        -120.67,
+        272.996
+      ],
+      "novelty": [
+        385,
+        -20.657,
+        265.075
+      ]
+    }
+  },
+  {
+    "id": "idea-decoding-transfer-loop",
+    "type": "idea",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 8.1,
+    "noveltyScore": 81,
+    "title": "Self-Supervised Decoder Transfer Between Invasive and Event-Based Neural Recordings",
+    "oneLiner": "A spike-tokenized encoder pretrained self-supervised on invasive recordings gives a better initialization for an event-based neuroprosthetic decoder than training from scratch.",
+    "gap": "Self-supervised multi-session pretraining generalizes spike-tokenized decoders across sessions of the same modality, event-based neuroprosthetic decoding uses a different signal representation, and spiking-network place recognition shows rate-encoding transfers to a third, unrelated task — none of these self-supervised representations have been tested for cross-modality transfer.",
+    "method": "Pretrain the spike-tokenized encoder self-supervised, freeze early layers, fine-tune a small adapter on event-based data, and compare motor-decoding accuracy and sample efficiency against modality-native training.",
+    "differentiation": "The source papers each validate self-supervised transfer within one recording modality; cross-modality transfer between invasive and event-based decoding is untested.",
+    "priorArt": "Within-modality multi-session pretraining is established; cross-modality initialization between invasive and event-based decoding has not been reported.",
+    "groundedIn": [
+      "paper-2607.14086",
+      "paper-2607.11445",
+      "paper-2607.13584"
+    ],
+    "pos": {
+      "galaxy": [
+        1358.795,
+        133.73,
+        -503.174
+      ],
+      "timeline": [
+        800,
+        -83.326,
+        381.637
+      ],
+      "novelty": [
+        445.5,
+        -11.056,
+        377.856
+      ]
+    }
+  },
+  {
+    "id": "idea-artificial-life-scientist-loop",
+    "type": "idea",
+    "branch": "neuro-inspired-computing",
+    "year": 2026,
+    "yearFrac": 2026.5,
+    "influence": 4,
+    "frontier": true,
+    "noveltyExp": 8.5,
+    "noveltyScore": 85,
+    "title": "Using Self-Replicating Digital Organisms as a Testbed for AI-Scientist Benchmarks",
+    "oneLiner": "Running an AI-scientist pipeline against a digital-primordial-soup substrate, where the evolutionary rules are known exactly, gives a benchmark with unambiguous ground truth for whether the AI scientist's discovered law matches the real generative mechanism.",
+    "gap": "Digital-primordial-soup experiments produce open-ended dynamics with fully known ground truth, evolutionary computation is being repositioned as a scientific-discovery tool, and AI-scientist benchmarks need verifiable ground truth — but those benchmarks currently use human-authored tasks where full ground truth is unknown even to the designer.",
+    "method": "Instrument the simulator to log its exact generative rules, run the AI-scientist pipeline to propose hypotheses about observed population dynamics, and score discovered hypotheses against the logged ground-truth rules rather than against human judgment.",
+    "differentiation": "Existing AI-scientist benchmarks use real scientific domains where full ground truth is unknown even to the benchmark designer; an artificial-life substrate with fully known rules removes that ambiguity.",
+    "priorArt": "AI-scientist benchmarks on real-world data and artificial-life open-endedness research are both active but have not been combined into a ground-truth-verifiable discovery benchmark.",
+    "groundedIn": [
+      "paper-2607.09211",
+      "paper-2607.09025",
+      "paper-2607.11079"
+    ],
+    "pos": {
+      "galaxy": [
+        1279.351,
+        153.96,
+        -580.637
+      ],
+      "timeline": [
+        800,
+        -134.143,
+        394.652
+      ],
+      "novelty": [
+        467.5,
+        9.44,
+        405.161
+      ]
+    }
+  }
+]
