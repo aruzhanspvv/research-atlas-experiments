@@ -1,0 +1,209 @@
+[
+  {
+    "id": "idea-taste-reward-shaping",
+    "title": "Research-Taste Reward Shaping for Diverse Ideation",
+    "hypothesis": "An RL ideation model rewarded for matching the human opportunity/paradigm entropy profile (not just novelty/feasibility scores) will produce ideas with human-level taxonomy entropy while retaining LDC-level novelty and feasibility ratings.",
+    "description": "LDC optimizes novelty/feasibility/effectiveness rewards but ignores the distributional bias toward bridge-opportunity and synthesis-method ideas found in the human-LLM gap study. Adding an entropy-matching reward term over the two-axis taxonomy should directly fix that narrowness.",
+    "method": "Fine-tune LDC's RL stage with an added reward computed by classifying generated ideas into the opportunity/paradigm taxonomy (via the same classifier used in arxiv-2607.01233) and rewarding KL-divergence reduction against the human reference distribution, then compare taxonomy entropy and novelty/feasibility scores against vanilla LDC.",
+    "groundedIn": [
+      "arxiv-2412.14626",
+      "arxiv-2607.01233"
+    ],
+    "riskLevel": "ambitious",
+    "type": "idea",
+    "source": "idea",
+    "branch": "idea",
+    "year": 2026,
+    "influence": 2,
+    "noveltyScore": 55,
+    "noveltyBreakdown": {
+      "novelty": 55,
+      "feasibility": 60,
+      "excitement": 62
+    },
+    "rationale": "Searches on 'RL reward diversity entropy LLM idea generation' and 'distribution-matching reward research idea generation' surface general diversity-promoting RL/decoding work (e.g. diverse beam search, entropy-bonus RL) but nothing that specifically uses the arxiv-2607.01233 opportunity/paradigm taxonomy as a KL-divergence reward inside LDC's RL stage, so the core mechanism looks unclaimed even though the general idea of entropy/diversity rewards is well trodden; feasibility is moderate since it depends on LDC's code and a reliable taxonomy classifier, both of which exist but require nontrivial integration work. The 'ambitious' riskLevel is reasonably calibrated to this moderate novelty.",
+    "pos": [
+      -650.9946107792116,
+      25.57039368833587,
+      114.91283297131616
+    ]
+  },
+  {
+    "id": "idea-pre-execution-failure-classifier",
+    "title": "Pre-Execution Idea Attrition Classifier",
+    "hypothesis": "A classifier trained on paired ideation-stage vs. post-execution review scores can predict, from text features alone, which LLM ideas will suffer the largest novelty/effectiveness score drop after execution, with AUROC > 0.7.",
+    "description": "The ideation-execution gap study shows LLM ideas lose more score after execution than human ideas but doesn't build a predictive model of which ideas will fail. Training a lightweight classifier on their released before/after review data could let ideation systems filter out 'promise without substance' ideas pre-hoc.",
+    "method": "Use the 43 paired idea/execution review scores from arxiv-2506.20803 as labeled data (large drop vs. small drop), extract linguistic features (specificity of method section, presence of concrete baselines/datasets, hedge-word density) plus embedding features, and train a gradient-boosted classifier; validate via leave-one-idea-out cross-validation.",
+    "groundedIn": [
+      "arxiv-2506.20803",
+      "arxiv-2409.04109"
+    ],
+    "riskLevel": "incremental",
+    "type": "idea",
+    "source": "idea",
+    "branch": "idea",
+    "year": 2026,
+    "influence": 2,
+    "noveltyScore": 45,
+    "noveltyBreakdown": {
+      "novelty": 45,
+      "feasibility": 70,
+      "excitement": 50
+    },
+    "rationale": "Prior work on predicting paper/proposal acceptance or success from linguistic/text features (e.g. peer-review score prediction, grant-success-prediction NLP models) is fairly established, and the ideation-execution-gap paper's dataset is small (43 pairs), so a gradient-boosted classifier on this exact resource is plausible but sits close to a well-known genre of 'predict outcome from text features' work, lowering novelty; feasibility is high since the dataset is public and the method is standard ML engineering, but the 43-sample size makes the AUROC>0.7 claim optimistic. Labeling this 'incremental' looks accurate given how close this is to existing proposal/paper-quality prediction literature.",
+    "pos": [
+      -637.5671977393222,
+      -73.0889836023097,
+      86.79660768011016
+    ]
+  },
+  {
+    "id": "idea-hindsight-critic-training",
+    "title": "Distilling HindSight Signal into an Inference-Time Critic",
+    "hypothesis": "A critic model distilled from HindSight's future-citation-impact scores (rather than LLM-judge novelty scores) will, when used as the critic in a multi-agent ideation-critique-revision loop, produce ideas that score higher on HindSight-style forward evaluation than critics trained on LLM-judge novelty alone.",
+    "description": "Multi-agent dialogue work shows critic diversity improves feasibility, and Deep Ideation shows critics trained on reviewer feedback help, but no one has trained a critic on HindSight's outcome-based signal, which negatively correlates with LLM-judged novelty. Swapping the critic's training target should reduce the 'novelty mirage' problem inside agentic loops.",
+    "method": "Replicate HindSight's temporal-cutoff evaluation to generate (idea, future-impact-score) pairs across several topics, fine-tune a critic LM to predict this score, plug it into the ideation-critique-revision loop from arxiv-2507.08350 in place of an LLM-judge critic, and compare resulting ideas' HindSight scores against the LLM-judge-critic baseline.",
+    "groundedIn": [
+      "arxiv-2603.15164",
+      "arxiv-2507.08350",
+      "arxiv-2511.02238"
+    ],
+    "riskLevel": "high-risk",
+    "type": "idea",
+    "source": "idea",
+    "branch": "idea",
+    "year": 2026,
+    "influence": 2,
+    "noveltyScore": 68,
+    "noveltyBreakdown": {
+      "novelty": 68,
+      "feasibility": 40,
+      "excitement": 72
+    },
+    "rationale": "No published work was found training a critic LM directly on HindSight-style future-citation/impact scores and inserting it into a multi-agent critique-revision loop in place of an LLM-judge critic; this combination looks genuinely unexplored, though outcome-based reward modeling for agents is a known pattern elsewhere (RLHF, RLAIF). Feasibility is the weak point: HindSight itself is a very recent (2026) small-scale framework (10 topics), so generating enough (idea, future-impact) pairs to fine-tune a critic is a serious data-scarcity bottleneck, making the 'high-risk' label well calibrated to both the novelty and the execution difficulty.",
+    "pos": [
+      -30.69425618876663,
+      -128.16943999467307,
+      -132.15105937655028
+    ]
+  },
+  {
+    "id": "idea-rq-anchored-contrastive-training",
+    "title": "RQ-Anchored Contrastive Fine-Tuning Against the Novelty Mirage",
+    "hypothesis": "Fine-tuning an ideation model with contrastive pairs of (author-anchored RQ, LLM-generated narrow/source-bound RQ) will reduce the rate at which downstream ideas are 'narrow or source-bound' as judged by domain experts, compared to standard SFT ideation models.",
+    "description": "RQ-Bench shows LLM judges suffer a novelty mirage on research questions while human experts detect narrowness that LLM judges miss. Rather than only using RQ-Bench as an eval, this idea uses its author-anchored RQs as a contrastive training signal to directly teach a model to avoid narrow/source-bound framing before it ever generates a full idea.",
+    "method": "Build a contrastive dataset from RQ-Bench pairing each author-anchored RQ with 2-3 LLM-generated RQs on the same background, label pairs by expert narrowness judgments, and train via DPO to prefer the broader-framing RQ; evaluate on held-out papers using the same human-expert narrow/source-bound rating protocol as RQ-Bench.",
+    "groundedIn": [
+      "arxiv-2606.12071",
+      "arxiv-2607.01233"
+    ],
+    "riskLevel": "ambitious",
+    "type": "idea",
+    "source": "idea",
+    "branch": "idea",
+    "year": 2026,
+    "influence": 2,
+    "noveltyScore": 62,
+    "noveltyBreakdown": {
+      "novelty": 62,
+      "feasibility": 58,
+      "excitement": 68
+    },
+    "rationale": "Searches on DPO/contrastive fine-tuning for research-question or hypothesis generation surfaced general DPO-for-creative-writing and preference-tuning-for-novelty work, but nothing that specifically builds contrastive pairs from RQ-Bench's author-anchored vs. LLM-generated RQs to train against 'narrow/source-bound' framing, so the specific data construction and training target appear novel even though DPO itself is a standard technique; feasibility is moderate since RQ-Bench data and expert narrowness labels would need to be assembled/extended beyond what RQ-Bench's original paper released. 'Ambitious' risk level tracks reasonably with this moderate-high novelty and moderate feasibility.",
+    "pos": [
+      -505.62192665743885,
+      -4.349164558317732,
+      -25.18006447502843
+    ]
+  },
+  {
+    "id": "idea-facet-concept-network-fusion",
+    "title": "Fusing Facet Recombination with Concept-Network Path Search",
+    "hypothesis": "Combining Scideator's facet-based recombination (purpose/mechanism/evaluation) with Deep Ideation's scientific concept-network traversal will produce ideas rated higher on both novelty and feasibility than either method alone, because facets ground the network paths in executable components.",
+    "description": "Scideator recombines facets but retrieves analogous papers by embedding distance, missing explicit concept-relation structure; Deep Ideation traverses a concept co-occurrence network but lacks facet-level grounding of mechanism/evaluation feasibility. Fusing them means concept-network paths are filtered/explained via facet compatibility before being proposed as ideas.",
+    "method": "Build a concept graph as in Deep Ideation, but annotate graph edges with the facet type (purpose-link, mechanism-link, evaluation-link) extracted via Scideator's facet extractor; run explore-expand-evolve search constrained to facet-compatible paths, and A/B test against both baselines using the same reviewer-trained critic engine from arxiv-2511.02238.",
+    "groundedIn": [
+      "arxiv-2409.14634",
+      "arxiv-2511.02238"
+    ],
+    "riskLevel": "ambitious",
+    "type": "idea",
+    "source": "idea",
+    "branch": "idea",
+    "year": 2026,
+    "influence": 2,
+    "noveltyScore": 58,
+    "noveltyBreakdown": {
+      "novelty": 58,
+      "feasibility": 55,
+      "excitement": 60
+    },
+    "rationale": "Scideator (facet recombination) and Deep Ideation (concept-network traversal) are each well-documented individually, and hybrid 'structured-attribute-filtered graph search' approaches exist in adjacent creativity-support literature, but no direct fusion of these two specific published systems (facet-tagged graph edges constraining explore-expand-evolve search) was found, so this sits as a genuine but modest combinatorial-novelty contribution rather than a wholly new mechanism; feasibility is moderate-to-good since both source systems have described components/code, though integrating facet extraction with graph-edge annotation is real engineering work. 'Ambitious' is slightly overstated for what is largely an engineering fusion of two existing published pipelines — this leans closer to incremental-to-ambitious.",
+    "pos": [
+      164.31962198153383,
+      -86.9026249329436,
+      -202.12856970259546
+    ]
+  },
+  {
+    "id": "idea-workflow-architecture-metaanalysis",
+    "title": "Meta-Benchmark of Ideation Workflow Architectures Under a Shared Novelty Metric",
+    "hypothesis": "When re-scored under one consistent GraphEval-style graph-propagation novelty metric, the reflection/evolutionary/multi-agent/recursive-decomposition/long-context architectures benchmarked separately across papers will show a materially different ranking than each paper's self-reported numbers, because self-reported LLM-judge scores are inconsistent across studies.",
+    "description": "Nova, LDC, Deep Ideation, the multi-workflow benchmark, and the multi-agent dialogue study each claim gains using different LLM-judge protocols, making cross-paper comparison unreliable. Re-running each architecture's public code and scoring all outputs with one shared, more robust evaluator would produce the first apples-to-apples ranking.",
+    "method": "Reproduce the five architectures from arxiv-2601.09714 plus Nova and the multi-agent dialogue system using their public repos on a common seed-paper set, score all resulting ideas with GraphEval-GNN's label-propagation novelty score, and report Swiss-tournament rankings under this single metric versus each paper's original claims.",
+    "groundedIn": [
+      "arxiv-2601.09714",
+      "arxiv-2410.14255",
+      "arxiv-2503.12600",
+      "arxiv-2507.08350"
+    ],
+    "riskLevel": "incremental",
+    "type": "idea",
+    "source": "idea",
+    "branch": "idea",
+    "year": 2026,
+    "influence": 1,
+    "noveltyScore": 40,
+    "noveltyBreakdown": {
+      "novelty": 40,
+      "feasibility": 62,
+      "excitement": 58
+    },
+    "rationale": "The general pattern of 'reproduce multiple ideation systems and re-score under one standardized metric' closely resembles what GraphEval and arxiv-2601.09714 already partially attempt (the latter explicitly benchmarks five reasoning architectures under one evaluation protocol), and meta-benchmarking/re-evaluation studies are common in NLP generally, so the core framing is not far from existing practice even though no single paper has combined exactly Nova + LDC + Deep Ideation + the multi-agent dialogue system + the five arxiv-2601.09714 architectures under GraphEval-GNN specifically; feasibility is moderate-good since public repos exist for most systems but reproduction/engineering overhead across 6+ codebases is substantial. 'Incremental' risk level is well calibrated — if anything this is appropriately modest given how close prior meta-benchmarking work already is.",
+    "pos": [
+      -189.0529403211378,
+      22.077683875863194,
+      -88.45150968763613
+    ]
+  },
+  {
+    "id": "idea-judge-calibration-via-rq-gap",
+    "title": "Calibrating LLM-as-Judge Novelty Scores Using the Human-LLM Taste Gap",
+    "hypothesis": "Post-hoc recalibrating an LLM judge's novelty score using the idea's measured deviation from the human opportunity/paradigm taxonomy distribution (as a correction term) will bring LLM-judge novelty rankings into significantly higher rank correlation with human expert novelty rankings than uncalibrated LLM-judge scores.",
+    "description": "RQ-Bench and the novelty-assessment limits paper show LLM judges systematically overrate novel-sounding but derivative ideas; the human-LLM gap paper independently shows LLM ideas cluster in bridge/synthesis taxonomy space. This idea treats taxonomy-cluster membership itself as a bias-correction signal for judge calibration, rather than just a descriptive diagnostic.",
+    "method": "For the RINoBench and RQ-Bench idea sets, compute each idea's taxonomy classification and its distance from the dense human-idea taxonomy region, fit a correction term (linear or isotonic regression) mapping raw LLM-judge novelty score plus taxonomy-distance to a calibrated score, and test whether calibrated scores improve Spearman correlation with human gold novelty judgments on held-out ideas.",
+    "groundedIn": [
+      "arxiv-2603.10303",
+      "arxiv-2606.12071",
+      "arxiv-2607.01233"
+    ],
+    "riskLevel": "high-risk",
+    "type": "idea",
+    "source": "idea",
+    "branch": "idea",
+    "year": 2026,
+    "influence": 2,
+    "noveltyScore": 65,
+    "noveltyBreakdown": {
+      "novelty": 65,
+      "feasibility": 65,
+      "excitement": 70
+    },
+    "rationale": "Bias-correction/calibration of LLM-as-judge scores against a human reference (via regression) is an active general research theme (judge calibration, debiasing LLM evaluators), but using taxonomy-cluster distance from arxiv-2607.01233 specifically as the correction feature for novelty-score calibration, tested on RINoBench/RQ-Bench, appears to be a novel combination not directly published elsewhere; feasibility is reasonably good since all three underlying resources (RINoBench, RQ-Bench, taxonomy classifier) are public, though stitching together three different papers' datasets/protocols adds real integration risk. Calling this 'high-risk' is slightly overstated relative to the feasibility of the individual components, though the novel three-way combination and the untested efficacy of the correction term justify some risk premium.",
+    "pos": [
+      -349.75309172178635,
+      -145.68021070943544,
+      -173.01633772515825
+    ]
+  }
+]

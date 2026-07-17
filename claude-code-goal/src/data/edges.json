@@ -1,0 +1,112 @@
+[
+  {
+    "from": "arxiv-2412.14626",
+    "to": "idea-taste-reward-shaping",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2607.01233",
+    "to": "idea-taste-reward-shaping",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2506.20803",
+    "to": "idea-pre-execution-failure-classifier",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2409.04109",
+    "to": "idea-pre-execution-failure-classifier",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2603.15164",
+    "to": "idea-hindsight-critic-training",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2507.08350",
+    "to": "idea-hindsight-critic-training",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2511.02238",
+    "to": "idea-hindsight-critic-training",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2606.12071",
+    "to": "idea-rq-anchored-contrastive-training",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2607.01233",
+    "to": "idea-rq-anchored-contrastive-training",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2409.14634",
+    "to": "idea-facet-concept-network-fusion",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2511.02238",
+    "to": "idea-facet-concept-network-fusion",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2601.09714",
+    "to": "idea-workflow-architecture-metaanalysis",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2410.14255",
+    "to": "idea-workflow-architecture-metaanalysis",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2503.12600",
+    "to": "idea-workflow-architecture-metaanalysis",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2507.08350",
+    "to": "idea-workflow-architecture-metaanalysis",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2603.10303",
+    "to": "idea-judge-calibration-via-rq-gap",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2606.12071",
+    "to": "idea-judge-calibration-via-rq-gap",
+    "type": "grounds"
+  },
+  {
+    "from": "arxiv-2607.01233",
+    "to": "idea-judge-calibration-via-rq-gap",
+    "type": "grounds"
+  },
+  {
+    "from": "idea-taste-reward-shaping",
+    "to": "idea-judge-calibration-via-rq-gap",
+    "type": "inspiration"
+  },
+  {
+    "from": "idea-hindsight-critic-training",
+    "to": "idea-pre-execution-failure-classifier",
+    "type": "inspiration"
+  },
+  {
+    "from": "idea-rq-anchored-contrastive-training",
+    "to": "idea-judge-calibration-via-rq-gap",
+    "type": "inspiration"
+  },
+  {
+    "from": "idea-facet-concept-network-fusion",
+    "to": "idea-workflow-architecture-metaanalysis",
+    "type": "inspiration"
+  }
+]

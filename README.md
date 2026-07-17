@@ -10,7 +10,8 @@ novelty score and its evidence links back to prior work.
 
 | Folder | Tool | Notes |
 | --- | --- | --- |
-| [`claude-code/`](./claude-code) | Claude Code | Offline data pipeline (curated papers + authored ideas) + Three.js star map, "Generate Idea" client-side grounding engine. |
+| [`claude-code/`](./claude-code) | Claude Code (default agent) | Offline data pipeline (curated papers + authored ideas) + Three.js star map, "Generate Idea" client-side grounding engine. |
+| [`claude-code-goal/`](./claude-code-goal) | Claude Code `/goal` | Separate builder/evaluator pipeline stages (fetch → draft ideas → independently score against live literature → layout), novelty shown as both an in-scene pulsing halo ring and a 3-axis gauge in the detail card. |
 
 Each folder is a fully self-contained project (its own `package.json`,
 `README.md`, install/build/dev instructions). Add new iterations as sibling

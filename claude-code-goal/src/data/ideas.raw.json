@@ -1,0 +1,73 @@
+{
+  "ideas": [
+    {
+      "id": "idea-taste-reward-shaping",
+      "title": "Research-Taste Reward Shaping for Diverse Ideation",
+      "hypothesis": "An RL ideation model rewarded for matching the human opportunity/paradigm entropy profile (not just novelty/feasibility scores) will produce ideas with human-level taxonomy entropy while retaining LDC-level novelty and feasibility ratings.",
+      "description": "LDC optimizes novelty/feasibility/effectiveness rewards but ignores the distributional bias toward bridge-opportunity and synthesis-method ideas found in the human-LLM gap study. Adding an entropy-matching reward term over the two-axis taxonomy should directly fix that narrowness.",
+      "method": "Fine-tune LDC's RL stage with an added reward computed by classifying generated ideas into the opportunity/paradigm taxonomy (via the same classifier used in arxiv-2607.01233) and rewarding KL-divergence reduction against the human reference distribution, then compare taxonomy entropy and novelty/feasibility scores against vanilla LDC.",
+      "groundedIn": ["arxiv-2412.14626", "arxiv-2607.01233"],
+      "riskLevel": "ambitious"
+    },
+    {
+      "id": "idea-pre-execution-failure-classifier",
+      "title": "Pre-Execution Idea Attrition Classifier",
+      "hypothesis": "A classifier trained on paired ideation-stage vs. post-execution review scores can predict, from text features alone, which LLM ideas will suffer the largest novelty/effectiveness score drop after execution, with AUROC > 0.7.",
+      "description": "The ideation-execution gap study shows LLM ideas lose more score after execution than human ideas but doesn't build a predictive model of which ideas will fail. Training a lightweight classifier on their released before/after review data could let ideation systems filter out 'promise without substance' ideas pre-hoc.",
+      "method": "Use the 43 paired idea/execution review scores from arxiv-2506.20803 as labeled data (large drop vs. small drop), extract linguistic features (specificity of method section, presence of concrete baselines/datasets, hedge-word density) plus embedding features, and train a gradient-boosted classifier; validate via leave-one-idea-out cross-validation.",
+      "groundedIn": ["arxiv-2506.20803", "arxiv-2409.04109"],
+      "riskLevel": "incremental"
+    },
+    {
+      "id": "idea-hindsight-critic-training",
+      "title": "Distilling HindSight Signal into an Inference-Time Critic",
+      "hypothesis": "A critic model distilled from HindSight's future-citation-impact scores (rather than LLM-judge novelty scores) will, when used as the critic in a multi-agent ideation-critique-revision loop, produce ideas that score higher on HindSight-style forward evaluation than critics trained on LLM-judge novelty alone.",
+      "description": "Multi-agent dialogue work shows critic diversity improves feasibility, and Deep Ideation shows critics trained on reviewer feedback help, but no one has trained a critic on HindSight's outcome-based signal, which negatively correlates with LLM-judged novelty. Swapping the critic's training target should reduce the 'novelty mirage' problem inside agentic loops.",
+      "method": "Replicate HindSight's temporal-cutoff evaluation to generate (idea, future-impact-score) pairs across several topics, fine-tune a critic LM to predict this score, plug it into the ideation-critique-revision loop from arxiv-2507.08350 in place of an LLM-judge critic, and compare resulting ideas' HindSight scores against the LLM-judge-critic baseline.",
+      "groundedIn": ["arxiv-2603.15164", "arxiv-2507.08350", "arxiv-2511.02238"],
+      "riskLevel": "high-risk"
+    },
+    {
+      "id": "idea-rq-anchored-contrastive-training",
+      "title": "RQ-Anchored Contrastive Fine-Tuning Against the Novelty Mirage",
+      "hypothesis": "Fine-tuning an ideation model with contrastive pairs of (author-anchored RQ, LLM-generated narrow/source-bound RQ) will reduce the rate at which downstream ideas are 'narrow or source-bound' as judged by domain experts, compared to standard SFT ideation models.",
+      "description": "RQ-Bench shows LLM judges suffer a novelty mirage on research questions while human experts detect narrowness that LLM judges miss. Rather than only using RQ-Bench as an eval, this idea uses its author-anchored RQs as a contrastive training signal to directly teach a model to avoid narrow/source-bound framing before it ever generates a full idea.",
+      "method": "Build a contrastive dataset from RQ-Bench pairing each author-anchored RQ with 2-3 LLM-generated RQs on the same background, label pairs by expert narrowness judgments, and train via DPO to prefer the broader-framing RQ; evaluate on held-out papers using the same human-expert narrow/source-bound rating protocol as RQ-Bench.",
+      "groundedIn": ["arxiv-2606.12071", "arxiv-2607.01233"],
+      "riskLevel": "ambitious"
+    },
+    {
+      "id": "idea-facet-concept-network-fusion",
+      "title": "Fusing Facet Recombination with Concept-Network Path Search",
+      "hypothesis": "Combining Scideator's facet-based recombination (purpose/mechanism/evaluation) with Deep Ideation's scientific concept-network traversal will produce ideas rated higher on both novelty and feasibility than either method alone, because facets ground the network paths in executable components.",
+      "description": "Scideator recombines facets but retrieves analogous papers by embedding distance, missing explicit concept-relation structure; Deep Ideation traverses a concept co-occurrence network but lacks facet-level grounding of mechanism/evaluation feasibility. Fusing them means concept-network paths are filtered/explained via facet compatibility before being proposed as ideas.",
+      "method": "Build a concept graph as in Deep Ideation, but annotate graph edges with the facet type (purpose-link, mechanism-link, evaluation-link) extracted via Scideator's facet extractor; run explore-expand-evolve search constrained to facet-compatible paths, and A/B test against both baselines using the same reviewer-trained critic engine from arxiv-2511.02238.",
+      "groundedIn": ["arxiv-2409.14634", "arxiv-2511.02238"],
+      "riskLevel": "ambitious"
+    },
+    {
+      "id": "idea-workflow-architecture-metaanalysis",
+      "title": "Meta-Benchmark of Ideation Workflow Architectures Under a Shared Novelty Metric",
+      "hypothesis": "When re-scored under one consistent GraphEval-style graph-propagation novelty metric, the reflection/evolutionary/multi-agent/recursive-decomposition/long-context architectures benchmarked separately across papers will show a materially different ranking than each paper's self-reported numbers, because self-reported LLM-judge scores are inconsistent across studies.",
+      "description": "Nova, LDC, Deep Ideation, the multi-workflow benchmark, and the multi-agent dialogue study each claim gains using different LLM-judge protocols, making cross-paper comparison unreliable. Re-running each architecture's public code and scoring all outputs with one shared, more robust evaluator would produce the first apples-to-apples ranking.",
+      "method": "Reproduce the five architectures from arxiv-2601.09714 plus Nova and the multi-agent dialogue system using their public repos on a common seed-paper set, score all resulting ideas with GraphEval-GNN's label-propagation novelty score, and report Swiss-tournament rankings under this single metric versus each paper's original claims.",
+      "groundedIn": ["arxiv-2601.09714", "arxiv-2410.14255", "arxiv-2503.12600", "arxiv-2507.08350"],
+      "riskLevel": "incremental"
+    },
+    {
+      "id": "idea-judge-calibration-via-rq-gap",
+      "title": "Calibrating LLM-as-Judge Novelty Scores Using the Human-LLM Taste Gap",
+      "hypothesis": "Post-hoc recalibrating an LLM judge's novelty score using the idea's measured deviation from the human opportunity/paradigm taxonomy distribution (as a correction term) will bring LLM-judge novelty rankings into significantly higher rank correlation with human expert novelty rankings than uncalibrated LLM-judge scores.",
+      "description": "RQ-Bench and the novelty-assessment limits paper show LLM judges systematically overrate novel-sounding but derivative ideas; the human-LLM gap paper independently shows LLM ideas cluster in bridge/synthesis taxonomy space. This idea treats taxonomy-cluster membership itself as a bias-correction signal for judge calibration, rather than just a descriptive diagnostic.",
+      "method": "For the RINoBench and RQ-Bench idea sets, compute each idea's taxonomy classification and its distance from the dense human-idea taxonomy region, fit a correction term (linear or isotonic regression) mapping raw LLM-judge novelty score plus taxonomy-distance to a calibrated score, and test whether calibrated scores improve Spearman correlation with human gold novelty judgments on held-out ideas.",
+      "groundedIn": ["arxiv-2603.10303", "arxiv-2606.12071", "arxiv-2607.01233"],
+      "riskLevel": "high-risk"
+    }
+  ],
+  "ideaEdges": [
+    { "from": "idea-taste-reward-shaping", "to": "idea-judge-calibration-via-rq-gap", "type": "inspiration" },
+    { "from": "idea-hindsight-critic-training", "to": "idea-pre-execution-failure-classifier", "type": "inspiration" },
+    { "from": "idea-rq-anchored-contrastive-training", "to": "idea-judge-calibration-via-rq-gap", "type": "inspiration" },
+    { "from": "idea-facet-concept-network-fusion", "to": "idea-workflow-architecture-metaanalysis", "type": "inspiration" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "research-atlas",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "fetch": "node tools/fetch-arxiv.mjs",
+    "layout": "node tools/layout.mjs",
+    "research": "node tools/fetch-arxiv.mjs"
+  },
+  "dependencies": {
+    "three": "^0.166.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}

@@ -1,0 +1,373 @@
+[
+  {
+    "id": "arxiv-2409.04109",
+    "type": "paper",
+    "source": "arxiv",
+    "title": "Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers",
+    "authors": [
+      "Chenglei Si",
+      "Diyi Yang",
+      "Tatsunori Hashimoto"
+    ],
+    "year": 2024,
+    "venue": "cs.CL",
+    "abstract": "Recent advancements in large language models (LLMs) have sparked optimism about their potential to accelerate scientific discovery, with a growing number of works proposing research agents that autonomously generate and validate new ideas. Despite this, no evaluations have shown that LLM systems can take the very first step of producing novel, expert-level ideas, let alone perform the entire research process. We address this by establishing an experimental design that evaluates research idea generation while controlling for confounders and performs the first head-to-head comparison between expert NLP researchers and an LLM ideation agent. By recruiting over 100 NLP researchers to write novel ideas and blind reviews of both LLM and human ideas, we obtain the first statistically significant conclusion on current LLM capabilities for research ideation: we find LLM-generated ideas are judged as more novel (p < 0.05) than human expert ideas while being judged slightly weaker on feasibility. Studying our agent baselines closely, we identify open problems in building and evaluating research agents, including failures of LLM self-evaluation and their lack of diversity in generation. Finally, we acknowledge that human judgements of novelty can be difficult, even by experts, and propose an end-to-end study design which recruits researchers to execute these ideas into full projects, enabling us to study whether these novelty and feasibility judgements result in meaningful differences in research outcome.",
+    "url": "http://arxiv.org/abs/2409.04109v1",
+    "influence": 3,
+    "branch": "arxiv",
+    "pos": [
+      -926.6029275574207,
+      106.03649983829132,
+      -319.51064759835333
+    ]
+  },
+  {
+    "id": "arxiv-2603.15164",
+    "type": "paper",
+    "source": "arxiv",
+    "title": "HindSight: Evaluating LLM-Generated Research Ideas via Future Impact",
+    "authors": [
+      "Bo Jiang"
+    ],
+    "year": 2026,
+    "venue": "cs.CL",
+    "abstract": "Evaluating AI-generated research ideas typically relies on LLM judges or human panels -- both subjective and disconnected from actual research impact. We introduce HindSight, a time-split evaluation framework that measures idea quality by matching generated ideas against real future publications and scoring them by citation impact and venue acceptance. Using a temporal cutoff~$T$, we restrict an idea generation system to pre-$T$ literature, then evaluate its outputs against papers published in the subsequent 30 months. Experiments across 10 AI/ML research topics reveal a striking disconnect: LLM-as-Judge finds no significant difference between retrieval-augmented and vanilla idea generation ($p{=}0.584$), while HindSight shows the retrieval-augmented system produces 2.5$\\times$ higher-scoring ideas ($p{<}0.001$). Moreover, HindSight scores are \\emph{negatively} correlated with LLM-judged novelty ($ρ{=}{-}0.29$, $p{<}0.01$), suggesting that LLMs systematically overvalue novel-sounding ideas that never materialize in real research.",
+    "url": "http://arxiv.org/abs/2603.15164v2",
+    "influence": 2,
+    "branch": "arxiv",
+    "pos": [
+      -844.3742038921678,
+      23.507811913637532,
+      -288.363513380167
+    ]
+  },
+  {
+    "id": "arxiv-2410.14255",
+    "type": "paper",
+    "source": "huggingface",
+    "title": "Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas",
+    "authors": [
+      "Xiang Hu",
+      "Hongyu Fu",
+      "Jinge Wang",
+      "Yifeng Wang",
+      "Zhikun Li",
+      "Renjun Xu",
+      "Yu Lu",
+      "Yaochu Jin",
+      "Lili Pan",
+      "Zhenzhong Lan"
+    ],
+    "year": 2024,
+    "venue": "cs.AI",
+    "abstract": "Scientific innovation is pivotal for humanity, and harnessing large language models (LLMs) to generate research ideas could transform discovery. However, existing LLMs often produce simplistic and repetitive suggestions due to their limited ability in acquiring external knowledge for innovation. To address this problem, we introduce an enhanced planning and search methodology designed to boost the creative potential of LLM-based systems. Our approach involves an iterative process to purposely plan the retrieval of external knowledge, progressively enriching the idea generation with broader and deeper insights. Validation through automated and human assessments indicates that our framework substantially elevates the quality of generated ideas, particularly in novelty and diversity. The number of unique novel ideas produced by our framework is 3.4 times higher than without it. Moreover, our method outperforms the current state-of-the-art, generating at least 2.5 times more top-rated ideas based on 170 seed papers in a Swiss Tournament evaluation.",
+    "url": "http://arxiv.org/abs/2410.14255v2",
+    "influence": 2,
+    "branch": "huggingface",
+    "pos": [
+      -557.2781987730689,
+      42.03694941873799,
+      -425.3265388969538
+    ]
+  },
+  {
+    "id": "arxiv-2607.01233",
+    "type": "paper",
+    "source": "arxiv",
+    "title": "Measuring the Gap Between Human and LLM Research Ideas",
+    "authors": [
+      "Ziyu Chen",
+      "Yilun Zhao",
+      "Arman Cohan"
+    ],
+    "year": 2026,
+    "venue": "cs.CL",
+    "abstract": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation framework for ideation from high-quality human research papers. For each paper, we reverse-engineer a small set of closely related prior works that likely inspired its core idea. LLMs are then prompted to generate a new idea from the set of paper titles and summaries. We introduce a two-axis research-taste taxonomy to profile each idea by its opportunity pattern and research paradigm, and use it to quantify the divergence between human and LLM ideas. Across idea sets generated by different LLMs, we observe a consistent distributional gap: LLM ideas are disproportionately concentrated around bridge-like opportunities and synthesis methods, whereas the human paper reference distribution spreads more broadly across ways of framing gaps and constructing contributions. This result suggests that strong LLMs can produce a range of reasonable ideas, but that range remains narrower than, and systematically shifted relative to, human research taste.",
+    "url": "http://arxiv.org/abs/2607.01233v1",
+    "influence": 3,
+    "branch": "arxiv",
+    "pos": [
+      -743.1016559164071,
+      66.28285599156068,
+      -69.81234683171337
+    ]
+  },
+  {
+    "id": "arxiv-2506.20803",
+    "type": "paper",
+    "source": "arxiv",
+    "title": "The Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas",
+    "authors": [
+      "Chenglei Si",
+      "Tatsunori Hashimoto",
+      "Diyi Yang"
+    ],
+    "year": 2025,
+    "venue": "cs.CL",
+    "abstract": "Large Language Models (LLMs) have shown promise in accelerating the scientific research pipeline. A key capability for this process is the ability to generate novel research ideas, and prior studies have found settings in which LLM-generated research ideas were judged as more novel than human-expert ideas. However, a good idea should not simply appear to be novel, it should also result in better research after being executed. To test whether AI-generated ideas lead to better research outcomes, we conduct an execution study by recruiting 43 expert researchers to execute randomly-assigned ideas, either written by experts or generated by an LLM. Each expert spent over 100 hours implementing the idea and wrote a 4-page short paper to document the experiments. All the executed projects are then reviewed blindly by expert NLP researchers. Comparing the review scores of the same ideas before and after execution, the scores of the LLM-generated ideas decrease significantly more than expert-written ideas on all evaluation metrics (novelty, excitement, effectiveness, and overall; p < 0.05), closing the gap between LLM and human ideas observed at the ideation stage. When comparing the aggregated review scores from the execution study, we even observe that for many metrics there is a flip in rankings where human ideas score higher than LLM ideas. This ideation-execution gap highlights the limitations of current LLMs in generating truly effective research ideas and the challenge of evaluating research ideas in the absence of execution outcomes.",
+    "url": "http://arxiv.org/abs/2506.20803v1",
+    "influence": 2,
+    "branch": "arxiv",
+    "pos": [
+      -985.2282177277809,
+      -124.48338090952785,
+      60.57116318636429
+    ]
+  },
+  {
+    "id": "arxiv-2601.09714",
+    "type": "paper",
+    "source": "huggingface",
+    "title": "Evaluating Novelty in AI-Generated Research Plans Using Multi-Workflow LLM Pipelines",
+    "authors": [
+      "Devesh Saraogi",
+      "Rohit Singhee",
+      "Dhruv Kumar"
+    ],
+    "year": 2025,
+    "venue": "cs.CL",
+    "abstract": "The integration of Large Language Models (LLMs) into the scientific ecosystem raises fundamental questions about the creativity and originality of AI-generated research. Recent work has identified ``smart plagiarism'' as a concern in single-step prompting approaches, where models reproduce existing ideas with terminological shifts. This paper investigates whether agentic workflows -- multi-step systems employing iterative reasoning, evolutionary search, and recursive decomposition -- can generate more novel and feasible research plans. We benchmark five reasoning architectures: Reflection-based iterative refinement, Sakana AI v2 evolutionary algorithms, Google Co-Scientist multi-agent framework, GPT Deep Research (GPT-5.1) recursive decomposition, and Gemini~3 Pro multimodal long-context pipeline. Using evaluations from thirty proposals each on novelty, feasibility, and impact, we find that decomposition-based and long-context workflows achieve mean novelty of 4.17/5, while reflection-based approaches score significantly lower (2.33/5). Results reveal varied performance across research domains, with high-performing workflows maintaining feasibility without sacrificing creativity. These findings support the view that carefully designed multi-stage agentic workflows can advance AI-assisted research ideation.",
+    "url": "http://arxiv.org/abs/2601.09714v1",
+    "influence": 2,
+    "branch": "huggingface",
+    "pos": [
+      -266.9686547532312,
+      61.3574471572737,
+      -641.5211599147256
+    ]
+  },
+  {
+    "id": "arxiv-2606.12071",
+    "type": "paper",
+    "source": "arxiv",
+    "title": "On the Limits of LLM-as-Judge for Scientific Novelty Assessment",
+    "authors": [
+      "Soumitra Sinhahajari",
+      "Navonil Majumder",
+      "Soujanya Poria"
+    ],
+    "year": 2026,
+    "venue": "cs.DL",
+    "abstract": "LLMs are increasingly used to generate and judge scientific ideas. This makes novelty evaluation a central problem. Full idea evaluation is difficult because it often requires judging a method, its feasibility, and its empirical promise. We therefore study a cleaner upstream object: the research question (RQ). RQ generation is a prerequisite for scientific ideation, and RQs can be compared against questions pursued in real papers. We introduce RQ-Bench, a benchmark built from recent arXiv papers. For each paper, we reconstruct author-anchored RQs from its cited background, gaps, and contributions. These RQs are not the only valid questions for the same background. They are author-anchored reference points for testing novelty judgments. We evaluate model-generated RQs with standalone LLM judging, comparative LLM judging, and human expert evaluation. LLM judges consistently rate model-generated RQs as highly novel, producing a novelty mirage; in comparative evaluations, this preference becomes even stronger. Domain experts, however, reach the opposite conclusion and prefer the author-anchored reference questions. We further find that many generated RQs are narrow or source-bound, a dimension that LLM judges often miss unless explicitly tested. Overall, the contradictory novelty evaluations between LLM judges and human experts raise a serious concern about the reliability of using LLMs to assess the scientific novelty of research questions.",
+    "url": "http://arxiv.org/abs/2606.12071v1",
+    "influence": 2,
+    "branch": "arxiv",
+    "pos": [
+      -675.9425339533367,
+      11.806845917744376,
+      -178.71791524170044
+    ]
+  },
+  {
+    "id": "arxiv-2511.02238",
+    "type": "paper",
+    "source": "paperswithcode",
+    "title": "Deep Ideation: Designing LLM Agents to Generate Novel Research Ideas on Scientific Concept Network",
+    "authors": [
+      "Keyu Zhao",
+      "Weiquan Lin",
+      "Qirui Zheng",
+      "Fengli Xu",
+      "Yong Li"
+    ],
+    "year": 2025,
+    "venue": "cs.AI",
+    "abstract": "Novel research ideas play a critical role in advancing scientific inquiries. Recent advancements in Large Language Models (LLMs) have demonstrated their potential to generate novel research ideas by leveraging large-scale scientific literature. However, previous work in research ideation has primarily relied on simplistic methods, such as keyword co-occurrence or semantic similarity. These approaches focus on identifying statistical associations in the literature but overlook the complex, contextual relationships between scientific concepts, which are essential to effectively leverage knowledge embedded in human literature. For instance, papers that simultaneously mention \"keyword A\" and \"keyword B\" often present research ideas that integrate both concepts. Additionally, some LLM-driven methods propose and refine research ideas using the model's internal knowledge, but they fail to effectively utilize the scientific concept network, limiting the grounding of ideas in established research. To address these challenges, we propose the Deep Ideation framework to address these challenges, integrating a scientific network that captures keyword co-occurrence and contextual relationships, enriching LLM-driven ideation. The framework introduces an explore-expand-evolve workflow to iteratively refine research ideas, using an Idea Stack to track progress. A critic engine, trained on real-world reviewer feedback, guides the process by providing continuous feedback on the novelty and feasibility of ideas. Our experiments show that our approach improves the quality of generated ideas by 10.67% compared to other methods, with ideas surpassing top conference acceptance levels. Human evaluation highlights their practical value in scientific research, and ablation studies confirm the effectiveness of each component in the workflow. Code repo is available at https://github.com/kyZhao-1/Deep-Ideation.",
+    "url": "http://arxiv.org/abs/2511.02238v1",
+    "influence": 2,
+    "branch": "paperswithcode",
+    "pos": [
+      821.0961261884763,
+      -43.104025334535066,
+      -726.923144840006
+    ]
+  },
+  {
+    "id": "arxiv-2412.14626",
+    "type": "paper",
+    "source": "arxiv",
+    "title": "LDC: Learning to Generate Research Idea with Dynamic Control",
+    "authors": [
+      "Ruochen Li",
+      "Liqiang Jing",
+      "Chi Han",
+      "Jiawei Zhou",
+      "Xinya Du"
+    ],
+    "year": 2024,
+    "venue": "cs.CL",
+    "abstract": "Recent advancements in large language models (LLMs) have demonstrated their potential in automating the scientific research ideation. Existing approaches primarily focus on prompting techniques, often producing ideas misaligned with expert standards - novelty, feasibility, and effectiveness, which are widely recognized by the research community as the three key subdimensions of high-quality ideas. Also, balancing these dimensions remains challenging due to their inherent trade-offs. To address these limitations, we propose the first framework that employs a two-stage approach combining Supervised Fine-Tuning (SFT) and controllable Reinforcement Learning (RL) for the task. In the SFT stage, the model learns foundational patterns from pairs of research papers and their corresponding follow-up ideas. In the RL stage, multi-dimensional reward models guided by fine-grained feedback evaluate and optimize the model across key dimensions. During inference, dimensional controllers coordinated by a sentence-level decoder enable dynamic context-aware steering of the idea generation process. Our framework provides a balanced approach to research idea generation, achieving high-quality outcomes in the experiment by dynamically navigating the trade-offs among novelty, feasibility, and effectiveness.",
+    "url": "http://arxiv.org/abs/2412.14626v2",
+    "influence": 2,
+    "branch": "arxiv",
+    "pos": [
+      -974.655265630865,
+      82.30582839555211,
+      -108.48174408401891
+    ]
+  },
+  {
+    "id": "arxiv-2411.02429",
+    "type": "paper",
+    "source": "arxiv",
+    "title": "IdeaBench: Benchmarking Large Language Models for Research Idea Generation",
+    "authors": [
+      "Sikun Guo",
+      "Amir Hassan Shariatmadari",
+      "Guangzhi Xiong",
+      "Albert Huang",
+      "Eric Xie",
+      "Stefan Bekiranov",
+      "Aidong Zhang"
+    ],
+    "year": 2024,
+    "venue": "cs.CL",
+    "abstract": "Large Language Models (LLMs) have transformed how people interact with artificial intelligence (AI) systems, achieving state-of-the-art results in various tasks, including scientific discovery and hypothesis generation. However, the lack of a comprehensive and systematic evaluation framework for generating research ideas using LLMs poses a significant obstacle to understanding and assessing their generative capabilities in scientific discovery. To address this gap, we propose IdeaBench, a benchmark system that includes a comprehensive dataset and an evaluation framework for standardizing the assessment of research idea generation using LLMs. Our dataset comprises titles and abstracts from a diverse range of influential papers, along with their referenced works. To emulate the human process of generating research ideas, we profile LLMs as domain-specific researchers and ground them in the same context considered by human researchers. This maximizes the utilization of the LLMs' parametric knowledge to dynamically generate new research ideas. We also introduce an evaluation framework for assessing the quality of generated research ideas. Our evaluation framework is a two-stage process: first, using GPT-4o to rank ideas based on user-specified quality indicators such as novelty and feasibility, enabling scalable personalization; and second, calculating relative ranking based \"Insight Score\" to quantify the chosen quality indicator. The proposed benchmark system will be a valuable asset for the community to measure and compare different LLMs, ultimately advancing the automation of the scientific discovery process.",
+    "url": "http://arxiv.org/abs/2411.02429v1",
+    "influence": 2,
+    "branch": "arxiv",
+    "pos": [
+      -684.6544055244024,
+      14.209757610101128,
+      -151.27206915477694
+    ]
+  },
+  {
+    "id": "arxiv-2603.10303",
+    "type": "paper",
+    "source": "huggingface",
+    "title": "Is this Idea Novel? An Automated Benchmark for Judgment of Research Ideas",
+    "authors": [
+      "Tim Schopf",
+      "Michael Färber"
+    ],
+    "year": 2026,
+    "venue": "cs.CL",
+    "abstract": "Judging the novelty of research ideas is crucial for advancing science, enabling the identification of unexplored directions, and ensuring contributions meaningfully extend existing knowledge rather than reiterate minor variations. However, given the exponential growth of scientific literature, manually judging the novelty of research ideas through literature reviews is labor-intensive, subjective, and infeasible at scale. Therefore, recent efforts have proposed automated approaches for research idea novelty judgment. Yet, evaluation of these approaches remains largely inconsistent and is typically based on non-standardized human evaluations, hindering large-scale, comparable evaluations. To address this, we introduce RINoBench, the first comprehensive benchmark for large-scale evaluation of research idea novelty judgments. It comprises 1,381 research ideas derived from and judged by human experts as well as nine automated evaluation metrics designed to assess both rubric-based novelty scores and textual justifications of novelty judgments. Using this benchmark, we evaluate several state-of-the-art large language models (LLMs) on their ability to judge the novelty of research ideas. Our findings reveal that while LLM-generated reasoning closely mirrors human rationales, this alignment does not reliably translate into accurate novelty judgments, which diverge significantly from human gold standard judgments - even among leading reasoning-capable models. Data and code available at: https://github.com/TimSchopf/RINoBench.",
+    "url": "http://arxiv.org/abs/2603.10303v1",
+    "influence": 2,
+    "branch": "huggingface",
+    "pos": [
+      -290.0408634199178,
+      -175.41425177029635,
+      -846.4204570778345
+    ]
+  },
+  {
+    "id": "arxiv-2604.20548",
+    "type": "paper",
+    "source": "paperswithcode",
+    "title": "Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies",
+    "authors": [
+      "Shuai Chen",
+      "Chengzhi Zhang"
+    ],
+    "year": 2026,
+    "venue": "cs.CL",
+    "abstract": "Scientific progress depends on the continual generation of innovative re-search ideas. However, the rapid growth of scientific literature has greatly increased the cost of knowledge filtering, making it harder for researchers to identify novel directions. Although existing large language model (LLM)-based methods show promise in research idea generation, the ideas they produce are often repetitive and lack depth. To address this issue, this study proposes a multi-agent iterative planning search strategy inspired by com-binatorial innovation theory. The framework combines iterative knowledge search with an LLM-based multi-agent system to generate, evaluate, and re-fine research ideas through repeated interaction, with the goal of improving idea diversity and novelty. Experiments in the natural language processing domain show that the proposed method outperforms state-of-the-art base-lines in both diversity and novelty. Further comparison with ideas derived from top-tier machine learning conference papers indicates that the quality of the generated ideas falls between that of accepted and rejected papers. These results suggest that the proposed framework is a promising approach for supporting high-quality research idea generation. The source code and dataset used in this paper are publicly available on Github repository: https://github.com/ChenShuai00/MAGenIdeas. The demo is available at https://huggingface.co/spaces/cshuai20/MAGenIdeas.",
+    "url": "http://arxiv.org/abs/2604.20548v1",
+    "influence": 2,
+    "branch": "paperswithcode",
+    "pos": [
+      574.8741516079242,
+      1.1891157552192553,
+      -466.4360322250608
+    ]
+  },
+  {
+    "id": "arxiv-2503.12600",
+    "type": "paper",
+    "source": "arxiv",
+    "title": "GraphEval: A Lightweight Graph-Based LLM Framework for Idea Evaluation",
+    "authors": [
+      "Tao Feng",
+      "Yihang Sun",
+      "Jiaxuan You"
+    ],
+    "year": 2025,
+    "venue": "cs.LG",
+    "abstract": "The powerful capabilities of Large Language Models (LLMs) have led to their growing use in evaluating human-generated content, particularly in evaluating research ideas within academic settings. Existing solutions primarily rely on prompt-based LLM methods or fine-tuned lightweight language models for idea evaluation. However, these methods are often unstable and struggle to comprehend the complex semantic information embedded in the ideas, impeding their ability to perform high-quality evaluations. To address the above challenges, we propose GraphEval, a lightweight graph-based LLM framework for idea evaluation. Our insight is that a complex idea can be broken down into comprehensible viewpoint nodes using prompts from small LLMs. These viewpoint nodes can then be linked together through edges created from LLM-based relation extraction and/or BERT similarity scores. The created viewpoint-graph can be used to conveniently propagate scores across view-nodes to improve the robustness of the idea evaluations. In particular, we propose two lightweight graph-based methods for idea evaluation: (1) GraphEval-LP: a training-free label propagation algorithm that propagates evaluation scores from known view-nodes to unknown nodes; (2) GraphEval-GNN: a Graph Neural Networks (GNN) that is trained to predict the evaluation scores given the observed graph with minimal computation resources. Moreover, to overcome LLM's limitation in objectively assessing the novelty of ideas, we further propose a novelty detection model to GraphEval-GNN to enhance its capability in judging idea novelty. Experiments on two datasets show GraphEval improves F1 scores by at least 14% with low computation and API costs. Additionally, GraphEval can effectively detect plagiarized ideas.",
+    "url": "http://arxiv.org/abs/2503.12600v2",
+    "influence": 2,
+    "branch": "arxiv",
+    "pos": [
+      -615.0491345809716,
+      119.71423079503982,
+      155.41874599878253
+    ]
+  },
+  {
+    "id": "arxiv-2409.06185",
+    "type": "paper",
+    "source": "arxiv",
+    "title": "Can Large Language Models Unlock Novel Scientific Research Ideas?",
+    "authors": [
+      "Sandeep Kumar",
+      "Tirthankar Ghosal",
+      "Vinayak Goyal",
+      "Asif Ekbal"
+    ],
+    "year": 2024,
+    "venue": "cs.CL",
+    "abstract": "The widespread adoption of Large Language Models (LLMs) and publicly available ChatGPT have marked a significant turning point in the integration of Artificial Intelligence (AI) into people's everyday lives. This study examines the ability of Large Language Models (LLMs) to generate future research ideas from scientific papers. Unlike tasks such as summarization or translation, idea generation lacks a clearly defined reference set or structure, making manual evaluation the default standard. However, human evaluation in this setting is extremely challenging ie: it requires substantial domain expertise, contextual understanding of the paper, and awareness of the current research landscape. This makes it time-consuming, costly, and fundamentally non-scalable, particularly as new LLMs are being released at a rapid pace. Currently, there is no automated evaluation metric specifically designed for this task. To address this gap, we propose two automated evaluation metrics: Idea Alignment Score (IAScore) and Idea Distinctness Index. We further conducted human evaluation to assess the novelty, relevance, and feasibility of the generated future research ideas. This investigation offers insights into the evolving role of LLMs in idea generation, highlighting both its capability and limitations. Our work contributes to the ongoing efforts in evaluating and utilizing language models for generating future research ideas. We make our datasets and codes publicly available",
+    "url": "http://arxiv.org/abs/2409.06185v2",
+    "influence": 2,
+    "branch": "arxiv",
+    "pos": [
+      -702.1303301664732,
+      125.1695819426292,
+      -209.12853974820095
+    ]
+  },
+  {
+    "id": "arxiv-2409.14634",
+    "type": "paper",
+    "source": "huggingface",
+    "title": "Human-LLM Compound System for Scientific Ideation through Facet Recombination and Novelty Evaluation",
+    "authors": [
+      "Marissa Radensky",
+      "Simra Shahid",
+      "Raymond Fok",
+      "Pao Siangliulue",
+      "Tom Hope",
+      "Daniel S. Weld"
+    ],
+    "year": 2024,
+    "venue": "cs.HC",
+    "abstract": "The scientific ideation process often involves blending facets of existing papers to create new ideas. We contribute Scideator, the first human-LLM system for facet-based scientific ideation. Starting from user-provided papers, Scideator extracts key facets -- purposes, mechanisms, and evaluations -- from these and related papers, allowing users to interactively recombine facets to synthesize ideas. Scideator is driven by three design choices: (1) human-in-the-loop facet recombination, in which users select facets from retrieved papers and the system generates ideas by finding analogies across them via the Faceted Idea Generator module; (2) distance-controlled retrieval via the Analogous Paper Facet Finder module, which surfaces papers ranging from the same topic to entirely different areas to provide a spectrum of directions; and (3) facet-based novelty verification via the Idea Novelty Checker module, a retrieve-then-rerank pipeline that helps users to evaluate idea originality using facets. In a user study with computer science researchers, Scideator provided significantly more creativity support than a baseline using the same backbone LLM without our facet-based modules, particularly in idea exploration and expressiveness. Ablations further show that the facets benefit the novelty checker: facet-based retrieve-then-rerank surfaces more relevant papers than standard retrieval and re-ranking, and a facet-grounded novelty classifier outperforms classifiers that reason over unstructured ideas and papers.",
+    "url": "http://arxiv.org/abs/2409.14634v7",
+    "influence": 2,
+    "branch": "huggingface",
+    "pos": [
+      -124.23457979295463,
+      -58.72544025087815,
+      -648.1672992116162
+    ]
+  },
+  {
+    "id": "arxiv-2507.08350",
+    "type": "paper",
+    "source": "paperswithcode",
+    "title": "Exploring Design of Multi-Agent LLM Dialogues for Research Ideation",
+    "authors": [
+      "Keisuke Ueda",
+      "Wataru Hirota",
+      "Takuto Asakura",
+      "Takahiro Omi",
+      "Kosuke Takahashi",
+      "Kosuke Arima",
+      "Tatsuya Ishigaki"
+    ],
+    "year": 2025,
+    "venue": "cs.CL",
+    "abstract": "Large language models (LLMs) are increasingly used to support creative tasks such as research idea generation. While recent work has shown that structured dialogues between LLMs can improve the novelty and feasibility of generated ideas, the optimal design of such interactions remains unclear. In this study, we conduct a comprehensive analysis of multi-agent LLM dialogues for scientific ideation. We compare different configurations of agent roles, number of agents, and dialogue depth to understand how these factors influence the novelty and feasibility of generated ideas. Our experimental setup includes settings where one agent generates ideas and another critiques them, enabling iterative improvement. Our results show that enlarging the agent cohort, deepening the interaction depth, and broadening agent persona heterogeneity each enrich the diversity of generated ideas. Moreover, specifically increasing critic-side diversity within the ideation-critique-revision loop further boosts the feasibility of the final proposals. Our findings offer practical guidelines for building effective multi-agent LLM systems for scientific ideation. Our code is available at https://github.com/g6000/MultiAgent-Research-Ideator.",
+    "url": "http://arxiv.org/abs/2507.08350v1",
+    "influence": 2,
+    "branch": "paperswithcode",
+    "pos": [
+      663.9887575637609,
+      -12.980020748425495,
+      -169.3421840050359
+    ]
+  }
+]
