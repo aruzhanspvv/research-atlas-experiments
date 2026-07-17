@@ -1,0 +1,13 @@
+node_modules
+dist
+.vercel
+.DS_Store
+
+# Local env / secrets — NEVER commit real API keys
+.env.local
+.env.*.local
+
+# Internal work files
+CLAUDE.md
+VISION.md
+tasks/

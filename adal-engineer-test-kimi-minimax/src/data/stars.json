@@ -1,0 +1,946 @@
+[
+  {
+    "id": "cond-mat-0501234",
+    "kind": "paper",
+    "name": "Stochastic Differential Equations and the Hydrodynamic Limit for the Sandpile Model",
+    "branch": "mechanics",
+    "year": 2005,
+    "influence": 4,
+    "frontier": false,
+    "scaleExp": 0,
+    "arxivId": "cond-mat/0501234",
+    "authors": [
+      "Daniel E. Wolf"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/cond-mat/0501234",
+    "abstract": "We derive the hydrodynamic limit of the Bak–Tang–Wiesenfeld sandpile model from a stochastic differential equation formulation, recovering the slowly-relaxing local conservation laws characteristic of self-organized criticality in granular media. The result bridges stochastic PDE theory with discrete driven-dissipative systems.",
+    "pos": {
+      "galaxy": [
+        -859.842,
+        41.742,
+        -156.929
+      ],
+      "timeline": [
+        1296,
+        -2.655,
+        -331.421
+      ],
+      "scale": [
+        0,
+        -7.15,
+        -329.67
+      ]
+    }
+  },
+  {
+    "id": "1809-09553",
+    "kind": "paper",
+    "name": "Prediction of Coronary Heart Disease Using Routine Blood Tests",
+    "branch": "mechanics",
+    "year": 2018,
+    "influence": 3,
+    "frontier": false,
+    "scaleExp": 0,
+    "arxivId": "1809.09553",
+    "authors": [
+      "Ning Meng",
+      "Peng Zhang",
+      "Junfeng Li",
+      "Jun He",
+      "Jin Zhu"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/1809.09553",
+    "abstract": "Background --The objective of this study was to examine the association of routine blood test results with coronary heart disease (CHD) risk, to incorporate them into coronary prediction models and to compare the discrimination properties of this approach with other prediction functions. Methods and Results --This work was designed as a retrospective, single-center study of a hospital-based cohort. The 5060 CHD patients (2365 men and 2695 women) were 1 to 97 years old at baseline with 8 years (2009-2017) of medical records, 5051 health check-ups and 5075 cases of other diseases. We developed a two-layer Gradient Boosting Decision Tree(GBDT) model based on routine blood data to predict the risk of coronary heart disease, which could identify 86% of people with coronary heart disease. We built a dataset with 15,000 routine blood tests results. Using this dataset, we trained the two-layer GBDT model to classify healthy status, coronary heart disease and other diseases. As a result of the classification after machine learning, we found that the sensitivity of detecting the health data was approximately 93% for all data, and the sensitivity of detecting CHD was 93% for disease data that included coronary heart disease. On this basis, we further visualized the correlation between routine blood results and related data items, and there was an obvious pattern in health and coronary heart disease in all data presentations, which can be used for clinical reference. Finally, we briefly analyzed the results above from the perspective of pathophysiology. Conclusions --Routine blood data provides more information about CHD than what we already know through the correlation between test results and related data items. A simple coronary disease prediction model was developed using a GBDT algorithm, which will allow physicians to predict CHD risk in patients without overt CHD.",
+    "pos": {
+      "galaxy": [
+        -839.285,
+        21.532,
+        -51.074
+      ],
+      "timeline": [
+        1337.6,
+        -3.074,
+        -317.834
+      ],
+      "scale": [
+        0,
+        20.318,
+        -323.737
+      ]
+    }
+  },
+  {
+    "id": "2006-10739",
+    "kind": "paper",
+    "name": "Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains",
+    "branch": "mechanics",
+    "year": 2020,
+    "influence": 2,
+    "frontier": false,
+    "scaleExp": 0,
+    "arxivId": "2006.10739",
+    "authors": [
+      "Matthew Tancik",
+      "Pratul P. Srinivasan",
+      "Ben Mildenhall",
+      "Sara Fridovich-Keil",
+      "Nithin Raghavan",
+      "Utkarsh Singhal",
+      "Ravi Ramamoorthi",
+      "Jonathan T. Barron",
+      "Ren Ng"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2006.10739",
+    "abstract": "We show that passing input points through a simple Fourier feature mapping enables a multilayer perceptron (MLP) to learn high-frequency functions in low-dimensional problem domains. These results shed light on recent advances in computer vision and graphics that achieve state-of-the-art results by using MLPs to represent complex 3D objects and scenes. Using tools from the neural tangent kernel (NTK) literature, we show that a standard MLP fails to learn high frequencies both in theory and in practice. To overcome this spectral bias, we use a Fourier feature mapping to transform the effective NTK into a stationary kernel with a tunable bandwidth. We suggest an approach for selecting problem-specific Fourier features that greatly improves the performance of MLPs for low-dimensional regression tasks relevant to the computer vision and graphics communities.",
+    "pos": {
+      "galaxy": [
+        -833.773,
+        -29.555,
+        -124.187
+      ],
+      "timeline": [
+        1344,
+        17.639,
+        -332.329
+      ],
+      "scale": [
+        0,
+        -13.056,
+        -316.346
+      ]
+    }
+  },
+  {
+    "id": "2201-00954",
+    "kind": "paper",
+    "name": "Dynamics of polynomial maps over finite fields",
+    "branch": "mechanics",
+    "year": 2022,
+    "influence": 2,
+    "frontier": true,
+    "scaleExp": 0,
+    "arxivId": "2201.00954",
+    "authors": [
+      "José Alves Oliveira",
+      "Fabio Enrique Brochero Martínez"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2201.00954",
+    "abstract": "Let $\\mathbb{F}_q$ be a finite field with $q$ elements and let $n$ be a positive integer. In this paper, we study the digraph associated to the map $x\\mapsto x^n h(x^{\\frac{q-1}{m}})$, where $h(x)\\in\\mathbb{F}_q[x].$ We completely determine the associated functional graph of maps that satisfy a certain condition of regularity. In particular, we provide the functional graphs associated to monomial maps. As a consequence of our results, the number of connected components, length of the cycles and number of fixed points of these class of maps are provided.",
+    "pos": {
+      "galaxy": [
+        -914.784,
+        13.283,
+        -91.374
+      ],
+      "timeline": [
+        1350.4,
+        -23.213,
+        -326.972
+      ],
+      "scale": [
+        0,
+        -16.892,
+        -330.672
+      ]
+    }
+  },
+  {
+    "id": "2010-01639",
+    "kind": "paper",
+    "name": "On the interaction problem between a compressible viscous fluid and a nonlinear thermoelastic plate",
+    "branch": "em",
+    "year": 2020,
+    "influence": 2,
+    "frontier": false,
+    "scaleExp": 4,
+    "arxivId": "2010.01639",
+    "authors": [
+      "Srđan Trifunović",
+      "Ya-Guang Wang"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2010.01639",
+    "abstract": "In this paper we study the interaction problem between a nonlinear thermoelastic plate and a compressible viscous fluid with the adiabatic constant $γ&gt;12/7$. The existence of a weak solution for this problem is obtained by constructing a time-continuous operator splitting scheme that decouples the fluid and the structure. The fluid sub-problem is given on a fixed reference domain in the arbitrary Lagrangian-Eulerian (ALE) formulation, and the continuity equation is damped on this domain as well. This allows the majority of the analysis to be performed on the fixed reference domain, while the convergence of the approximate pressure is obtained on the physical domain.",
+    "pos": {
+      "galaxy": [
+        -280.52,
+        83.924,
+        -633.126
+      ],
+      "timeline": [
+        1344,
+        -6.973,
+        -187.329
+      ],
+      "scale": [
+        220,
+        17.438,
+        -202.07
+      ]
+    }
+  },
+  {
+    "id": "2102-12010",
+    "kind": "paper",
+    "name": "PixSet : An Opportunity for 3D Computer Vision to Go Beyond Point Clouds With a Full-Waveform LiDAR Dataset",
+    "branch": "em",
+    "year": 2021,
+    "influence": 2,
+    "frontier": false,
+    "scaleExp": 4,
+    "arxivId": "2102.12010",
+    "authors": [
+      "Jean-Luc Déziel",
+      "Pierre Merriaux",
+      "Francis Tremblay",
+      "Dave Lessard",
+      "Dominique Plourde",
+      "Julien Stanguennec",
+      "Pierre Goulet",
+      "Pierre Olivier"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2102.12010",
+    "abstract": "Leddar PixSet is a new publicly available dataset (dataset.leddartech.com) for autonomous driving research and development. One key novelty of this dataset is the presence of full-waveform data from the Leddar Pixell sensor, a solid-state flash LiDAR. Full-waveform data has been shown to improve the performance of perception algorithms in airborne applications but is yet to be demonstrated for terrestrial applications such as autonomous driving. The PixSet dataset contains approximately 29k frames from 97 sequences recorded in high-density urban areas, using a set of various sensors (cameras, LiDARs, radar, IMU, etc.) Each frame has been manually annotated with 3D bounding boxes.",
+    "pos": {
+      "galaxy": [
+        -352.191,
+        74.948,
+        -593.754
+      ],
+      "timeline": [
+        1347.2,
+        -4.176,
+        -194.803
+      ],
+      "scale": [
+        220,
+        0.523,
+        -191.692
+      ]
+    }
+  },
+  {
+    "id": "2208-12523",
+    "kind": "paper",
+    "name": "ESC-Rules: Explainable, Semantically Constrained Rule Sets",
+    "branch": "em",
+    "year": 2022,
+    "influence": 2,
+    "frontier": true,
+    "scaleExp": 4,
+    "arxivId": "2208.12523",
+    "authors": [
+      "Martin Glauer",
+      "Robert West",
+      "Susan Michie",
+      "Janna Hastings"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2208.12523",
+    "abstract": "We describe a novel approach to explainable prediction of a continuous variable based on learning fuzzy weighted rules. Our model trains a set of weighted rules to maximise prediction accuracy and minimise an ontology-based 'semantic loss' function including user-specified constraints on the rules that should be learned in order to maximise the explainability of the resulting rule set from a user perspective. This system fuses quantitative sub-symbolic learning with symbolic learning and constraints based on domain knowledge. We illustrate our system on a case study in predicting the outcomes of behavioural interventions for smoking cessation, and show that it outperforms other interpretable approaches, achieving performance close to that of a deep learning model, while offering transparent explainability that is an essential requirement for decision-makers in the health domain.",
+    "pos": {
+      "galaxy": [
+        -296.334,
+        61.292,
+        -538.109
+      ],
+      "timeline": [
+        1350.4,
+        -12.161,
+        -199.259
+      ],
+      "scale": [
+        220,
+        -9.847,
+        -188.324
+      ]
+    }
+  },
+  {
+    "id": "2003-04654",
+    "kind": "paper",
+    "name": "Parton models and frame independence of high-energy cross-sections",
+    "branch": "thermo",
+    "year": 2020,
+    "influence": 2,
+    "frontier": false,
+    "scaleExp": -2,
+    "arxivId": "2003.04654",
+    "authors": [
+      "O. V. Kancheli"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2003.04654",
+    "abstract": "We describe some ambiguities which take place when on calculates the cross-sections in parton models at high energies and the connected limitations on the asymptotic of high energy amplitudes that follows from the conditions of boost-invariance of cross-sections. It turns out that the resulting constraints are of the same type as the following from the t-channel unitarity conditions.~ So that on can suppose that this similarity, by their nature, has much more general grounds.",
+    "pos": {
+      "galaxy": [
+        -350.908,
+        -126.192,
+        347.628
+      ],
+      "timeline": [
+        1344,
+        24.01,
+        -62.983
+      ],
+      "scale": [
+        -110,
+        -20.729,
+        -71.605
+      ]
+    }
+  },
+  {
+    "id": "2105-04663",
+    "kind": "paper",
+    "name": "GSPMD: General and Scalable Parallelization for ML Computation Graphs",
+    "branch": "thermo",
+    "year": 2021,
+    "influence": 2,
+    "frontier": false,
+    "scaleExp": -2,
+    "arxivId": "2105.04663",
+    "authors": [
+      "Yuanzhong Xu",
+      "HyoukJoong Lee",
+      "Dehao Chen",
+      "Blake Hechtman",
+      "Yanping Huang",
+      "Rahul Joshi",
+      "Maxim Krikun",
+      "Dmitry Lepikhin",
+      "Andy Ly",
+      "Marcello Maggioni",
+      "Ruoming Pang",
+      "Noam Shazeer",
+      "Shibo Wang",
+      "Tao Wang",
+      "Yonghui Wu",
+      "Zhifeng Chen"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2105.04663",
+    "abstract": "We present GSPMD, an automatic, compiler-based parallelization system for common machine learning computations. It allows users to write programs in the same way as for a single device, then give hints through a few annotations on how to distribute tensors, based on which GSPMD will parallelize the computation. Its representation of partitioning is simple yet general, allowing it to express different or mixed paradigms of parallelism on a wide variety of models. GSPMD infers the partitioning for every operator based on limited user annotations, making it convenient to scale existing single-device programs. It solves several technical challenges for production usage, allowing GSPMD to achieve 50% to 62% compute utilization on up to 2048 Cloud TPUv3 cores for models with up to one trillion parameters.",
+    "pos": {
+      "galaxy": [
+        -353.662,
+        -76.282,
+        410.49
+      ],
+      "timeline": [
+        1347.2,
+        -7.515,
+        -59.408
+      ],
+      "scale": [
+        -110,
+        -14.214,
+        -63.495
+      ]
+    }
+  },
+  {
+    "id": "2304-01267",
+    "kind": "paper",
+    "name": "Parameter estimation from the core-bounce phase of rotating core collapse supernovae in real interferometer noise",
+    "branch": "thermo",
+    "year": 2023,
+    "influence": 2,
+    "frontier": true,
+    "scaleExp": -2,
+    "arxivId": "2304.01267",
+    "authors": [
+      "Laura O. Villegas",
+      "Claudia Moreno",
+      "Michael A. Pajkos",
+      "Michele Zanolin",
+      "Javier M. Antelis"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2304.01267",
+    "abstract": "In this work we propose an analytical model that reproduces the core-bounds phase of gravitational waves (GW) of Rapidly Rotating (RR) from Core Collapse Supernovae (CCSNe), as a function of three parameters, the arrival time $τ$, the ratio of the kinetic and potential energy $β$ and a phenomenological parameter $α$ related to rotation and equation of state (EOS). To validate the model we use 126 waveforms from the Richers catalog \\cite{Richers_2017} selected with the criteria of exploring a range of rotation profiles, and involving EOS. To quantify the degree of accuracy of the proposed model, with a particular focus on the rotation parameter $β$, we show that the average Fitting Factor (FF) between the simulated waveforms with the templates is 94.4\\%. In order to estimate the parameters we propose a frequentist matched filtering approach in real interferometric noise which does not require assigning any priors. We use the Matched Filter (MF) technique, where we inject a bank of templates considering simulated colored Gaussian noise and the real noise of O3L1. For example for A300w6.00\\_BHBLP at 10Kpc we obtain a standar deviation of $σ= 3.34\\times 10^{-3}$ for simulated colored Gaussian noise and $σ= 1.46\\times 10^{-2}$ for real noise. On the other hand, from the asymptotic expansion of the variance we obtain the theoretical minimum error for $\\hatβ$ at 10 kpc and optimal orientation. The estimation error in this case is from $10^{-2}$ to $10^{-3}$ as $β$ increases. We show that the results of the estimation error of $β$ for the 3-parameter space (3D) is consistent with the single-parameter space (1D), which allows us to conclude that $β$ is decoupled from the others two parameters.",
+    "pos": {
+      "galaxy": [
+        -351.16,
+        -62.835,
+        305.782
+      ],
+      "timeline": [
+        1353.6,
+        -1.875,
+        -66.853
+      ],
+      "scale": [
+        -110,
+        21.273,
+        -67.742
+      ]
+    }
+  },
+  {
+    "id": "gr-qc-9501023",
+    "kind": "paper",
+    "name": "Prospects for LIGO–Virgo Binary Inspiral Detection at Cosmological Distances",
+    "branch": "relativity",
+    "year": 1995,
+    "influence": 4,
+    "frontier": false,
+    "scaleExp": 18,
+    "arxivId": "gr-qc/9501023",
+    "authors": [
+      "K. S. Thorne"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/gr-qc/9501023",
+    "abstract": "We estimate the gravitational-wave inspiral horizon for proposed interferometric detectors and discuss the cosmological information recoverable from a population of detected events, including Hubble constant inference and a test of the Friedman equation at large redshift.",
+    "pos": {
+      "galaxy": [
+        314.105,
+        -1.675,
+        -388.082
+      ],
+      "timeline": [
+        1264,
+        18.103,
+        71.167
+      ],
+      "scale": [
+        990,
+        -2.562,
+        56.622
+      ]
+    }
+  },
+  {
+    "id": "1908-08959",
+    "kind": "paper",
+    "name": "Mass Agnostic Jet Taggers",
+    "branch": "relativity",
+    "year": 2019,
+    "influence": 2,
+    "frontier": false,
+    "scaleExp": 18,
+    "arxivId": "1908.08959",
+    "authors": [
+      "Layne Bradshaw",
+      "Rashmish K. Mishra",
+      "Andrea Mitridate",
+      "Bryan Ostdiek"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/1908.08959",
+    "abstract": "Searching for new physics in large data sets needs a balance between two competing effects---signal identification vs background distortion. In this work, we perform a systematic study of both single variable and multivariate jet tagging methods that aim for this balance. The methods preserve the shape of the background distribution by either augmenting the training procedure or the data itself. Multiple quantitative metrics to compare the methods are considered, for tagging 2-, 3-, or 4-prong jets from the QCD background. This is the first study to show that the data augmentation techniques of Planing and PCA based scaling deliver similar performance as the augmented training techniques of Adversarial NN and uBoost, but are both easier to implement and computationally cheaper.",
+    "pos": {
+      "galaxy": [
+        343.174,
+        -10.359,
+        -303.341
+      ],
+      "timeline": [
+        1340.8,
+        -8.414,
+        58.13
+      ],
+      "scale": [
+        990,
+        14.893,
+        68.636
+      ]
+    }
+  },
+  {
+    "id": "2010-05272",
+    "kind": "paper",
+    "name": "IF-Defense: 3D Adversarial Point Cloud Defense via Implicit Function based Restoration",
+    "branch": "relativity",
+    "year": 2020,
+    "influence": 2,
+    "frontier": false,
+    "scaleExp": 18,
+    "arxivId": "2010.05272",
+    "authors": [
+      "Ziyi Wu",
+      "Yueqi Duan",
+      "He Wang",
+      "Qingnan Fan",
+      "Leonidas J. Guibas"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2010.05272",
+    "abstract": "Point cloud is an important 3D data representation widely used in many essential applications. Leveraging deep neural networks, recent works have shown great success in processing 3D point clouds. However, those deep neural networks are vulnerable to various 3D adversarial attacks, which can be summarized as two primary types: point perturbation that affects local point distribution, and surface distortion that causes dramatic changes in geometry. In this paper, we simultaneously address both the aforementioned attacks by learning to restore the clean point clouds from the attacked ones. More specifically, we propose an IF-Defense framework to directly optimize the coordinates of input points with geometry-aware and distribution-aware constraints. The former aims to recover the surface of point cloud through implicit function, while the latter encourages evenly-distributed points. Our experimental results show that IF-Defense achieves the state-of-the-art defense performance against existing 3D adversarial attacks on PointNet, PointNet++, DGCNN, PointConv and RS-CNN. For example, compared with previous methods, IF-Defense presents 20.02% improvement in classification accuracy against salient point dropping attack and 16.29% against LG-GAN attack on PointNet. Our code is available at https://github.com/Wuziyi616/IF-Defense.",
+    "pos": {
+      "galaxy": [
+        383.865,
+        59.006,
+        -379.487
+      ],
+      "timeline": [
+        1344,
+        4.052,
+        65.314
+      ],
+      "scale": [
+        990,
+        -23.92,
+        69.721
+      ]
+    }
+  },
+  {
+    "id": "2306-11554",
+    "kind": "paper",
+    "name": "Radial symmetry and Liouville theorem for master equations",
+    "branch": "relativity",
+    "year": 2023,
+    "influence": 2,
+    "frontier": true,
+    "scaleExp": 18,
+    "arxivId": "2306.11554",
+    "authors": [
+      "Lingwei Ma",
+      "Yahong Guo",
+      "Zhenqiu Zhang"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2306.11554",
+    "abstract": "This paper has two primary objectives. The first one is to demonstrate that the solutions of master equation \\begin{equation*} (\\partial_t-Δ)^s u(x,t) =f(u(x, t)), \\,\\,(x, t)\\in B_1(0)\\times \\mathbb{R}, \\end{equation*} subject to the vanishing exterior condition, are radially symmetric and strictly decreasing with respect to the origin in $B_1(0)$ for any $t\\in \\mathbb{R}$. Another one is to establish the Liouville theorem for homogeneous master equation \\begin{equation*} (\\partial_t-Δ)^s u(x,t)=0 ,\\,\\, \\mbox{in}\\,\\, \\mathbb{R}^n\\times\\mathbb{R}, \\end{equation*} which states that all bounded solutions must be constant. We propose a new methodology for a direct method of moving planes applicable to the fully fractional heat operator $(\\partial_t-Δ)^s$, and the proof of our main results based on this direct method involves the perturbation technique, limit argument as well as Fourier transform. This study opens up a way to investigate the geometric behavior of master equations, and provides valuable insights for establishing qualitative properties of solutions and even for deriving important Liouville theorems for other types of fractional order parabolic equations.",
+    "pos": {
+      "galaxy": [
+        333.087,
+        64.766,
+        -309.688
+      ],
+      "timeline": [
+        1353.6,
+        -9.087,
+        70.073
+      ],
+      "scale": [
+        990,
+        -22.019,
+        61.515
+      ]
+    }
+  },
+  {
+    "id": "2004-06259",
+    "kind": "paper",
+    "name": "Model-based Learning for Quantitative Susceptibility Mapping",
+    "branch": "quantum",
+    "year": 2020,
+    "influence": 2,
+    "frontier": false,
+    "scaleExp": -16,
+    "arxivId": "2004.06259",
+    "authors": [
+      "Juan Liu",
+      "Kevin M. Koch"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2004.06259",
+    "abstract": "Quantitative susceptibility mapping (QSM) is a magnetic resonance imaging (MRI) technique that estimates magnetic susceptibility of tissue from Larmor frequency offset measurements. The generation of QSM requires solving a challenging ill-posed field-to-source inversion problem. Inaccurate field-to-source inversion often causes large susceptibility estimation errors that appear as streaking artifacts in the QSM, especially in massive hemorrhagic regions. Recently, several deep learning (DL) QSM techniques have been proposed and demonstrated impressive performance. Due to the inherent non-existent ground-truth QSM references, these DL techniques used either calculation of susceptibility through multiple orientation sampling (COSMOS) maps or synthetic data for network training. Therefore, they were constrained by the availability and accuracy of COSMOS maps, or suffered from performance drop when the training and testing domains were different. To address these limitations, we present a model-based DL method, denoted as uQSM. Without accessing to QSM labels, uQSM is trained using the well-established physical model. When evaluating on multi-orientation QSM datasets, uQSM achieves higher levels of quantitative accuracy compared to TKD, TV-FANSI, MEDI, and DIP approaches. When qualitatively evaluated on single-orientation datasets, uQSM outperforms other methods and reconstructed high quality QSM.",
+    "pos": {
+      "galaxy": [
+        620.882,
+        -99.833,
+        329.705
+      ],
+      "timeline": [
+        1344,
+        -18.997,
+        187.658
+      ],
+      "scale": [
+        -880,
+        -23.855,
+        200.583
+      ]
+    }
+  },
+  {
+    "id": "2101-09310",
+    "kind": "paper",
+    "name": "Fusion-based quantum computation",
+    "branch": "quantum",
+    "year": 2021,
+    "influence": 2,
+    "frontier": false,
+    "scaleExp": -16,
+    "arxivId": "2101.09310",
+    "authors": [
+      "Sara Bartolucci",
+      "Patrick Birchall",
+      "Hector Bombin",
+      "Hugo Cable",
+      "Chris Dawson",
+      "Mercedes Gimeno-Segovia",
+      "Eric Johnston",
+      "Konrad Kieling",
+      "Naomi Nickerson",
+      "Mihir Pant",
+      "Fernando Pastawski",
+      "Terry Rudolph",
+      "Chris Sparrow"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2101.09310",
+    "abstract": "We introduce fusion-based quantum computing (FBQC) - a model of universal quantum computation in which entangling measurements, called fusions, are performed on the qubits of small constant-sized entangled resource states. We introduce a stabilizer formalism for analyzing fault tolerance and computation in these schemes. This framework naturally captures the error structure that arises in certain physical systems for quantum computing, such as photonics. FBQC can offer significant architectural simplifications, enabling hardware made up of many identical modules, requiring an extremely low depth of operations on each physical qubit and reducing classical processing requirements. We present two pedagogical examples of fault-tolerant schemes constructed in this framework and numerically evaluate their threshold under a hardware agnostic fusion error model including both erasure and Pauli error. We also study an error model of linear optical quantum computing with probabilistic fusion and photon loss. In FBQC the non-determinism of fusion is directly dealt with by the quantum error correction protocol, along with other errors. We find that tailoring the fault-tolerance framework to the physical system allows the scheme to have a higher threshold than schemes reported in literature. We present a ballistic scheme which can tolerate a 10.4% probability of suffering photon loss in each fusion.",
+    "pos": {
+      "galaxy": [
+        589.126,
+        -35.26,
+        293.438
+      ],
+      "timeline": [
+        1347.2,
+        15.732,
+        188.574
+      ],
+      "scale": [
+        -880,
+        -7.734,
+        194.231
+      ]
+    }
+  },
+  {
+    "id": "2204-06130",
+    "kind": "paper",
+    "name": "Impossible Triangle: What's Next for Pre-trained Language Models?",
+    "branch": "quantum",
+    "year": 2022,
+    "influence": 2,
+    "frontier": true,
+    "scaleExp": -16,
+    "arxivId": "2204.06130",
+    "authors": [
+      "Chenguang Zhu",
+      "Michael Zeng"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2204.06130",
+    "abstract": "Recent development of large-scale pre-trained language models (PLM) have significantly improved the capability of models in various NLP tasks, in terms of performance after task-specific fine-tuning and zero-shot / few-shot learning. However, many of such models come with a dauntingly huge size that few institutions can afford to pre-train, fine-tune or even deploy, while moderate-sized models usually lack strong generalized few-shot learning capabilities. In this paper, we first elaborate the current obstacles of using PLM models in terms of the Impossible Triangle: 1) moderate model size, 2) state-of-the-art few-shot learning capability, and 3) state-of-the-art fine-tuning capability. We argue that all existing PLM models lack one or more properties from the Impossible Triangle. To remedy these missing properties of PLMs, various techniques have been proposed, such as knowledge distillation, data augmentation and prompt learning, which inevitably brings additional work to the application of PLMs in real scenarios. We then offer insights into future research directions of PLMs to achieve the Impossible Triangle, and break down the task into several key phases.",
+    "pos": {
+      "galaxy": [
+        573.555,
+        -45.186,
+        384.807
+      ],
+      "timeline": [
+        1350.4,
+        -4.784,
+        191.731
+      ],
+      "scale": [
+        -880,
+        17.777,
+        187.249
+      ]
+    }
+  },
+  {
+    "id": "2310-16595",
+    "kind": "paper",
+    "name": "Encoding impredicative hierarchy of type universes with variables",
+    "branch": "quantum",
+    "year": 2023,
+    "influence": 2,
+    "frontier": true,
+    "scaleExp": -16,
+    "arxivId": "2310.16595",
+    "authors": [
+      "Yoan Géran"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2310.16595",
+    "abstract": "Logical frameworks can be used to translate proofs from a proof system to another one. For this purpose, we should be able to encode the theory of the proof system in the logical framework. The Lambda Pi calculus modulo theory is one of these logical frameworks. Powerful theories such as pure type systems with an infinite hierarchy of universes have been encoded, leading to partial encodings of proof systems such as Coq, Matita or Agda. In order to fully represent systems such as Coq and Lean, we introduce a representation of an infinite universe hierarchy with an impredicative universe and universe variables where universe equivalence is equality, and implement it as a terminating and confluent rewrite system.",
+    "pos": {
+      "galaxy": [
+        647.695,
+        -12.371,
+        295.893
+      ],
+      "timeline": [
+        1353.6,
+        1.766,
+        188.919
+      ],
+      "scale": [
+        -880,
+        17.464,
+        195.783
+      ]
+    }
+  },
+  {
+    "id": "1801-04321",
+    "kind": "paper",
+    "name": "Non-equilibrium electron relaxation in Graphene",
+    "branch": "cosmology",
+    "year": 2018,
+    "influence": 3,
+    "frontier": false,
+    "scaleExp": 26,
+    "arxivId": "1801.04321",
+    "authors": [
+      "Luxmi Rani",
+      "Pankaj Bhalla",
+      "Navinder Singh"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/1801.04321",
+    "abstract": "We apply the powerful method of memory function formalism to investigate non-equilibrium electron relaxation in graphene. Within the premises of Two Temperature Model (TTM), explicit expressions of the imaginary part of the Memory Function or generalized Drude scattering rate ($1/τ$) are obtained. In the DC limit and in equilibrium case where electron temperature ($T_e$) is equal to phonon temperature (T), we reproduce the known results (i.e. $ 1/τ\\propto T^4$ when $T&lt;&lt;Θ_{BG}$ and $1/τ\\propto T$ when $T&gt;&gt;Θ_{BG}$, where $ Θ_{BG}$ is the Bloch-Grüneisen temperature). We report several new results for $1/ τ$ where $T \\neq T_e$ relevant in pump-probe spectroscopic experiments. In the finite frequency regime, we find that $1/τ\\propto ω^2$ when $ω&lt;&lt;ω_{BG}$, and for $ω&gt;&gt;ω_{BG}$ it is $ω$ independent and also electron temperature independent. These results can be verified in a typical pump-probe experimental setting for graphene.",
+    "pos": {
+      "galaxy": [
+        1096.505,
+        137.258,
+        -222.498
+      ],
+      "timeline": [
+        1337.6,
+        -15.471,
+        325.866
+      ],
+      "scale": [
+        1430,
+        12.667,
+        325.938
+      ]
+    }
+  },
+  {
+    "id": "1902-10636",
+    "kind": "paper",
+    "name": "Alleviating the $H_0$ and $σ_8$ anomalies with a decaying dark matter model",
+    "branch": "cosmology",
+    "year": 2019,
+    "influence": 2,
+    "frontier": false,
+    "scaleExp": 26,
+    "arxivId": "1902.10636",
+    "authors": [
+      "Kanhaiya L. Pandey",
+      "Tanvi Karwal",
+      "Subinoy Das"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/1902.10636",
+    "abstract": "The Hubble tension between the $Λ$CDM-model-dependent prediction of the current expansion rate $H_0$ using Planck data and direct, model-independent measurements in the local universe from the SH0ES collaboration disagree at $&gt;3.5σ$. Moreover, there exists a milder $\\sim 2σ$ tension between similar predictions for the amplitude $S_8$ of matter fluctuations and its measurement in the local universe. As explanations relying on unresolved systematics have not been found, theorists have been exploring explanations for these anomalies that modify the cosmological model, altering early-universe-based predictions for these parameters. However, new cosmological models that attempt to resolve one tension often worsen the other. In this paper, we investigate a decaying dark matter (DDM) model as a solution to both tensions simultaneously. Here, a fraction of dark matter density decays into dark radiation. The decay rate $Γ$ is proportional to the Hubble rate $H$ through the constant $α_{\\rm dr}$, the only additional parameter of this model. Then, this model deviates most from $Λ$CDM in the early universe, with $α_{\\rm dr}$ being positively correlated with $H_0$ and negatively with $S_8$. Hence, increasing $α_{\\rm dr}$ (and allowing dark matter to decay in this way) can then diminish both tensions simultaneously. When only considering Planck CMB data and the local SH0ES prior on $H_0$, $\\sim 1$\\% dark matter decays, decreasing the $S_8$ tension to $0.3σ$ and increasing the best-fit $H_0$ by $1.6$ km/s/Mpc. However, the addition of intermediate-redshift data (the JLA supernova dataset and baryon acoustic oscillation data) weakens the effectiveness of this model. Only $\\sim 0.5$\\% of the dark matter decays bringing the $S_8$ tension back up to $\\sim 1.5 σ$ and the increase in the best-fit $H_0$ down to $0.4$ km/s/Mpc.",
+    "pos": {
+      "galaxy": [
+        1186.505,
+        105.903,
+        -296.059
+      ],
+      "timeline": [
+        1340.8,
+        -3.402,
+        324.516
+      ],
+      "scale": [
+        1430,
+        -16.59,
+        321.092
+      ]
+    }
+  },
+  {
+    "id": "2007-14434",
+    "kind": "paper",
+    "name": "A Probabilistic Approach to Growth Networks",
+    "branch": "cosmology",
+    "year": 2020,
+    "influence": 2,
+    "frontier": false,
+    "scaleExp": 26,
+    "arxivId": "2007.14434",
+    "authors": [
+      "Predrag Jelenkovic",
+      "Jane Kondev",
+      "Lishibanya Mohapatra",
+      "Petar Momcilovic"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2007.14434",
+    "abstract": "Widely used closed product-form networks have emerged recently as a primary model of stochastic growth of sub-cellular structures, e.g., cellular filaments. In the baseline model, homogeneous monomers attach and detach stochastically to individual filaments from a common pool of monomers, resulting in seemingly explicit product-form solutions. However, due to the large-scale nature of such networks, computing the partition functions for these solutions is numerically infeasible. To this end, we develop a novel methodology, based on a probabilistic representation of product-form solutions and large-deviations concentration inequalities, that yields explicit expressions for the marginal distributions of filament lengths. The parameters of the derived distributions can be computed from equations involving large-deviations rate functions, often admitting closed-form algebraic expressions. From a methodological perspective, a fundamental feature of our approach is that it provides exact results for order-one probabilities, even though our analysis involves large-deviations rate functions, which characterize only vanishing probabilities on a logarithmic scale.",
+    "pos": {
+      "galaxy": [
+        1143.472,
+        53.391,
+        -240.201
+      ],
+      "timeline": [
+        1344,
+        -1.043,
+        332.244
+      ],
+      "scale": [
+        1430,
+        -10.434,
+        319.681
+      ]
+    }
+  },
+  {
+    "id": "2112-02286",
+    "kind": "paper",
+    "name": "Digging into Axion Physics with (Baby)IAXO",
+    "branch": "cosmology",
+    "year": 2021,
+    "influence": 2,
+    "frontier": false,
+    "scaleExp": 26,
+    "arxivId": "2112.02286",
+    "authors": [
+      "T. Dafni",
+      "J. Galan"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2112.02286",
+    "abstract": "Dark Matter searches have been ongoing for three decades; the lack of a positive discovery of the main candidate, the WIMP, after dedicated efforts, has put axions and axion-like-particles in the spotlight. The three main techniques employed to search for them complement each other well in covering a wide range in the parameter space defined by the axion decay constant and the axion mass. The International AXion Observatory (IAXO) is an international collaboration planning to build the fourth generation axion helioscope, with an unparalleled expected sensitivity and discovery potential. The distinguishing characteristic of IAXO is that it will feature an axion-specific magnet, with a large axion-sensitive cross-section, and will be equipped with x-ray focusing devices and detectors that have been developed for axion physics. In this paper, we review aspects that motivate IAXO and its prototype, BabyIAXO, in the axion and ALPs landscape. As part of this Special Issue, some emphasis is given on the Spanish participation in the project, of which CAPA is a strong promoter",
+    "pos": {
+      "galaxy": [
+        1170.145,
+        129.595,
+        -200.489
+      ],
+      "timeline": [
+        1347.2,
+        -9.27,
+        317.756
+      ],
+      "scale": [
+        1430,
+        18.285,
+        317.023
+      ]
+    }
+  },
+  {
+    "id": "2206-08950",
+    "kind": "paper",
+    "name": "Photoelectric Factor Prediction Using Automated Learning and Uncertainty Quantification",
+    "branch": "cosmology",
+    "year": 2022,
+    "influence": 2,
+    "frontier": true,
+    "scaleExp": 26,
+    "arxivId": "2206.08950",
+    "authors": [
+      "Khalid L. Alsamadony",
+      "Ahmed Farid Ibrahim",
+      "Salaheldin Elkatatny",
+      "Abdulazeez Abdulraheem"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2206.08950",
+    "abstract": "The photoelectric factor (PEF) is an important well logging tool to distinguish between different types of reservoir rocks because PEF measurement is sensitive to elements with high atomic number. Furthermore, the ratio of rock minerals could be determined by combining PEF log with other well logs. However, PEF log could be missing in some cases such as in old well logs and wells drilled with barite-based mud. Therefore, developing models for estimating missing PEF log is essential in those circumstances. In this work, we developed various machine learning models to predict PEF values using the following well logs as inputs: bulk density (RHOB), neutron porosity (NPHI), gamma ray (GR), compressional and shear velocity. The predictions of PEF values using adaptive-network-fuzzy inference system (ANFIS) and artificial neural network (ANN) models have errors of about 16% and 14% average absolute percentage error (AAPE) in the testing dataset, respectively. Thus, a different approach was proposed that is based on the concept of automated machine learning. It works by automatically searching for the optimal model type and optimizes its hyperparameters for the dataset under investigation. This approach selected a Gaussian process regression (GPR) model for accurate estimation of PEF values. The developed GPR model decreases the AAPE of the predicted PEF values in the testing dataset to about 10% AAPE. This error could be further decreased to about 2% by modeling the potential noise in the measurements using the GPR model.",
+    "pos": {
+      "galaxy": [
+        1093.08,
+        120.065,
+        -294.091
+      ],
+      "timeline": [
+        1350.4,
+        20.02,
+        326.574
+      ],
+      "scale": [
+        1430,
+        -15.171,
+        317.858
+      ]
+    }
+  },
+  {
+    "id": "2103-00020",
+    "kind": "paper",
+    "name": "Learning Transferable Visual Models From Natural Language Supervision",
+    "branch": "relativity",
+    "year": 2021,
+    "influence": 2,
+    "frontier": false,
+    "scaleExp": 18,
+    "arxivId": "2103.00020",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "Aditya Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "Ilya Sutskever"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2103.00020",
+    "abstract": "State-of-the-art computer vision systems are trained to predict a fixed set of predetermined object categories. This restricted form of supervision limits their generality and usability since additional labeled data is needed to specify any other visual concept. Learning directly from raw text about images is a promising alternative which leverages a much broader source of supervision. We demonstrate that the simple pre-training task of predicting which caption goes with which image is an efficient and scalable way to learn SOTA image representations from scratch on a dataset of 400 million (image, text) pairs collected from the internet. After pre-training, natural language is used to reference learned visual concepts (or describe new ones) enabling zero-shot transfer of the model to downstream tasks. We study the performance of this approach by benchmarking on over 30 different existing computer vision datasets, spanning tasks such as OCR, action recognition in videos, geo-localization, and many types of fine-grained object classification. The model transfers non-trivially to most tasks and is often competitive with a fully supervised baseline without the need for any dataset specific training. For instance, we match the accuracy of the original ResNet-50 on ImageNet zero-shot without needing to use any of the 1.28 million training examples it was trained on. We release our code and pre-trained model weights at https://github.com/OpenAI/CLIP.",
+    "pos": {
+      "galaxy": [
+        282.04,
+        73.469,
+        -384.243
+      ],
+      "timeline": [
+        1347.2,
+        14.328,
+        67.769
+      ],
+      "scale": [
+        990,
+        4.46,
+        65.893
+      ]
+    }
+  },
+  {
+    "id": "2303-10158",
+    "kind": "paper",
+    "name": "Data-centric Artificial Intelligence: A Survey",
+    "branch": "quantum",
+    "year": 2023,
+    "influence": 2,
+    "frontier": true,
+    "scaleExp": -16,
+    "arxivId": "2303.10158",
+    "authors": [
+      "Daochen Zha",
+      "Zaid Pervaiz Bhat",
+      "Kwei-Herng Lai",
+      "Fan Yang",
+      "Zhimeng Jiang",
+      "Shaochen Zhong",
+      "Xia Hu"
+    ],
+    "venue": "arXiv",
+    "sourceUrl": "https://arxiv.org/abs/2303.10158",
+    "abstract": "Artificial Intelligence (AI) is making a profound impact in almost every domain. A vital enabler of its great success is the availability of abundant and high-quality data for building machine learning models. Recently, the role of data in AI has been significantly magnified, giving rise to the emerging concept of data-centric AI. The attention of researchers and practitioners has gradually shifted from advancing model design to enhancing the quality and quantity of the data. In this survey, we discuss the necessity of data-centric AI, followed by a holistic view of three general data-centric goals (training data development, inference data development, and data maintenance) and the representative methods. We also organize the existing literature from automation and collaboration perspectives, discuss the challenges, and tabulate the benchmarks for various tasks. We believe this is the first comprehensive survey that provides a global view of a spectrum of tasks across various stages of the data lifecycle. We hope it can help the readers efficiently grasp a broad picture of this field, and equip them with the techniques and further research ideas to systematically engineer data for building AI systems. A companion list of data-centric AI resources will be regularly updated on https://github.com/daochenzha/data-centric-AI",
+    "pos": {
+      "galaxy": [
+        529.023,
+        -34.13,
+        301.099
+      ],
+      "timeline": [
+        1353.6,
+        -0.314,
+        187.257
+      ],
+      "scale": [
+        -880,
+        1.909,
+        191.314
+      ]
+    }
+  }
+]

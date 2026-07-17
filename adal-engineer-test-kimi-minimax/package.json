@@ -1,0 +1,22 @@
+{
+  "name": "research-idea-atlas",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Interactive star map of research papers and AI-generated ideas with evidence-grounded novelty scoring",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "validate": "node tools/validate.mjs",
+    "fetch:seeds": "node scripts/fetch-seed-papers.mjs",
+    "postinstall": "node scripts/fetch-seed-papers.mjs"
+  },
+  "dependencies": {
+    "katex": "^0.16.11",
+    "three": "^0.166.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}

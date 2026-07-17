@@ -1,0 +1,25 @@
+{
+  "patterns": [
+    { "id": "bridge-synthesis",         "label": "Bridge synthesis",     "opportunity": "bridge",      "paradigm": "synthesis",       "opportunityBonus": 0.4,  "paradigmBonus": 0.5,  "description": "Connect two distant bodies of work through a shared abstraction or operator." },
+    { "id": "gap-exploit",              "label": "Gap exploitation",     "opportunity": "gap",         "paradigm": "novel-mechanism", "opportunityBonus": 0.7,  "paradigmBonus": 1.0,  "description": "Identify a known unresolved bottleneck and propose a mechanism that closes it." },
+    { "id": "limit-extension",          "label": "Limit extension",      "opportunity": "limit",       "paradigm": "extension",       "opportunityBonus": 0.85, "paradigmBonus": 0.7,  "description": "Extend a method's regime of validity (scale, dimension, distribution) using a principled correction." },
+    { "id": "reframing",                "label": "Reframing",            "opportunity": "reframing",   "paradigm": "novel-mechanism", "opportunityBonus": 1.0,  "paradigmBonus": 1.0,  "description": "Recast a problem in a different mathematical or physical frame that exposes new handles." },
+    { "id": "transfer-cross-domain",    "label": "Cross-domain transfer","opportunity": "gap",         "paradigm": "new-domain",      "opportunityBonus": 0.7,  "paradigmBonus": 0.95, "description": "Move a technique from a distant field (e.g. diffusion to optimisation) and adapt it carefully." },
+    { "id": "instrumental-inversion",   "label": "Instrumental inversion","opportunity":"limit",      "paradigm": "novel-mechanism", "opportunityBonus": 0.85, "paradigmBonus": 1.0,  "description": "Use an instrument or probe in a regime it was not designed for." },
+    { "id": "scale-jump",               "label": "Scale jump",           "opportunity": "limit",       "paradigm": "extension",       "opportunityBonus": 0.85, "paradigmBonus": 0.7,  "description": "Demonstrate that a microscopic or macroscopic principle holds at a drastically different scale." },
+    { "id": "constraint-lift",          "label": "Constraint lift",      "opportunity": "reframing",   "paradigm": "novel-mechanism", "opportunityBonus": 1.0,  "paradigmBonus": 1.0,  "description": "Remove a hidden assumption (smoothness, locality, stationarity) and reformulate without it." },
+    { "id": "adversarial-co-design",    "label": "Adversarial co-design","opportunity": "bridge",      "paradigm": "novel-mechanism", "opportunityBonus": 0.4,  "paradigmBonus": 1.0,  "description": "Co-evolve a model and a stress-test that targets its weaknesses, iterated until convergence." },
+    { "id": "observational-bridge",     "label": "Observational bridge", "opportunity": "gap",         "paradigm": "synthesis",       "opportunityBonus": 0.7,  "paradigmBonus": 0.5,  "description": "Reconcile two observational signals that were previously thought to disagree." },
+    { "id": "energy-regularization",    "label": "Energy regularisation","opportunity": "limit",       "paradigm": "extension",       "opportunityBonus": 0.85, "paradigmBonus": 0.7,  "description": "Introduce a conserved quantity or Lyapunov functional that constrains otherwise unstable dynamics." },
+    { "id": "data-driven-prior",        "label": "Data-driven prior",    "opportunity": "gap",         "paradigm": "new-domain",      "opportunityBonus": 0.7,  "paradigmBonus": 0.95, "description": "Replace an analytic prior with one learned from data, justified by a measured coverage guarantee." },
+    { "id": "spectral-decomposition",   "label": "Spectral decomposition","opportunity":"reframing",   "paradigm": "novel-mechanism", "opportunityBonus": 1.0,  "paradigmBonus": 1.0,  "description": "Re-express a problem in a basis (Fourier, wavelet, Laplace) that decouples interactions." },
+    { "id": "symmetry-augmentation",    "label": "Symmetry augmentation","opportunity":"reframing",   "paradigm": "novel-mechanism", "opportunityBonus": 1.0,  "paradigmBonus": 1.0,  "description": "Add an explicit symmetry (equivariance, conservation law) to a model and exploit it." },
+    { "id": "causal-restructure",       "label": "Causal restructure",   "opportunity": "gap",         "paradigm": "novel-mechanism", "opportunityBonus": 0.7,  "paradigmBonus": 1.0,  "description": "Re-draw the causal graph to expose a previously hidden lever for intervention." }
+  ],
+  "opportunityWeights": { "bridge": 0.4, "gap": 0.7, "limit": 0.85, "reframing": 1.0 },
+  "paradigmWeights":    { "synthesis": 0.5, "extension": 0.7, "novel-mechanism": 1.0, "new-domain": 0.95 },
+  "citations": {
+    "researchStudioIdea":  "arXiv:2607.04439 — ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes (Zhao et al., 2026).",
+    "humanLlmGap":        "arXiv:2607.01233 — Measuring the Gap Between Human and LLM Research Ideas (Chen, Zhao, Cohan, 2026)."
+  }
+}

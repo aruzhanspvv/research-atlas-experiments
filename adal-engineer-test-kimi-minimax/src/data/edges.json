@@ -1,0 +1,344 @@
+[
+  {
+    "from": "1809-09553",
+    "to": "1908-08959",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "1809-09553",
+    "to": "2006-10739",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "1809-09553",
+    "to": "2010-05272",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "1809-09553",
+    "to": "2103-00020",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "1809-09553",
+    "to": "2201-00954",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "1809-09553",
+    "to": "2306-11554",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "1801-04321",
+    "to": "1902-10636",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "1801-04321",
+    "to": "2007-14434",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "1801-04321",
+    "to": "2112-02286",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "1801-04321",
+    "to": "2206-08950",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "1908-08959",
+    "to": "2010-05272",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "1908-08959",
+    "to": "2103-00020",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "1908-08959",
+    "to": "2306-11554",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "1902-10636",
+    "to": "2007-14434",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "1902-10636",
+    "to": "2112-02286",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "1902-10636",
+    "to": "2206-08950",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2006-10739",
+    "to": "2010-05272",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2006-10739",
+    "to": "2103-00020",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2006-10739",
+    "to": "2201-00954",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2006-10739",
+    "to": "2306-11554",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2010-01639",
+    "to": "2010-05272",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2010-01639",
+    "to": "2102-12010",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2010-01639",
+    "to": "2103-00020",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2010-01639",
+    "to": "2208-12523",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2010-01639",
+    "to": "2306-11554",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2003-04654",
+    "to": "2105-04663",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2003-04654",
+    "to": "2201-00954",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2003-04654",
+    "to": "2304-01267",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2010-05272",
+    "to": "2103-00020",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2010-05272",
+    "to": "2306-11554",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2004-06259",
+    "to": "2007-14434",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2004-06259",
+    "to": "2101-09310",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2004-06259",
+    "to": "2112-02286",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2004-06259",
+    "to": "2204-06130",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2004-06259",
+    "to": "2206-08950",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2004-06259",
+    "to": "2310-16595",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2004-06259",
+    "to": "2303-10158",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2007-14434",
+    "to": "2112-02286",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2007-14434",
+    "to": "2206-08950",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2102-12010",
+    "to": "2103-00020",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2102-12010",
+    "to": "2208-12523",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2102-12010",
+    "to": "2306-11554",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2105-04663",
+    "to": "2201-00954",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2105-04663",
+    "to": "2304-01267",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2101-09310",
+    "to": "2112-02286",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2101-09310",
+    "to": "2204-06130",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2101-09310",
+    "to": "2206-08950",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2101-09310",
+    "to": "2310-16595",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2101-09310",
+    "to": "2303-10158",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2112-02286",
+    "to": "2206-08950",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2103-00020",
+    "to": "2306-11554",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2201-00954",
+    "to": "2306-11554",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2208-12523",
+    "to": "2306-11554",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2204-06130",
+    "to": "2206-08950",
+    "type": "inspiration",
+    "weight": 0.4
+  },
+  {
+    "from": "2204-06130",
+    "to": "2310-16595",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2204-06130",
+    "to": "2303-10158",
+    "type": "derivation",
+    "weight": 0.55
+  },
+  {
+    "from": "2310-16595",
+    "to": "2303-10158",
+    "type": "derivation",
+    "weight": 0.55
+  }
+]
